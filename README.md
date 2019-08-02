@@ -1,5 +1,5 @@
 # PreservingAlbania project
-Microsite about the architectural buildings of Tirana that have been forgoten.
+PreservingAlbania is a platform website that intends to document the traditional albanian architecture in some of the main, most important cities and villages of Albania.
 
 ## Update data
 At the moment the project fetches data from https://github.com/OpenLabsHackerspace/libocon-events project which I am using the codebase from.
