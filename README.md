@@ -11,8 +11,6 @@ Run ```./fetchdata.sh``` to download the GeoJSON file from [here](https://umap.o
 Feel free to make a PR in case you have any contributions. By making a PR you accept licensing your changes under [AGPL-3.0](#license).
 
 
-![](/img/bitcoinqr.jpg)
-
 ## License
 
 This project website codebase is licensed under [AGPL-3.0](LICENSE) by [Bernhard Hayden](https://nini.su).
