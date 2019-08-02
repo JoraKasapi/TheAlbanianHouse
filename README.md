@@ -14,3 +14,5 @@ Feel free to make a PR in case you have any contributions. By making a PR you ac
 ## License
 
 This project website codebase is licensed under [AGPL-3.0](LICENSE) by [Bernhard Hayden](https://nini.su).
+
+Website texts and logo publsihed under a Creative Commons Attribution 4.0 International license. For more info visit [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/)
