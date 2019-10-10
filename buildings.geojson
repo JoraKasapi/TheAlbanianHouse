@@ -72,11 +72,65 @@
                 41.328533
                ]
              }
-           }
+           },
+           {
+                "type": "Feature",
+                "properties": {
+                  "name": "Ethnographic Museum of Kavaja",
+                  "description": "This museum is one of the most characteristic buildings of the city and belongs to the typology of houses with 'çardak'. It was built in the 'Skuraj' neighborhood of Kavaja. This house was built by the family of Arkaxhinjve, from the beginning of the XVIII and late XIX century and is a first category Monument. On the inside there are exposed characteristic clothing and objects of various periods, the Illyrian period, the Early Middle Ages 1400- 1600, Renaissance 1831-1912, Independence 1912-1939 and Socialism 1945-1990.",
+                  "linked": "",
+                  "image": "",
+                  "large": "",
+                  "exists": ""
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                   41.18036,
+                   19.55565
+                  ]
+                }
+              },
+              {
+                   "type": "Feature",
+                   "properties": {
+                     "name": "House 'Haxhi Myftari'",
+                     "description": "This house was built in the beginning of the 19th century and is located in the neighborhood 4 on 'Fehla Karaboja' street. It was declared  second category Monument in 2006.",
+                     "linked": "",
+                     "image": "",
+                     "large": "",
+                     "exists": ""
+                   },
+                   "geometry": {
+                     "type": "Point",
+                     "coordinates": [
+                      41.18252,
+                      19.56322
+                     ]
+                   }
+                 },
+                 {
+                      "type": "Feature",
+                      "properties": {
+                        "name": "House 'Man Kashamit'",
+                        "description": "The house belongs to the beginning of the XX century. It is a two rstorey house located in city centre along the 'Fehla Karaboja' street. This house is declared second category Monument.",
+                        "linked": "",
+                        "image": "",
+                        "large": "",
+                        "exists": ""
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                        41.18266,
+                        19.56312
+                        ]
+                      }
+                    }
 
 
 
-  
+
 
   ]
 }
