@@ -2,7 +2,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  font-family: 'Helvetica Neue', 'Nimbus Sans', Arial, sans-serif;
+  font-family: 'Rubik', sans-serif;
   width: 100vw;
   height: 100vh;
   margin: 0;
@@ -10,12 +10,15 @@ body {
   display: flex;
 
 }
-h1, h2, h3, p {
+h6{
+  font-size: 22px;
+}
+h1, h2, h3, p, h6 {
   margin: 0;
 }
 .map-container {
   flex: 2;
-  border: 0.35rem solid #24625C;
+  border: 0.35rem solid #84684B;
 }
 #map {
   height: 100%;
@@ -36,7 +39,7 @@ h1, h2, h3, p {
   color: #e03131;
 }
 .leaflet-popup-content-wrapper {
-  border: 0.3rem #24625C solid;
+  border: 0.3rem #84684B solid;
   border-radius: 0;
 }
 .leaflet-popup-content-wrapper .leaflet-popup-content {
@@ -52,7 +55,7 @@ h1, h2, h3, p {
   display: none;
 }
 .leaflet-popup-close-button {
-  color: #24625C !important;
+  color: #84684B !important;
 }
 .leaflet-popup-close-button:hover {
   opacity: 0.5;
@@ -62,6 +65,7 @@ h1, h2, h3, p {
   padding: 1rem;
   max-height: 100%;
   overflow-y: scroll;
+  background-color: #D1DBD7;
 }
 .event-item {
   border: 0.25rem #000 solid;
@@ -76,7 +80,7 @@ h1, h2, h3, p {
   display: inline-block;
   font-weight: bold;
   text-decoration: none;
-  color: #24625C;
+  color: #84684B;
 }
 a:hover {
  color: grey;

@@ -7,14 +7,15 @@
   <meta property="og:image" content="img/buildings.png" />
   <meta property="og:title" content="Map of the neglected buildings of Tirana " />
   <meta property="og:url" content="http://jorakasapi.com/LostTirana" />
-  <title>PreservingTirana</title>
-  <link rel="icon" type="image/png" href="img/preserving_tirana_logo-01.png" />
+  <title>TheAlbanianHouse</title>
+  <link rel="icon" type="image/png" href="img/favicon-01.png" />
   <link rel="stylesheet" href="css/leaflet.css" />
   <link rel="stylesheet" href="css/style.css" />
   <script src="js/leaflet-src.js"></script>
   <script src="js/leaflet-providers.js"></script>
   <script src="js/leaflet-omnivore.min.js"></script>
   <script src="js/top.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -23,8 +24,8 @@
   </div>
   <div class="info-container">
     <div>
-      <img class="logo" src="img/preserving_tirana_logo.png" />
-      <h2>'Undesired' Buildings of Albania</h2>
+      <img class="logo" src="img/logo_thealbanianhouse.png" />
+      <h6>The Albanian House</h6>
       <p>Map of the neglected buildings of Albania</p>
       <br>
       <p>Read about the background of this project through the articles and links (in Albanian) below:</p>
@@ -46,8 +47,8 @@ var map = L.map('map').setView([41.344,19.696], 8);
 L.tileLayer.provider('CartoDB.Positron').addTo(map);
 
 var GreenIcon = L.icon({
-  iconUrl: 'img/map-icon.svg',
-  iconRetinaUrl: 'img/map-icon.svg',
+  iconUrl: 'img/map_icon.png',
+  iconRetinaUrl: 'img/map_icon.png',
   iconSize: [28, 28]
 });
 
@@ -100,9 +101,11 @@ var eventsLayer = omnivore.geojson('buildings.geojson')
     eventslist.forEach(element => {
     element.style.border = "0.25rem #000 solid";
     element.style.color="#000";
+    element.style.backgroundColor="#D1DBD7";
     });
-    document.getElementById(`${title}`).style.border="0.5rem #24625C solid";
-    document.getElementById(`${title}`).style.color="#24625C";
+    document.getElementById(`${title}`).style.border="0.5rem #D1DBD7 solid";
+    document.getElementById(`${title}`).style.color="#fff";
+    document.getElementById(`${title}`).style.backgroundColor= "#84684B";
     window.location.href = `#${title}`;
     }
 
