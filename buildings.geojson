@@ -274,8 +274,26 @@
                              41.31465
                             ]
                           }
-                        }
+                        },
 
+                        {
+                             "type": "Feature",
+                             "properties": {
+                               "name": "Mic Sokoli tower-house",
+                               "description": "",
+                               "linked": "More photos of the Mic Sokoli tower-house\nhttps://commons.wikimedia.org/wiki/Category:The_tower_of_Mic_Sokoli_(Kulla)",
+                               "image": "foto_ndertesash/small/Tropoje/Mic_Sokoli_tower_house.jpg",
+                               "large": "foto_ndertesash/Tropoje/Mic_Sokoli_tower_house.jpg",
+                               "exists": ""
+                       },
+                             "geometry": {
+                               "type": "Point",
+                               "coordinates": [
+                                20.07209,
+                                42.32439
+                               ]
+                             }
+                           
 
 
   ]
