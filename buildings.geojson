@@ -280,7 +280,7 @@
                              "type": "Feature",
                              "properties": {
                                "name": "Mic Sokoli tower-house",
-                               "description": " ",
+                               "description": "Located in the village of Bujan, this house was proclaimed a monument on January 8, 1977. The house is of the 'fortified' typology typical of the area of Gjakova with many other features of this typology. This house is organized on three floors where the ground floor is not for living but in the service of livestock also known as 'ahri', while the first floor is In the village of Bujan, in the south-eastern part district of Tropoja, on a high ground rises the 'Tower of Mic Sokolit'. The collapsed walls of the tower, hit many times by the cannons of the foreign invaders, are evidence of the people's resistance and struggle to protect their lands. It is not known exactly when this tower was built, but it is thought about at the end of the 18th century. In addition to the historical value of the figure it relates to, it is of particular importance for the house-typology it represents in the highlands of Gjakova. As a result of a fire in 1945, it has been massively destroyed, losing its floors and roof structure. The tower is made out of three storeys and has a rectangular plan with right angles. The composition scheme of space distribution is as follows: on the ground floor there is' ahri ', on the first-floor women's room, preceded by a hallway, and on the second floor 'divanhania' and the 'guest room'. The connection of all these spaces is realized with wooden stairs inside and outside. 'Ahri' served as a shelter for livestock and horses and had a protective function as one of the safest spaces in all dwellings of this typology. At the perimeter of the tower, there are from one to two 'frengjij' in small dimensions, on each site providing minimal ventilation and illumination, which makes the tower safer. The door is on the north side and is covered with arches. The door is secured from the inside with a wooden beam called 'drang' which is inserted into the open hole in the right part of the masonry wall. <br/>The ground floor of the tower consisted of a single room, the women's room (soba e grave) or 'fire chamber'(oda e zjarrit), the entrance to which was secured by a door on its western side with a single exterior ramp-staircase. Conclusions derived from some traces left on the masonry before restoration. The door, like that in the 'ahri', was covered with a stone-made arch, this one wood-panel door, also secured with the 'drang' element. From the vertical footprint of a column, on the east side of the wall, was deduced and assumed that there was the beginning of a wooden skeleton partition of the women's room with a corridor leading to the sanitary unit. Regarding the women's room environment, it was illuminated and ventilated through some small windows, arched outwards and next to them on each side of this room were 2-3 'frengjij'. On the south side of the Tower are found traces of a chimney, thought to be of a 'tambur' type, with a rectangular, right-angle section. <br />The second floor of the tower: This floor is also the most damaged but due to the importance of careful reading of the footprints, it has been possible to reconstruct the floor layout. This floor contained in its interior the 'guest room' which was preceded by another space 'divanhania', on a smaller surface than the 'guest room' and separated from it, and an interconnected corridor through the 'dyshekllek ' (structure with vertical columns of wood blinded with thick wooden planks). The wooden stairs on the 'divanhane' connects this floor to the 1st floor. The interconnecting corridor of these two spaces leads to the sanitary unit in the eastern part. The perimeter walls on this floor, as in the other two, are limestone masonry walls. The upper-floor restoration was even more difficult as only two walls had resisted.<br/>This building was of double importance for restoration, both historically, as the birthplace of the hero Mic Sokoli, and from the typological point of view of the tower-houses of this area, but at the same time it was very difficult to restore and to decide to restore it since a considerate amount of the object's elements were missing and demolished. The way it was dealt with, was that first consolidation actions were made on the existing walls and also the rebuilding of parts of the tower for which there were traces of their existence. Their reconstruction increased the stability of the existing structure, as with the re-creation of the 'dyshekllek'. The use of typological analogies with other elements of this type of house from the region did not allow for error. Outdoor wooden stairs, horse 'ahri', and the entire interior with lime plaster were also recreated. The 'dyshekllek' was realized as it was always made with oak wood with 8cm timber and more open windows. The roof is made of 'stropil' type and covered with 'furde' (wooden planks) and its bottoms are rounded. The volumetry of the tower represents a prismatic body made of stone and wooden elements, covered with a four-direction inclination wooden roof. The tower was restored within the framework of the 100th anniversary of 'Lidhja Prizrenit', and after its restoration, it became a museum-house about the life and activity of Mic Sokoli.",
                                "linked": "More photos of the Mic Sokoli tower-house\nhttps://commons.wikimedia.org/wiki/Category:The_tower_of_Mic_Sokoli_(Kulla)",
                                "image": "foto_ndertesash/small/Tropoje/Mic_Sokoli_tower_house.jpg",
                                "large": "foto_ndertesash/Tropoje/Mic_Sokoli_tower_house.jpg",
@@ -293,7 +293,97 @@
                                 42.32439
                                ]
                              }
-                           }
+                           },
+                           {
+                                "type": "Feature",
+                                "properties": {
+                                  "name": "The tower-house of Nikoll Zef Koçeku (The Isolation tower)",
+                                  "description": "This tower represents a first category Monument and it's located on 'Kolaj' neighborhood, Grunas, being one of the main attractions for tourists. It is known also as "Kulla e ngujimit"(Isolation tower) and it belongs to "Koçeku" family. It is known so, because of its function in the past. The space used to isolate a person who had committed a crime, waiting for the reconciliation through the intervention of the group of wise and old men of the village. In terms of volume and architecture, it represents a typical and simple example, of a tower-house of this province of Albania, fortified with massive stone walls, each facade very closed in the outside, with the exception of a few small openings also known as ''frengjij''. The structure indicates the protective character of this house. The entrance gate is embedded with arched stone cover and all of its groundfloors is build upon a rock, still visible, element that shows this strong respect and connection of this architecture with the context, with nature.",
+                                  "linked": "More photos of the tower-house\nhttps://commons.wikimedia.org/wiki/Category:Kulla_(Theth)",
+                                  "image": "foto_ndertesash/small/Theth/The_tower_house_of_Nikoll_Zef_Koceku.jpg",
+                                  "large": "foto_ndertesash/Theth/The_tower_house_of_Nikoll_Zef_Koceku.jpg",
+                                  "exists": ""
+                          },
+                                "geometry": {
+                                  "type": "Point",
+                                  "coordinates": [
+                                   19.78249,
+                                   42.38561
+                                  ]
+                                }
+                              },
+                              {
+                                   "type": "Feature",
+                                   "properties": {
+                                     "name": "The tower-house of Lulash Keci (Ethnographic Museum of Dukagjin)",
+                                     "description": "This house is today the Ethnographic Museum of Dukagjin and a first category Monument also. It is built on a steep cliff, 9m high and it stands connected in a very organic way with the terrain, looking like a further extension of it. This tower-house has a horizontal extension with a surface around 87m2. Its ground floor was used to accommodate the livestock, so it is slightly lower as a floor with the main entrance, on its main facade. A specific characteristic of this house is the entrance to the second living floor, through a covered staircase made of stone, creating, therefore, a sort of covered protected entrance, that at its higher level is open to the view of the surrounding mountains. The upper floor has two main rooms, one where the main family used to live and the other one, organized on a higher level is the 'guest room', containing a hearth also, wooden pavement and wooden ceiling. Being a tower-house, it doesn't have many openings and windows so two of its facades are completely closed and on one of its corners, a 'frengjij'(small openings on a masonry wall, realized for enemy protection reasons) can be noticed, since it stands out in volumetry.",
+                                     "linked": "More photos of the museum\nhttps://commons.wikimedia.org/wiki/Category:The_tower-house_of_Lulash_Keci_(Ethnographic_Museum_of_Dukagjin)",
+                                     "image": "foto_ndertesash/small/Theth/Ethnographic_Museum_of_Theth.jpg",
+                                     "large": "foto_ndertesash/Theth/Ethnographic_Museum_of_Theth.jpg",
+                                     "exists": ""
+                             },
+                                   "geometry": {
+                                     "type": "Point",
+                                     "coordinates": [
+                                      19.78520,
+                                      42.38734
+                                     ]
+                                   }
+                                 },
+                                 {
+                                      "type": "Feature",
+                                      "properties": {
+                                        "name": "House 'Nik Ndue Rupa'",
+                                        "description": "This house belonged to three brothers and after was inherited by two of them and their uncle. As a result of having several heirs and because of a failure to reach an agreement between them, the house today is in a very dilapidated state, where the roof is missing and the ceilings have drastically fallen. Until 2-3 years ago it still possessed the roof. The house was once a cultural monument and habitable until 1992, after which its inhabitants migrated to Shkoder. The building is a typical tower-type house, constructed with massive stone walls, where the stones on the corners are treated with decorative stone. It is also treated with typical small openings, windows.",
+                                        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Nik_Ndue_Rupa%27",
+                                        "image": "foto_ndertesash/small/Theth/House_Nik_Ndue_Rupa.jpg",
+                                        "large": "foto_ndertesash/Theth/House_Nik_Ndue_Rupa.jpg",
+                                        "exists": ""
+                                },
+                                      "geometry": {
+                                        "type": "Point",
+                                        "coordinates": [
+                                         19.77988,
+                                         42.39151
+                                        ]
+                                      }
+                                    },
+                                    {
+                                         "type": "Feature",
+                                         "properties": {
+                                           "name": "House  'Gjergj Suka'",
+                                           "description": "Located in the 'Grunas' neighborhood, it is believed to have been built around 200 years before. Today it is owned by 'Gjergj Suka' but it was built and the original owner was 'Nik Çuni'. It was inherited by three brothers later and about 35 years ago, it was massively burned and massively changed from the earthquake. The house has no protection plaster, so the stone masonry is visible and its floor has been demolished, also the roof made with wooden planks, replaced with asbestos.",
+                                           "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Gjergj_Suka",
+                                           "image": "foto_ndertesash/small/Theth/House_Gjergj_Suka.jpg",
+                                           "large": "foto_ndertesash/Theth/House_Gjergj_Suka.jpg",
+                                           "exists": ""
+                                   },
+                                         "geometry": {
+                                           "type": "Point",
+                                           "coordinates": [
+                                            19.78788,
+                                            42.38093
+                                           ]
+                                         }
+                                       },
+                                       {
+                                            "type": "Feature",
+                                            "properties": {
+                                              "name": "House 'Shuk Lamthi'",
+                                              "description": "Situated in the 'Grunas' neighborhood, right in front of House 'Gjergj Suka', this house represents one of the houses built as part of a typical, northern, Albanian house ensemble. There lived two families, who later migrated and currently, for more than 20 years the house stands completely deserted. The two facades of this house contain anthropometric features, a sign that shows their human character.",
+                                              "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Shuk_Lamthi%27",
+                                              "image": "foto_ndertesash/Theth/House_Shuk_Lamthi.jpg",
+                                              "large": "foto_ndertesash/Theth/House_Shuk_Lamthi.jpg",
+                                              "exists": ""
+                                      },
+                                            "geometry": {
+                                              "type": "Point",
+                                              "coordinates": [
+                                               19.78788,
+                                               42.38093
+                                              ]
+                                            }
+                                          }
 
 
 
