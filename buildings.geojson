@@ -150,7 +150,7 @@
                  "properties": {
                    "name": "House on 'Indrit Cara' promenade",
                    "description": "This house is situated very close to the city center and one of the main promenade of the city. it is organized in three floors, symmetric volumetry and each one of the floor facades are similar to the other, except from the last floor that ends up in a decorative balustrade that gives the idea of having a usable roof in the aesthetic representation of the crown of a building. Incised on it is 1920 which is the year when the house is believed to have been built.",
-                   "linked": "More photos of Indrit Cara promenade\nhttps://commons.wikimedia.org/wiki/Category:Cultural_heritage_monuments_in_Kavaj%C3%AB",
+                   "linked": "More photos of Indrit Cara promenade\nhttps://commons.wikimedia.org/wiki/Category:House_on_%27Indrit_Cara%27_promenade",
                    "image": "foto_ndertesash/small/Kavaje/House_on_Indrit_Cara_promenade.jpg",
                    "large": "foto_ndertesash/Kavaje/House_on_Indrit_Cara_promenade.jpg",
                    "exists": ""
@@ -297,9 +297,27 @@
                            {
                                 "type": "Feature",
                                 "properties": {
+                                  "name": "House Sali Mani",
+                                  "description": "Located in the village of Bujan, this house was proclaimed a monument on January 8, 1977. The house is of the 'fortified' typology typical of the area of Gjakova with many other features of this typology. This house is organized on three floors where the ground floor is not for living but in the service of  livestock also known as 'ahri', while the first floor is accessed through an external stone staircase and a main wooden gate covered with arched stone. The first floor is the women's room also known as 'oda e grave' while the second floor is the room for friends (guests) and men also known as 'oda e miqve'. The volumetry is very clean with stone masonry and lime mortar, based on  a quadratic plan. In the volume, there are some small windows with  upper arched stones part and many small openings also known as 'frengji', which break the continuity of the masonry. This tower is thought to have been built during the late 18th century and is where the 'Conference of Bujan' took place, also on 30th of December 1943 in this house the 'National-Liberation Council for Kosovo' was created. Bajram Curri, left from this house on January 11th, 1925 towards the Alps where he remained until his heroic fall on March 29th, 1925 in the Mountains of Dragobi.",
+                                  "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Mani_Kulla_(Bujan)",
+                                  "image": "foto_ndertesash/small/Tropoje/House_Sali_Mani.jpg",
+                                  "large": "foto_ndertesash/Tropoje/House_Sali_Mani.jpg",
+                                  "exists": ""
+                          },
+                                "geometry": {
+                                  "type": "Point",
+                                  "coordinates": [
+                                   20.072222,
+                                   42.324167
+                                  ]
+                                }
+                              },
+                           {
+                                "type": "Feature",
+                                "properties": {
                                   "name": "The tower-house of Nikoll Zef Koçeku (The Isolation tower)",
                                   "description": "This tower represents a first category Monument and it's located on 'Kolaj' neighborhood, Grunas, being one of the main attractions for tourists. It is known also as 'Kulla e ngujimit' (Isolation tower) and it belongs to 'Koçeku' family. It is known so, because of its function in the past. The space used to isolate a person who had committed a crime, waiting for the reconciliation through the intervention of the group of wise and old men of the village. In terms of volume and architecture, it represents a typical and simple example, of a tower-house of this province of Albania, fortified with massive stone walls, each facade very closed in the outside, with the exception of a few small openings also known as ''frengjij''. The structure indicates the protective character of this house. The entrance gate is embedded with arched stone cover and all of its groundfloors is build upon a rock, still visible, element that shows this strong respect and connection of this architecture with the context, with nature.",
-                                  "linked": "More photos of the tower-house\nhttps://commons.wikimedia.org/wiki/Category:Kulla_(Theth)",
+                                  "linked": "More photos of the tower-house\nhttps://commons.wikimedia.org/wiki/Category:The_tower-house_of_Nikoll_Zef_Ko%C3%A7eku_(The_Isolation_tower)",
                                   "image": "foto_ndertesash/small/Theth/The_tower_house_of_Nikoll_Zef_Koceku.jpg",
                                   "large": "foto_ndertesash/Theth/The_tower_house_of_Nikoll_Zef_Koceku.jpg",
                                   "exists": ""
@@ -372,7 +390,7 @@
                                               "name": "House 'Shuk Lamthi'",
                                               "description": "Situated in the 'Grunas' neighborhood, right in front of House 'Gjergj Suka', this house represents one of the houses built as part of a typical, northern, Albanian house ensemble. There lived two families, who later migrated and currently, for more than 20 years the house stands completely deserted. The two facades of this house contain anthropometric features, a sign that shows their human character.",
                                               "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Shuk_Lamthi%27",
-                                              "image": "foto_ndertesash/Theth/House_Shuk_Lamthi.jpg",
+                                              "image": "foto_ndertesash/small/Theth/House_Shuk_Lamthi.jpg",
                                               "large": "foto_ndertesash/Theth/House_Shuk_Lamthi.jpg",
                                               "exists": ""
                                       },
@@ -383,7 +401,169 @@
                                                42.38093
                                               ]
                                             }
-                                          }
+                                          },
+                                          {
+                                               "type": "Feature",
+                                               "properties": {
+                                                 "name": "Dervish Ali Towers (Residential complex)",
+                                                 "description": "In a dominant plot of land in the center of the upper neighborhood in Dukat, stands a large ensemble of buildings known by residents as the 'Dervish Ali' Tower. This house is a rare case-study in the architecture of rural houses typology, where we find organically united, separate housing units with different functions, creating a large complex. The complex is the result of several stages of construction. On the plan, it creates a more or less enclosed contour in the shape of a triangle, where on the three peaks rise the three main interconnected constructions, according to two sides with other constructions, while the third side forms the surrounding wall. The house was covered with a two-inclination roof. One of the towers (no. 2) presents a special solution because its volume rises over a village road and the passage is made through a tunnel running along the volume, covered with cylindrical archway. The tower rises as a prismatic volume. The plan has the shape of a square. The volume is broken by a small number of windows as well as many small openings, also known as 'frëngji'. The entrance to the tower is on the back. Upon entry, we have a wooden structure that creates a preface. Here we have the sanitary unit. On the opposite side we have a wooden staircase that leads to the upper floors and in front of the entrance is the fireplace. This tower was used during Communism, as a Museum. Next to tower 2 we have house 1 which is also triangular but with a higher elevation. The ground floor is covered with a cylindrical archway. The first floor has access to the other side of the house. Space is dark and receives light from two small windows in the form of (frëngji). There's a wooden staircase that leads to the upper floor where there is a fireplace, a console-shaped water basin as well as numerous openings (frengjij). House 3 is composed of two rooms, the ground floor and the living areas with the same extension but with separate entrance. House 4 has a great resemblance to house 3. It is composed of two volumes, the ground floor and the upper floor. A partly stone, partly wooden staircase, provides the interconnection. House 5 is formed by open volumes, 'hajati' and 'cardak'. The first has a three-arched collonade on the front, while the second has a lighter arcade with five arches. The ensemble of these towers is striking and homogeneous. The unity and uniqueness of the work have been masterfully achieved eve though not well-preserved at all. The enclosed volumes combined with open construction have been treated with basic architectural elements, thereby emphasizing the mass of stone masonry that gives  the ensemble a stoic and unique appearance.",
+                                                 "linked": "More photos of the towers\nhttps://commons.wikimedia.org/wiki/Category:Dervish_Ali_Towers_(residential_complex)",
+                                                 "image": "foto_ndertesash/small/Vuno-Dukat/Dervish_Ali_towers.jpg",
+                                                 "large": "foto_ndertesash/Vuno-Dukat/Dervish_Ali_towers.jpg",
+                                                 "exists": ""
+                                         },
+                                               "geometry": {
+                                                 "type": "Point",
+                                                 "coordinates": [
+                                                  19.568495,
+                                                  40.251432
+                                                 ]
+                                               }
+                                             },
+                                             {
+                                                  "type": "Feature",
+                                                  "properties": {
+                                                    "name": "'Qamil Haskoj' House",
+                                                    "description": "Until the 2000s the house was inhabited by family 'Haskoj'. It is thought to have been built with craftsmen from Korca. The stairs and windows of the ground floor have been rebuilt in Communism. Despite its very deteriorated conditions today, you can still notice elements from its interior like decorated 'musendra' with gold color that show also a certain family status in the village, not being quite common this level of detail. The house was inhabited by two brothers, therefor it had two different entrances according to the part of the house they were using. Cooking was provided through a divided unit, serving as an outdoor kitchen, close to one of the families entrances. The house was also surrounded by high stone-walls with a main entrance gate. Dukat as a village is known for its development and importance that they gave to farming and the care for the livestock. It is believed, they used to have around 120 000 cattle, therefore every house in Dukat had its ground-floor serving as a 'katua'(space for the livestock).",
+                                                    "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Qamil_Haskoj_(Dukat)",
+                                                    "image": "foto_ndertesash/small/Vuno-Dukat/House_Qamil_Haskoj.jpg",
+                                                    "large": "foto_ndertesash/Vuno-Dukat/House_Qamil_Haskoj.jpg",
+                                                    "exists": ""
+                                            },
+                                                  "geometry": {
+                                                    "type": "Point",
+                                                    "coordinates": [
+                                                     19.568696,
+                                                     40.253072
+                                                    ]
+                                                  }
+                                                },
+                                                {
+                                                     "type": "Feature",
+                                                     "properties": {
+                                                       "name": "House of 'Shane Kote' with tower ",
+                                                       "description": "The 'fortified' houses of Laberia are divided into two categories, houses with tower and the Tower. The case of the house in question represents a very special example of 'the house with tower' not only for the village of Vuno but for all the villages in Laberi. It is known as the 'Shane Kota' house and is located in the lower part of the village. It consists of a tower and a typical house with storeys. The tower represents a massive prismatic volume, which rises from a square layout that is slightly different from the top floor containing several windows more than the lower ones, which are more enclosed. While the rest is massive masonry linked with lime mortar, which opens up slightly through some small openings, also known as 'frengji'. This typology was highly preferred by representatives of the wealthy society as well as military personalities, who preferred it as being a safer construction. The tower was organized in three floors, where the ground floor with separate entrance was not designated for living, while the intermediate floor was accessed by external stone stairs. The intermediate floor with the top floor of the tower were connected by internal stairs. The tower has a four-inclinations roof, while the house has a roof with two inclinations. The roof is covered with rounded clay tiles. The complex has clarity and dynamism in the composition. The portions of the entrance gates and some of the corners of the masonry are treated with very interesting decorative stone elements.",
+                                                       "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Shane_Kote",
+                                                       "image": "foto_ndertesash/small/Vuno-Dukat/House_Shane_Kote_with_tower.jpg",
+                                                       "large": "foto_ndertesash/Vuno-Dukat/House_Shane_Kote_with_tower.jpg",
+                                                       "exists": ""
+                                               },
+                                                     "geometry": {
+                                                       "type": "Point",
+                                                       "coordinates": [
+                                                        19.694299,
+                                                        40.139359
+                                                       ]
+                                                     }
+                                                   },
+                                                   {
+                                                        "type": "Feature",
+                                                        "properties": {
+                                                          "name": "House 'Kristo Koka'",
+                                                          "description": "From the remains left today, we can see that this house was organized on two floors. Constructed with masonry, made out of stone bound with lime mortar. On the ground floor, there are arched porches, which are also framed with stones. The windows are medium-sized, quadratic with orthogonal angles, decorated with a stone-frame. The interior stairs are of stone as well. You can notice that the house was built on sloping terrain and this has created the situation and need for a semi-floor. It is believed to belong, to the period of 1700-1800 as there is no actual precise data on this house",
+                                                          "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Kristo_Koka_House",
+                                                          "image": "foto_ndertesash/small/Vuno-Dukat/House_Kristo_Koka.jpg",
+                                                          "large": "foto_ndertesash/Vuno-Dukat/House_Kristo_Koka.jpg",
+                                                          "exists": ""
+                                                  },
+                                                        "geometry": {
+                                                          "type": "Point",
+                                                          "coordinates": [
+                                                           19.695040,
+                                                           40.141542
+                                                          ]
+                                                        }
+                                                      },
+                                                      {
+                                                           "type": "Feature",
+                                                           "properties": {
+                                                             "name": " House 'Dhimiter Anagnosti'",
+                                                             "description": "This house is made of stones and it belongs to the movie-director Dhimiter Anagnosti. Around 1933 it was a girls' boarding school. It is believed to have been built in 1870. It is a characteristic residence of the sea-coast area, from the new types of the second half of the 19th century. It is a house organized in two equal floors between them with windows of the same size since both ground floor and the first floor were used for living not as 'livestock space' known as 'katoj' as it happened usually in Vuno. The house is symmetrical, distinctive element of this type on its first floor is the erection of a balcony in the central- block of the facade. The main facade facing south and the main entrance to the house are made by a spacious entrance, on the side of the masonry surrounding walls of the house. The entrance gate is made out of decorative wooden panels and with an arched-stone architrave. The entire masonry of the house is made of limestone taken from the quarries of the area and linked by lime mortar, the windows have a stone decorative framing all around them as well as the facade has a characteristic treatment that has been degraded over the years. The main façade is treated with fine plaster, one-round lime work and only the corners of the masonry are highlighted as accentuated decorative elements.",
+                                                             "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Dhimiter_Anagnosti",
+                                                             "image": "foto_ndertesash/small/Vuno-Dukat/House_Dhimiter_Anagnosti.jpg",
+                                                             "large": "foto_ndertesash/Vuno-Dukat/House_Dhimiter_Anagnosti.jpg",
+                                                             "exists": ""
+                                                     },
+                                                           "geometry": {
+                                                             "type": "Point",
+                                                             "coordinates": [
+                                                              19.695226,
+                                                              40.141539
+                                                             ]
+                                                           }
+                                                         },
+                                                         {
+                                                               "type": "Feature",
+                                                               "properties": {
+                                                                 "name": "'Ndrenikaj' oil producing facility",
+                                                                 "description": "",
+                                                                 "linked": "More photos of the house\n",
+                                                                 "image": "foto_ndertesash/small/Kavaje/Ethnographic_Museum_of_Kavaja.jpg",
+                                                                 "large": "foto_ndertesash/Kavaje/Ethnographic_Museum_of_Kavaja.jpg",
+                                                                 "exists": ""
+                                                         },
+                                                               "geometry": {
+                                                                 "type": "Point",
+                                                                 "coordinates": [
+                                                                  19.55565,
+                                                                  41.18036
+                                                                 ]
+                                                               }
+                                                             },
+                                                             {
+                                                                   "type": "Feature",
+                                                                   "properties": {
+                                                                     "name": "'Ndrenikaj' oil producing facility",
+                                                                     "description": "This structure owned by one of the Ndrenikaj family, one of the most famous families in Vuno, was used to execute the mechanical process of oil production, though the use of the animal's physical power. It is positioned in the upper part of the hill, It also was restored as most of the houses in Vuno. Its main entrance and the small courtyard in front of it, is covered by vineyards, creating a very welcoming shadowed atmosphere.",
+                                                                     "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Olive-oil_production_structure(Litervije)_of_House_Ndrenikaj",
+                                                                     "image": "foto_ndertesash/small/Vuno-Dukat/Ndrenikaj_oil_producing_facility.jpg",
+                                                                     "large": "foto_ndertesash/Vuno-Dukat/Ndrenikaj_oil_producing_facility.jpg",
+                                                                     "exists": ""
+                                                             },
+                                                                   "geometry": {
+                                                                     "type": "Point",
+                                                                     "coordinates": [
+                                                                      19.695090,
+                                                                      40.141982
+                                                                     ]
+                                                                   }
+                                                                 },
+                                                                 {
+                                                                       "type": "Feature",
+                                                                       "properties": {
+                                                                         "name": "Residential Complex 'Nesturi' (Nesturate)",
+                                                                         "description": "This complex is a cultural monument and is also known as the 'Odise Kasneci' house. It represents a very important typology of the sea-coast houses and reflects the changes made in these typologies after the second half of the 19th century. These changes are reflected in phases and the complex in question is constructed in three phases. This gradual construction has formed the structure of this ensemble as a closed contour, partly as a  result of this specific construction and parts of the surrounding walls, creating in its interior a spacious courtyard. In the first phase, the building develops in fragmented volumes due to the difficult terrain and one side of it develops as a 'half-floor house' (one of the most widespread typologies of houses in the villages of Laberia). The construction of the second phase is a 'storey house'(house me kat) where the ground floor has two cylindrical vaults, designed to provide the 'undamaged base' for the development of a hearth(fireplace) inside the 'fire chamber'(oda e zjarrit). The first archway near the first house was used as a 'zahire' (a room for the preservation of food supplies in winter). Along with this construction, a 'stere'(water deposit unit) was built, next to it. The third phase of the construction has been implemented escalated according to the terrain. In this third phase, a joint exterior plastering has been done, so that the facade on the road has achieved a single-facade treatment and it is difficult to distinguish the construction phases in the entire complex. The second stage house, realized in the corner, has a specific intervention ( wall removal and arching) at the corner, joining the two walls, which represents a characteristic intervention in the building, to facilitate the passage of loaded livestock. The houses have a characteristic treatment of thick limestone masonry taken from the area's quarries, bound with lime mortar. The 'living floor' of the house treated with large and vertically oriented windows meanwhile the ones on the ground floor (Katonj) more reduced. Part of the facade has been treated with thick plaster on the stone masonry, a technique not suited to the tradition of area construction, while part of the stone masonry is usually exposed to the eye.",
+                                                                         "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Residential_Complex_%27Nesturi%27",
+                                                                         "image": "foto_ndertesash/small/Vuno-Dukat/Residential_complex_Nesturi.jpg",
+                                                                         "large": "foto_ndertesash/Vuno-Dukat/Residential_complex_Nesturi.jpg",
+                                                                         "exists": ""
+                                                                 },
+                                                                       "geometry": {
+                                                                         "type": "Point",
+                                                                         "coordinates": [
+                                                                          19.694860,
+                                                                          40.141424
+                                                                         ]
+                                                                       }
+                                                                     },
+                                                                     {
+                                                                           "type": "Feature",
+                                                                           "properties": {
+                                                                             "name": "House on 'Dhimiter Konomi' street",
+                                                                             "description": "This house is situated along the 'Dhimiter Konomi' street. It's a very interesting one storey house, with an underground level, that raises the main entrance height, to the house. The visible facade of the underground floor is made out of stone walls left without plaster and the main floor's facade is treated with plaster in warm terracotta color paint, combined with decorative, vertical white stripes and window frames. Today is in a state of decay with doors and windows missing, fragments of plaster fallen and torn down inner walls. There is no information on the time the building was realized, but judging from its architecture, there's a hint of an Italian architecture influence.",
+                                                                             "linked": "",
+                                                                             "image": "foto_ndertesash/small/Vlore/House_on_Dhimiter_Konomi_street.jpg",
+                                                                             "large": "foto_ndertesash/Vlore/House_on_Dhimiter_Konomi_street.jpg",
+                                                                             "exists": ""
+                                                                     },
+                                                                           "geometry": {
+                                                                             "type": "Point",
+                                                                             "coordinates": [
+                                                                              19.490872,
+                                                                              40.421859
+                                                                             ]
+                                                                           }
+                                                                         }
 
 
 
