@@ -52,7 +52,7 @@
   </div>
 
 <script>
-var exp = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/gi;
+var exp = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=()]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=()]*)/gi;
 var regexp = new RegExp(exp);
 
 var eventsList = document.querySelector('.event-list')
@@ -97,7 +97,7 @@ var eventsLayer = omnivore.geojson('buildings.geojson')
 
     if (image) {
       eventListItemContent = `<h3>${title}</h3><p class="mt-3"><a href="${large}"><img src=${image} width="300px"/></a></p>`;
-    } 
+    }
       else {
           eventListItemContent = `<h3>${title}</h3><div>`;
       }
