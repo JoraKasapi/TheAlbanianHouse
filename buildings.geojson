@@ -492,24 +492,6 @@
                                                              ]
                                                            }
                                                          },
-                                                         {
-                                                               "type": "Feature",
-                                                               "properties": {
-                                                                 "name": "'Ndrenikaj' oil producing facility",
-                                                                 "description": "",
-                                                                 "linked": "More photos of the house\n",
-                                                                 "image": "foto_ndertesash/small/Kavaje/Ethnographic_Museum_of_Kavaja.jpg",
-                                                                 "large": "foto_ndertesash/Kavaje/Ethnographic_Museum_of_Kavaja.jpg",
-                                                                 "exists": ""
-                                                         },
-                                                               "geometry": {
-                                                                 "type": "Point",
-                                                                 "coordinates": [
-                                                                  19.55565,
-                                                                  41.18036
-                                                                 ]
-                                                               }
-                                                             },
                                                              {
                                                                    "type": "Feature",
                                                                    "properties": {
