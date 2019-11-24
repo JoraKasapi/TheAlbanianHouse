@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Villa 'Fortuzi'",
-        "description": "Villa 'Fortuzi' was built from Omer Fortuzi around 1920. He used to be one of the first Albanian engineers and a member of one of the biggest and most important families of the city. Being once the mayor of Tirana, while he had this position he always tried to implement as many Italian projects as he could. The architecture of this villa shows this intent too with its big, functional balconies, the way it is developed on its ground floor in an 'L’ shape. A special characteristic of this Villa is the fact that its volumetry is treated with organic lines and shapes instead of the straight lines and angles of most of the buildings of that period.",
+        "description": "Villa ‘Fortuzi’ was built from Omer Fortuzi, it is believed around 1920. He used to be one of the first Albanian engineers and a member of one of the biggest and most important families in the city. Being once the mayor of Tirana( from 1940-1943), while he had this position he always tried to implement as many Italian projects as he could. The architecture of this villa is a confirmation of this intent too. It represents a very unique villa typology, with a very different architecture, compared to what was usually realized at the time, three-storey house designed with organic curves in all of its floors and very visible in its overall characteristic volumetry. It has an 'L' shape ground-floor blueprint, with two different entrances both accessing on abundant gardens. The main entrance door is very monumental with symmetric organic volumes. The organic lines follow also the way the terrace's metallic handrailing was designed and implemented. Its focal point is the entrance that representing the main symmetry ax of the building, is composed of three, 2 storey high, rectangular columns. The ground floor facade, the three entrance columns and the surrounding walls are covered with red brick tiles an element that links the entire composition of this villa. During communism, it is believed the original owners were expropriated and recently it hosted the offices of the Social-democratic party of Albania",
         "linked": "More photos of Villa Fortuzi\nhttps://commons.wikimedia.org/wiki/Category:Villa_Fortuzi",
         "image": "foto_ndertesash/small/Tirane/Villa_Fortuzi.jpg",
         "large": "foto_ndertesash/Tirane/Villa_Fortuzi.jpg",
@@ -20,11 +20,29 @@
       }
     },
     {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa 'Nepravishta'",
+        "description": "The Villa is positioned in the intersection of ‘Rruga Kont Urani’ and 'Rruga Kavajes' once known as Boulevard ‘Mussolini’ using a surface area of 1437m2. This project was realized in 1935, from the Italian engineer Giulio Berte (who is a very important name in the history of the architecture of Tirana, the one who realized The Palace of Brigades, once ‘The Royal Villa’ and the design of the Scanderbeg Square in Tirana), but the construction works lasted until 1936. This villa was commissioned by the once mayor of the Municipality of Tirana, Abedin Nepravishta ( Mayor from 1934-1936, and 1937-1939). This project was thought to have influenced King Zogu to ask 'Berte' and realize also the project for his residential villa, ‘Royal Villa’ very notable today because of some similarities in terms of their design. Like many other Italian architects of that time, G.Berte also intended a rational style with a representative character, that would evidence itself to the existing architecture, of the surrounding but providing a certain combination of modernity with the respect to the specific urban conditions, towards the main streets. Being a urban house, situated in a crossroad of two very important mobility axes, it’s volumetry as a result, was very defined and geometric, at the same time monumental, providing a view towards the ‘Mussolini’ Boulevard, ‘Ethem Bej Mosque’ and further on to the main ‘Scanderbeg Square’. It has a very clear plan organization, with an underground plan, ground floor plan, first floor, and terrace. Talking about the functional organization, its ground floor was meant to host mixed-use spaces. The main areas along the Boulevard Mussolini treated like duplexes with specific staircases connecting to the first floor and the technical spaces underground. The other part of the ground floor plan was reserved for an apartment that communicated also with the inner garden. Meanwhile, all first-floor space, has a residential use, therefore, represents a more intimate space. Its structural system is a compound one, with perimeter massive walls of 30-45cm and an inner reinforced concrete beam-column system. From 1945 until 1992 it served as a Kindergarten and after 1992 the original owners got it back.",
+        "linked": "More photos of Villa\nhttps://commons.wikimedia.org/wiki/Category:Villa_Nepravishta",
+        "image": "foto_ndertesash/small/Tirane/villa_nepravishta.jpg",
+        "large": "foto_ndertesash/Tirane/villa_nepravishta.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.811694,
+          41.328449
+        ]
+      }
+    },
+    {
           "type": "Feature",
           "properties": {
             "name": "Toptani's Sarajet",
-            "description": "Toptani’s Sarajet have been built around 1833-1840, one of the least buildings realized during the feudal period, in Albania. It possesses a space of around 32 rooms, all decorated in oriental style. It represents a very important architectural complex constructed with massive bearing walls made out of qerpic and antisismic wooden wall beams, that give to it the feeling of a fortification or fortress. This being a type of  building and construction technique spread in Albania during the second half of the 19th century, during the feudal order. It’s a two storey building, listed as a  Monument of Culture, built with traditional techniques from old masters from Diber. It has special values not only for thenner functional organization but also for its architectural treatment and decorations. It's exterior is treated with simplicity, plain and clear volumetry with a white facade and some wooden decorative windows. It has an abundant garden space in front, with a well and the entire complex is surrounded by high walls with a principle gate. During A.Zogu's regime it was used as The National Library and further on during Communism it served as the officies of the Institute of Monuments and Culture (it is believed around 1963).  Its ownership returned back to its original owners and for awhile was used as a Bar/restaurant, despite this today stands not functional and non-accessible to the public.",
-            "linked": "More photos of Topotani's Saraje\nhttps://commons.wikimedia.org/wiki/Category:Abedin_Toptani%27s_Sarajet",
+            "description": "Toptani’s Saray has been built around 1833-1840, one of the least buildings realized during the feudal period, in Albania. It possesses a space of around 32 rooms, all decorated in an oriental ottoman style. It represents a very important architectural complex constructed with massive bearing walls made out of qerpic and anti seismic, wooden wall beams, that give to it the feeling of a fortification or fortress. This being a type of building and construction technique spread in Albania during the second half of the 19th century, during the feudal order. It’s a two-story building, listed as a  Monument of Culture, built with traditional techniques from old masters from Diber. It has special values not only for the inner functional organization but also for its architectural facade treatment and decorations. It's exterior is treated with simplicity, plain and clear volumetry with a white facade and dark wooden decorative windows. It has an abundant garden space in front, with a well and the entire complex is surrounded by high walls with a principle gate. During A.Zogu's regime, it was used as 'The National Library' and further on during Communism, it served as the offices of the Institute of Monuments and Culture (it is believed around 1963). Its ownership returned back to its original owners and for a while was used as a Bar/Restaurant. Despite this, today stands not functional and non-accessible to the public.",
+            "linked":"More photos of the building\nhttps://commons.wikimedia.org/wiki/Category:Abedin_Toptani%27s_Sarajet",
             "image": "foto_ndertesash/small/Tirane/Toptanis_Saray.jpg",
             "large": "foto_ndertesash/Tirane/Toptanis_Saray.jpg",
             "exists": ""
@@ -55,6 +73,78 @@
                ]
              }
            },
+           {
+                "type": "Feature",
+                "properties": {
+                  "name": "Ethnographic Museum of Kruja ",
+                  "description": "Once the residence place of the 'Toptani' family. Situated within the Castle's walls, in a neighborhood with characteristic features of the XVIII-XIX century civic centers. It stands out for its size and its treatment as a housing-typology with a closed 'çardak', situated on the central part of the castle. It has no resemblance to the houses built in Kruja, during the XVIII-XIX centuries, which are generally enclosed with one floor or half perpendicular floors. This house is part of a residential complex, which according to the ruins that can be seen today, included a second building above it and some other constructions, but it is impossible to distinguish specific, relevant functions. The two main divisions were the upper part of the house, 'the guest-house' also known back then as 'selamlleku' and the lower part(house), the house with the enclosed 'cardak', the family-house or also known as 'haremlleku'. Nowadays the house of guests is in ruins and only a part of the walls remain evidence. Decay problems were encountered in the family-house also, with a number of changes and degradation of the structural elements. The structure is two-story, with an almost equal surface area for both floors. The layout has the shape of the letter L. The floors are connected by an outdoor, stone staircase, which stands out, from the volume of this structure. They are two ramps where one of the ramps rests on a full masonry and the other, on two spaces covered with vaults quarter circular and half-circular. The ground floor is where the four spaces connect with the 'hajat'(ground-floor porch). The first space has served as a living room and that can be guessed by the chimney and six, pairs of windows placed in a certain height. This room is ceiling-free, without plaster and paved with cobble-stones. The second room, that communicates with the first one, is completely unpaved. It is believed, to have served as a deposit. The third area was the food-deposit as the traces show. <br/>The fourth room, similar to the first one, was used as a living room with a chimney. The outdoor staircase leads to the 'çardak', to which all the second-floor rooms, are connected with the exception of the 10th room. The sixth room has a rich decorative ornamentation and this fact shows that it is one of the most important rooms in the house, a guest-house. At its bottom is the volume divided into two parts in height. On the lower part, in the center, you can see what's called 'the musander' next to a niche and behind them the doors leading to the bathroom and the seventh room and to the 'cardak'. 'Mafili' which is the space created on the upper part of this division in height, is completely closed, only a single window opens to the 'çardak' area, and some small glazed openings, overlook towards the room. Wooden stairs make the right connection of the entrance on the right with the space of the 'mafil', this one is made out of a wooden floor and wooden ceiling. The main ceiling of the entire room has eight corners and is made of wood too. The upper part is built with floral ornaments. The seventh room is one of the most interesting. Its 'mafil'(which is used as space for women to see who was visiting but not be seen) is open and relatively large. There is balustrade with wooden grids that give the appearance of a balcony. At its bottom is a 'musander' and a door leading to the bathroom door, which connects to the guest room. The Chimney serving also for the bathroom. Lighting is provided with windows placed two by two on top of each other. Near room 7 there is a small room that gets the light through the four windows placed two by two on top of each other. Characteristic for this space is the chimney with a drum in the form of a pyramid. It is believed to have been the 'fire-house'(shtepia e zjarrit). The tenth room is completely transformed. The fifth room occupies the left part of the 'çardak' area. It is relatively small in size and is illuminated by two-row windows on top of each other. This space has its own bathroom, that gets out of the contour of the house. The house is built with stone walls, its ground floor and a large part of the first floor. The stone masonry is built with stones connected with limestone. The stability of the wall is provided by the wooden beams like made of oak. A large amount of mortar has been used so that from the outside it appears to have been treated with plaster. The roof has been built with locally-sourced materials. The pavements of the living spaces are of wooden boards. Through the process of restoration, there was a process of reassessment of the additions built over the years, dividing additions that had significant value and became part of the dwelling or cases that undermined the architectural value of the complex. The latter, the ones affecting negatively have been removed from the main volume. On the basis of old documents and footage, the main 'çardak' facade, was reconstructed. Restoration works affected almost all volumes.",
+                  "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Kruja_Ethnographic_Museum",
+                  "image": "foto_ndertesash/small/Kruje/Ethnographic_Museum_of_Kruja.jpg",
+                  "large": "foto_ndertesash/Kruje/Ethnographic_Museum_of_Kruja.jpg",
+                  "exists": ""
+                },
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [
+                   19.79372,
+                   41.50664
+                  ]
+                }
+              },
+              {
+                   "type": "Feature",
+                   "properties": {
+                     "name": "House of 'Xhevat Gjana'",
+                     "description": "This house is located in one of the alleys connected with 'Donika Kastrioti' street. It was the property of two brothers and was built by the original owner, the grandfather of the family 'Idriz Bejtekuqi', as one of the wealthiest traders of the time. Built to accommodate a large family of two brothers, the house is quite spacious and quite expanded on its yard also. Organized on two floors, with two separate entrances, each one with arched wooden doors. The facade of the house, becomes more dynamic because breaking its continuity is a volume that stands out, in its central part, similar to the cantilevered volume in the 'korcar' houses, known as 'erker'). The house is one of the richest in detail and colors, on both the interior and exterior. In terms of plan layout and functionality, there is something very unique compared to most of the houses of this typology and period, and that is the division of the enclosed 'cardak' space with the other rooms through a buffer space that resembles the idea of a corridor. Also one of the guest-rooms on the upper floor of the house is also full of ornaments on wood and details, all its upper part of the wall-strip is painted with all sorts of representations. It has a beautiful, ornamented wooden ceiling and different elements like individual 'musandras' on one part of the wall and on the other, the entire wall, arranged with them. Some of the ornaments are falling day by day and the house-entirety is endangered by the passing of time, decay and lack of maintenance.",
+                     "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Xhevat_Gjana",
+                     "image": "foto_ndertesash/small/Kruje/House_Xhevat_Gjana.jpg",
+                     "large": "foto_ndertesash/Kruje/House_Xhevat_Gjana.jpg",
+                     "exists": ""
+                   },
+                   "geometry": {
+                     "type": "Point",
+                     "coordinates": [
+                      19.79063,
+                      41.51381
+                     ]
+                   }
+                 },
+                 {
+                      "type": "Feature",
+                      "properties": {
+                        "name": "House no.1 on 'Kala' neighbourhood",
+                        "description": "This house together with House no.2 on this neighborhood is situated in a quite sloped terrain, on its lower part, close to the Ethnographic Museum of Kruja. The two houses are very close to each other. This house has a very simply treated facade, with an interesting rhythm of window combination. Windows are placed to light up the interior spaces, two by two, with a small opening in between a couple of windows. They are framed with decorative wooden elements and covered with a decorative wooden grid. It has a very large size, therefore it is believed, a big family used to live there. Today the house stays abandoned.",
+                        "linked": "",
+                        "image": "foto_ndertesash/small/Kruje/House_no_1_on_Kala_street.jpg",
+                        "large": "foto_ndertesash/Kruje/House_no_1_on_Kala_street.jpg",
+                        "exists": ""
+                      },
+                      "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                         19.79298,
+                         41.50683
+                        ]
+                      }
+                    },
+                    {
+                         "type": "Feature",
+                         "properties": {
+                           "name": "House no.2 on 'Kala' neighbourhood",
+                           "description": "This house has a big courtyard, protected with heavy masonry walls and with an entrance on the side. The main entrance door is made out of  decorated wood. Being very closed to house no.1 you can see the differences in the facade treatment, even though they are very similar and treated with simplicity. On the first house, there's a combination of two by two of the windows, here you can find this rhythm, repeated every four.",
+                           "linked": "",
+                           "image": "foto_ndertesash/small/Kruje/House_no_2_on_Kala_street.jpg",
+                           "large": "foto_ndertesash/Kruje/House_no_2_on_Kala_street.jpg",
+                           "exists": ""
+                         },
+                         "geometry": {
+                           "type": "Point",
+                           "coordinates": [
+                            19.79318,
+                            41.50679
+                           ]
+                         }
+                       },
            {
                  "type": "Feature",
                  "properties": {
