@@ -109,14 +109,17 @@ var eventsLayer = omnivore.geojson('buildings.geojson')
 
     function onPinClick(e) {
     const eventslist = document.querySelectorAll(".event-item");
+     eventslist.classList.add("activeProperty");
     eventslist.forEach(element => {
     element.style.border = "0.15rem #84684B solid";
     element.style.color="#000";
     element.style.backgroundColor="#D1DBD7";
     });
+
     document.getElementById(`${title}`).style.border="0.5rem #84684B solid";
     document.getElementById(`${title}`).style.color="#fff";
     document.getElementById(`${title}`).style.backgroundColor= "#84684B";
+
     window.location.href = `#${title}`;
     }
 
@@ -125,6 +128,7 @@ var eventsLayer = omnivore.geojson('buildings.geojson')
     function onOutClick(e) {
     document.getElementById(`${title}`).style.border="0.15rem #84684B solid";
     document.getElementById(`${title}`).style.color="#000";
+    document.getElementById(`${title}`).style.backgroundColor= "#D1DBD7";
     window.location.href = "#";
     }
 
