@@ -1,11 +1,11 @@
-﻿{
+{
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "name": "Villa 'Fortuzi'",
-        "description": "Villa 'Fortuzi' was built from Omer Fortuzi around 1920. He used to be one of the first Albanian engineers and a member of one of the biggest and most important families of the city. Being once the mayor of Tirana, while he had this position he always tried to implement as many Italian projects as he could. The architecture of this villa shows this intent too with its big, functional balconies, the way it is developed on its ground floor in an 'L’ shape. A special characteristic of this Villa is the fact that its volumetry is treated with organic lines and shapes instead of the straight lines and angles of most of the buildings of that period.",
+        "description": "Villa ‘Fortuzi’ was built from Omer Fortuzi, it is believed around 1920. He used to be one of the first Albanian engineers and a member of one of the biggest and most important families in the city. Being once the mayor of Tirana( from 1940-1943), while he had this position he always tried to implement as many Italian projects as he could. The architecture of this villa is a confirmation of this intent too. It represents a very unique villa typology, with a very different architecture, compared to what was usually realized at the time, three-storey house designed with organic curves in all of its floors and very visible in its overall characteristic volumetry. It has an 'L' shape ground-floor blueprint, with two different entrances both accessing on abundant gardens. The main entrance door is very monumental with symmetric organic volumes. The organic lines follow also the way the terrace's metallic handrailing was designed and implemented. Its focal point is the entrance that representing the main symmetry ax of the building, is composed of three, 2 storey high, rectangular columns. The ground floor facade, the three entrance columns and the surrounding walls are covered with red brick tiles an element that links the entire composition of this villa. During communism, it is believed the original owners were expropriated and recently it hosted the offices of the Social-democratic party of Albania",
         "linked": "More photos of Villa Fortuzi\nhttps://commons.wikimedia.org/wiki/Category:Villa_Fortuzi",
         "image": "foto_ndertesash/small/Tirane/Villa_Fortuzi.jpg",
         "large": "foto_ndertesash/Tirane/Villa_Fortuzi.jpg",
@@ -14,538 +14,1163 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         19.815763,
-         41.332817
+          19.815763,
+          41.332817
         ]
       }
     },
     {
-          "type": "Feature",
-          "properties": {
-            "name": "Toptani's Sarajet",
-            "description": "Toptani’s Sarajet have been built around 1833-1840, one of the least buildings realized during the feudal period, in Albania. It possesses a space of around 32 rooms, all decorated in oriental style. It represents a very important architectural complex constructed with massive bearing walls made out of qerpic and antisismic wooden wall beams, that give to it the feeling of a fortification or fortress. This being a type of  building and construction technique spread in Albania during the second half of the 19th century, during the feudal order. It’s a two storey building, listed as a  Monument of Culture, built with traditional techniques from old masters from Diber. It has special values not only for thenner functional organization but also for its architectural treatment and decorations. It's exterior is treated with simplicity, plain and clear volumetry with a white facade and some wooden decorative windows. It has an abundant garden space in front, with a well and the entire complex is surrounded by high walls with a principle gate. During A.Zogu's regime it was used as The National Library and further on during Communism it served as the officies of the Institute of Monuments and Culture (it is believed around 1963).  Its ownership returned back to its original owners and for awhile was used as a Bar/restaurant, despite this today stands not functional and non-accessible to the public.",
-            "linked": "More photos of Topotani's Saraje\nhttps://commons.wikimedia.org/wiki/Category:Abedin_Toptani%27s_Sarajet",
-            "image": "foto_ndertesash/small/Tirane/Toptanis_Saray.jpg",
-            "large": "foto_ndertesash/Tirane/Toptanis_Saray.jpg",
-            "exists": ""
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              19.821213,
-              41.327104
-            ]
-          }
-        },
-        {
-             "type": "Feature",
-             "properties": {
-               "name": "Villa of the former 'Radio Tirana’",
-               "description": "This Villa is a Monument of second category. Represents the first mediatic Institution in Albania. The villa was built  in 1938 from a very rich and important family of Tirana 'Kollciu’ with the main purpose to be a house for two brothers, fact  that is  also emphasized by the symmetric plan organization of the villa. Later on it was seized under the order of King Zog and it served as the base for 'Radio Tirana’ until 1965. After that its inner space was used by The Institute of Anthroplogy and Art studies, which later on moved also from there since its private owners appeared again and today It stands in very bad conditions. The villa is composed by four floors and one of them stands underground .It has two main entrances and one of them is directed towards the backyard. It has a very harmonic, neoclassical façade with columns without orders, prefabricated granil (granulated stones composition) staircase, a main hallway with marble tiles, windows with wooden frames, metallic balustrades. Currently there are some people from the 'rome’ community living in the building. It is believed that the actual owner of the Villa led them 'squat’ and clean the inner space before taking back the villa and reconstruct it for its main interest. It is believed. Everything regarding the fate of the villa is a speculation, some of the inhabitants around the neighbourhood say the actual owner wants to recreate a Museum out of it but none of this regarding its fate is yet confirmed . ",
-               "linked": "More photos of Villa 'Radio Tirana'\nhttps://commons.wikimedia.org/wiki/Category:Villa_of_the_former_Radio_Tirana",
-               "image": "foto_ndertesash/small/Tirane/Former_villa_Radio_Tirana.jpg",
-               "large": "foto_ndertesash/Tirane/Former_villa_Radio_Tirana.jpg",
-               "exists": ""
-             },
-             "geometry": {
-               "type": "Point",
-               "coordinates": [
-                19.81148,
-                41.328533
-               ]
-             }
-           },
-           {
-                 "type": "Feature",
-                 "properties": {
-                   "name": "Ethnographic Museum of Kavaja",
-                   "description": "This museum is one of the most characteristic buildings of the city and belongs to the house typology with 'çardak'. It was built in 'Skuraj' neighborhood, in Kavaje. This house was built by the family 'Arkaxhinj', from the beginning of the XVIII and late XIX century and is a first category Monument. On the inside, there are exposed, characteristic clothing and objects of various periods, the Illyrian period, the Early Middle Ages 1400- 1600, Renaissance 1831-1912, Independence 1912-1939 and Socialism 1945-1990. The house has a symmetric volumetry and plan organization and is developed in mostly one floor apart from the two wings. Each one of the volume-units has two stories, a main well-decorated room and a half-underground space used for storage.",
-                   "linked": "More photos of Ethnographic Museum\nhttps://commons.wikimedia.org/wiki/Category:Ethnographic_Museum_of_Kavaj%C3%AB",
-                   "image": "foto_ndertesash/small/Kavaje/Ethnographic_Museum_of_Kavaja.jpg",
-                   "large": "foto_ndertesash/Kavaje/Ethnographic_Museum_of_Kavaja.jpg",
-                   "exists": ""
-           },
-                 "geometry": {
-                   "type": "Point",
-                   "coordinates": [
-                    19.55565,
-                    41.18036
-                   ]
-                 }
-               },
-            {
-                 "type": "Feature",
-                 "properties": {
-                   "name": "House 'Haxhi Alushi'",
-                   "description": "Located in the 'Skuraj' neighborhood, it was declared a second category Monument in 1987. Built by one of the wealthy families of the time, the 'Alushaj' family. This house is part of the XIX century period and its main characteristic is the facades decorated with floral wall-paintings.It has a very simple and clean facade-treatment where all of them are treated with white plaster, while the masonry joins are left with decorative bricks. One of the facades has been completely mistreated, with a huge surface of plaster missing and some of the frescoes covered from several layers or simply removed.",
-                   "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Haxhi_Alushi%27",
-                   "image": "foto_ndertesash/small/Kavaje/House_Haxhi_Alushi.jpg",
-                   "large": "foto_ndertesash/Kavaje/House_Haxhi_Alushi.jpg",
-                   "exists": ""
-           },
-                 "geometry": {
-                   "type": "Point",
-                   "coordinates": [
-                    19.55497,
-                    41.18085
-                   ]
-                 }
-               },
-            {
-                 "type": "Feature",
-                 "properties": {
-                   "name": "House 'Haxhi Myftari'",
-                   "description": "This house was built at the beginning of the 19th century and is located in the neighborhood 4 on 'Fehla Karaboja' street. It was declared second category Monument in 2006 but today half of it is demolished and the other half still standing but in quite bad conditions. you can notice a very interesting house- typology, in the urban context due to the fact that one of its facades, faces the main street and takes part somehow in the street visual identity. Therefore this facade is slightly more closed than the main one. You can clearly notice the richness with which the facade was treated, decorative frames around the windows and doors, in the two floors divisions and decorative plaster elements on the wall-corners.",
-                   "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Haxhi_Myftari%27",
-                   "image": "foto_ndertesash/small/Kavaje/House_Haxhi_Myftari.jpg",
-                   "large": "foto_ndertesash/Kavaje/House_Haxhi_Myftari.jpg",
-                   "exists": ""
-           },
-                 "geometry": {
-                   "type": "Point",
-                   "coordinates": [
-                    19.56322,
-                    41.18252
-                   ]
-                 }
-               },
-            {
-                 "type": "Feature",
-                 "properties": {
-                   "name": "House 'Kadri Xhafa'",
-                   "description": "Civic house built in the early 20th century located in the city center. It was declared the second category Monument in 2006. The house is situated in a crossroad, therefore one of its completely closed facades faces one of the secondary streets and the other one the main one faces the main street with a certain distance from the surrounding walls. There has been an attempt to transfigure the facade identity with the use of strong and not qualitative paint-color.",
-                   "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Kadri_Xhafa%27",
-                   "image": "foto_ndertesash/small/Kavaje/House_Kadri_Xhafa.jpg",
-                   "large": "foto_ndertesash/Kavaje/House_Kadri_Xhafa.jpg",
-                   "exists": ""
-           },
-                 "geometry": {
-                   "type": "Point",
-                   "coordinates": [
-                    19.56297,
-                    41.18177
-                   ]
-                 }
-               },
-            {
-                 "type": "Feature",
-                 "properties": {
-                   "name": "House 'Man Kashamit'",
-                   "description": "The house belongs to the beginning of the XX century. It is a two-story house located in the city-centre, along the 'Fehla Karaboja' street. This house is declared second category Monument and today stands in very bad conditions with all of its windows, doors, and floors missing and tres and bushes invading its main courtyard and inner space. ",
-                   "linked": "More photos of Man Kashmi House\nhttps://commons.wikimedia.org/wiki/Category:House_%27Man_Kashami%27",
-                   "image": "foto_ndertesash/small/Kavaje/House_Man_Kashami.jpg",
-                   "large": "foto_ndertesash/Kavaje/House_Man_Kashami.jpg",
-                   "exists": ""
-           },
-                 "geometry": {
-                   "type": "Point",
-                   "coordinates": [
-                    19.563106,
-                    41.182648
-                   ]
-                 }
-               },
-            {
-                 "type": "Feature",
-                 "properties": {
-                   "name": "House on 'Indrit Cara' promenade",
-                   "description": "This house is situated very close to the city center and one of the main promenade of the city. it is organized in three floors, symmetric volumetry and each one of the floor facades are similar to the other, except from the last floor that ends up in a decorative balustrade that gives the idea of having a usable roof in the aesthetic representation of the crown of a building. Incised on it is 1920 which is the year when the house is believed to have been built.",
-                   "linked": "More photos of Indrit Cara promenade\nhttps://commons.wikimedia.org/wiki/Category:House_on_%27Indrit_Cara%27_promenade",
-                   "image": "foto_ndertesash/small/Kavaje/House_on_Indrit_Cara_promenade.jpg",
-                   "large": "foto_ndertesash/Kavaje/House_on_Indrit_Cara_promenade.jpg",
-                   "exists": ""
-           },
-                 "geometry": {
-                   "type": "Point",
-                   "coordinates": [
-                    19.56342,
-                    41.18205
-                   ]
-                 }
-               },
-
-
-
-               {
-                    "type": "Feature",
-                    "properties": {
-                      "name": "Babameto House",
-                      "description": "This house was built in 1940 and is situated on 'Onhezmi' street. It was realized in a steeped terrain and its main facade covered in warm terracota plaster and decorative stone tiles along the windows, doors and wall-corners.",
-                      "linked": "More photos of Babameto House\nhttps://commons.wikimedia.org/wiki/Category:Babameto_house_in_Sarand%C3%AB",
-                      "image": "foto_ndertesash/small/Sarande/House_Babameto.jpg",
-                      "large": "foto_ndertesash/Sarande/House_Babameto.jpg",
-                      "exists": ""
-              },
-                    "geometry": {
-                      "type": "Point",
-                      "coordinates": [
-                       20.0112,
-                       39.874241
-                      ]
-                    }
-                  },
-               {
-                    "type": "Feature",
-                    "properties": {
-                      "name": "House no. 2 on 'Onhezmi' street",
-                      "description": "The house, today in not very good conditions, during Communism used to be 'The War Museum'.",
-                      "linked": "More photos of house\nhttps://commons.wikimedia.org/wiki/Category:House_no2_on_Onhezmi_street",
-                      "image": "foto_ndertesash/small/Sarande/House_no_2_on_Onhezmi_street.jpg",
-                      "large": "foto_ndertesash/Sarande/House_no_2_on_Onhezmi_street.jpg",
-                      "exists": ""
-              },
-                    "geometry": {
-                      "type": "Point",
-                      "coordinates": [
-                       20.01052,
-                       39.874567
-                      ]
-                    }
-                  },
-               {
-                    "type": "Feature",
-                    "properties": {
-                      "name": "House on 'Skënderbeu' street",
-                      "description": "This house is thought to belong to the 'Muzina' family and its ground floor was used for services while the residential part, used only the first floor. The main facade faces the main street and its open to it, the entrance to the house is provided like most of the dwellings in Sarande, through a long staircase on the side of the building. The third floor is withdrawn to make it possible for a usable terrace. The house develops in-depth and a very defining element on the main facade is the balcony made with decorative metallic balustrade.",
-                      "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_on_Sk%C3%ABnd%C3%ABrbeu_street",
-                      "image": "foto_ndertesash/small/Sarande/House_on_Skënderbeu_street.jpg",
-                      "large": "foto_ndertesash/Sarande/House_on_Skënderbeu_street.jpg",
-                      "exists": ""
-              },
-                    "geometry": {
-                      "type": "Point",
-                      "coordinates": [
-                       20.009106,
-                       39.874612
-                      ]
-                    }
-                  },
-
-               {
-                    "type": "Feature",
-                    "properties": {
-                      "name": "House no 1 on 'Onhezmi' street",
-                      "description": "This house served as such in the beginning, and later in Communism, its first floor was used as the office of 'labor unions', while the ground floor served as the space of a Coffee Bar. Today it is in a very degraded, decay state. The house is also situated in a steeped terrain, with a long staircase along one of its facades. It has a very unique architecture with two long balconies shaped with rounded corners, along with two of the main facades and terracotta-colored plaster on the upper floor.",
-                      "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_no1_on_Onhezmi_street",
-                      "image": "foto_ndertesash/small/Sarande/House_no_1_on_Onhezmi_street.jpg",
-                      "large": "foto_ndertesash/Sarande/House_no_1_on_Onhezmi_street.jpg",
-                      "exists": ""
-              },
-                    "geometry": {
-                      "type": "Point",
-                      "coordinates": [
-                       20.009451,
-                       39.874945
-                      ]
-                    }
-                  },
-                  {
-                       "type": "Feature",
-                       "properties": {
-                         "name": "Ethnographic Museum of Durres",
-                         "description": "This house is located on 'Kolonel Thomson' street, near the Amphitheater of Durres. It represents the house typology with 'çardak', built during the second half of the 19th century. Around the 30s of the 20th century it served as the head-center of the English Consulate and today serves as 'The Ethnographic Museum of Durres'. This is the house where the actor 'Aleksander Moisiu' grew up, an important figure of the scenic art in Europe, born to an Albanian father and an Italian mother. Two of today's Ethnographic Museum spaces are dedicated to him. Meanwhile, the other three spaces have been dedicated to the local artisan development and values, of the city and its localities. The house is organized in two floors, it has an external stone staircase that enables the connection of the ground floor with the second floor's 'çardak'( a kind of open portico used in the Albanian vernacular architecture). This staircase is sustained by stone vaults, that rest upon a stone archway. 'Çardaku' is confined, along the main facade, by wooden pillars and also paved with wood. It's restoration happened in 1983. ",
-                         "linked": "More photos of the museum\nhttps://commons.wikimedia.org/wiki/Category:Banesa_e_Aleksand%C3%ABr_Moisiut,_Durr%C3%ABs",
-                         "image": "foto_ndertesash/small/Durres/Ethnographic_Museum_of_Durres.jpg",
-                         "large": "foto_ndertesash/Durres/Ethnographic_Museum_of_Durres.jpg",
-                         "exists": ""
-                 },
-                       "geometry": {
-                         "type": "Point",
-                         "coordinates": [
-                          19.44607,
-                          41.31072
-                         ]
-                       }
-                     },
-                     {
-                          "type": "Feature",
-                          "properties": {
-                            "name": "Royal Villa in Durres",
-                            "description": "This 80-year-old building is otherwise known as the 'King Zog's Villa' and is positioned in a very dominant location, 98 meters above sea level, from where the whole city of Durres can be seen from the three main sides of its eagle-shaped structure. It is thought to have been built in 1927 as a personal gift to King Zog I, from the business community of Durres in a sign of respect and appreciation. The architect of this house is thought to be Prof. Kristo Sotiri, a laureate in Padua and Venice (Italy), who also had an eleven-year experience as the architect of the court of Queen Elizabeth Carmen Silva of Romania. He designed and built one of the most unique villas of the city, that referring to the detailed level of indoor and outdoor decorations and materiality can be seen as a kind of royal palace. The building took its final form in 1937 under the care of Italian architects and specialists, a few months before the Monarch Zog the I'st marriage to the Hungarian Countess, Geraldine. The interiors are gracefully decorated, with a stunning parquet floor and a characteristic, walnut-decorated ceiling. The upper floor is specially designed for the royal couple with balconies that overlook the entire bay of Durres, a testament to a modern building of this period. This villa is quite famous for its different kinds of marble and its grand saloon. Over the years the villa has served for more than 40 years as a waiting residence for various names of the Communist Party, starting from Hrushov to the Cambodian prince, and its most notable host after the 1990s has been the former US President, Jimmy Carter. The building was also used in communist-era for parties and weddings. The building with special architecture was badly damaged in march of 1997, during the collapse created by the pyramid firms, when within two days it was vandalized, stolen, completely destroying the lighting system, which had remained intact since the time it was built. For several years it was used by the international NATO forces, arriving on military missions.",
-                            "linked": "More photos of the Royal Villa Durres\nhttps://commons.wikimedia.org/wiki/Category:Royal_Villa,_Durr%C3%ABs",
-                            "image": "foto_ndertesash/small/Durres/Royal_Villa_in_Durres.jpg",
-                            "large": "foto_ndertesash/Durres/Royal_Villa_in_Durres.jpg",
-                            "exists": ""
-                    },
-                          "geometry": {
-                            "type": "Point",
-                            "coordinates": [
-                             19.43844,
-                             41.31465
-                            ]
-                          }
-                        },
-
-                        {
-                             "type": "Feature",
-                             "properties": {
-                               "name": "Mic Sokoli tower-house",
-                               "description": "Located in the village of Bujan, this house was proclaimed a monument on January 8, 1977. The house is of the 'fortified' typology typical of the area of Gjakova with many other features of this typology. This house is organized on three floors where the ground floor is not for living but in the service of livestock also known as 'ahri', while the first floor is In the village of Bujan, in the south-eastern part district of Tropoja, on a high ground rises the 'Tower of Mic Sokolit'. The collapsed walls of the tower, hit many times by the cannons of the foreign invaders, are evidence of the people's resistance and struggle to protect their lands. It is not known exactly when this tower was built, but it is thought about at the end of the 18th century. In addition to the historical value of the figure it relates to, it is of particular importance for the house-typology it represents in the highlands of Gjakova. As a result of a fire in 1945, it has been massively destroyed, losing its floors and roof structure. The tower is made out of three storeys and has a rectangular plan with right angles. The composition scheme of space distribution is as follows: on the ground floor there is' ahri ', on the first-floor women's room, preceded by a hallway, and on the second floor 'divanhania' and the 'guest room'. The connection of all these spaces is realized with wooden stairs inside and outside. 'Ahri' served as a shelter for livestock and horses and had a protective function as one of the safest spaces in all dwellings of this typology. At the perimeter of the tower, there are from one to two 'frengjij' in small dimensions, on each site providing minimal ventilation and illumination, which makes the tower safer. The door is on the north side and is covered with arches. The door is secured from the inside with a wooden beam called 'drang' which is inserted into the open hole in the right part of the masonry wall. <br/>The ground floor of the tower consisted of a single room, the women's room (soba e grave) or 'fire chamber'(oda e zjarrit), the entrance to which was secured by a door on its western side with a single exterior ramp-staircase. Conclusions derived from some traces left on the masonry before restoration. The door, like that in the 'ahri', was covered with a stone-made arch, this one wood-panel door, also secured with the 'drang' element. From the vertical footprint of a column, on the east side of the wall, was deduced and assumed that there was the beginning of a wooden skeleton partition of the women's room with a corridor leading to the sanitary unit. Regarding the women's room environment, it was illuminated and ventilated through some small windows, arched outwards and next to them on each side of this room were 2-3 'frengjij'. On the south side of the Tower are found traces of a chimney, thought to be of a 'tambur' type, with a rectangular, right-angle section. <br />The second floor of the tower: This floor is also the most damaged but due to the importance of careful reading of the footprints, it has been possible to reconstruct the floor layout. This floor contained in its interior the 'guest room' which was preceded by another space 'divanhania', on a smaller surface than the 'guest room' and separated from it, and an interconnected corridor through the 'dyshekllek ' (structure with vertical columns of wood blinded with thick wooden planks). The wooden stairs on the 'divanhane' connects this floor to the 1st floor. The interconnecting corridor of these two spaces leads to the sanitary unit in the eastern part. The perimeter walls on this floor, as in the other two, are limestone masonry walls. The upper-floor restoration was even more difficult as only two walls had resisted.<br/>This building was of double importance for restoration, both historically, as the birthplace of the hero Mic Sokoli, and from the typological point of view of the tower-houses of this area, but at the same time it was very difficult to restore and to decide to restore it since a considerate amount of the object's elements were missing and demolished. The way it was dealt with, was that first consolidation actions were made on the existing walls and also the rebuilding of parts of the tower for which there were traces of their existence. Their reconstruction increased the stability of the existing structure, as with the re-creation of the 'dyshekllek'. The use of typological analogies with other elements of this type of house from the region did not allow for error. Outdoor wooden stairs, horse 'ahri', and the entire interior with lime plaster were also recreated. The 'dyshekllek' was realized as it was always made with oak wood with 8cm timber and more open windows. The roof is made of 'stropil' type and covered with 'furde' (wooden planks) and its bottoms are rounded. The volumetry of the tower represents a prismatic body made of stone and wooden elements, covered with a four-direction inclination wooden roof. The tower was restored within the framework of the 100th anniversary of 'Lidhja Prizrenit', and after its restoration, it became a museum-house about the life and activity of Mic Sokoli.",
-                               "linked": "More photos of the Mic Sokoli tower-house\nhttps://commons.wikimedia.org/wiki/Category:The_tower_of_Mic_Sokoli_(Kulla)",
-                               "image": "foto_ndertesash/small/Tropoje/Mic_Sokoli_tower_house.jpg",
-                               "large": "foto_ndertesash/Tropoje/Mic_Sokoli_tower_house.jpg",
-                               "exists": ""
-                       },
-                             "geometry": {
-                               "type": "Point",
-                               "coordinates": [
-                                20.07209,
-                                42.32439
-                               ]
-                             }
-                           },
-                           {
-                                "type": "Feature",
-                                "properties": {
-                                  "name": "House Sali Mani",
-                                  "description": "Located in the village of Bujan, this house was proclaimed a monument on January 8, 1977. The house is of the 'fortified' typology typical of the area of Gjakova with many other features of this typology. This house is organized on three floors where the ground floor is not for living but in the service of  livestock also known as 'ahri', while the first floor is accessed through an external stone staircase and a main wooden gate covered with arched stone. The first floor is the women's room also known as 'oda e grave' while the second floor is the room for friends (guests) and men also known as 'oda e miqve'. The volumetry is very clean with stone masonry and lime mortar, based on  a quadratic plan. In the volume, there are some small windows with  upper arched stones part and many small openings also known as 'frengji', which break the continuity of the masonry. This tower is thought to have been built during the late 18th century and is where the 'Conference of Bujan' took place, also on 30th of December 1943 in this house the 'National-Liberation Council for Kosovo' was created. Bajram Curri, left from this house on January 11th, 1925 towards the Alps where he remained until his heroic fall on March 29th, 1925 in the Mountains of Dragobi.",
-                                  "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Mani_Kulla_(Bujan)",
-                                  "image": "foto_ndertesash/small/Tropoje/House_Sali_Mani.jpg",
-                                  "large": "foto_ndertesash/Tropoje/House_Sali_Mani.jpg",
-                                  "exists": ""
-                          },
-                                "geometry": {
-                                  "type": "Point",
-                                  "coordinates": [
-                                   20.072222,
-                                   42.324167
-                                  ]
-                                }
-                              },
-                           {
-                                "type": "Feature",
-                                "properties": {
-                                  "name": "The tower-house of Nikoll Zef Koçeku (The Isolation tower)",
-                                  "description": "This tower represents a first category Monument and it's located on 'Kolaj' neighborhood, Grunas, being one of the main attractions for tourists. It is known also as 'Kulla e ngujimit' (Isolation tower) and it belongs to 'Koçeku' family. It is known so, because of its function in the past. The space used to isolate a person who had committed a crime, waiting for the reconciliation through the intervention of the group of wise and old men of the village. In terms of volume and architecture, it represents a typical and simple example, of a tower-house of this province of Albania, fortified with massive stone walls, each facade very closed in the outside, with the exception of a few small openings also known as ''frengjij''. The structure indicates the protective character of this house. The entrance gate is embedded with arched stone cover and all of its groundfloors is build upon a rock, still visible, element that shows this strong respect and connection of this architecture with the context, with nature.",
-                                  "linked": "More photos of the tower-house\nhttps://commons.wikimedia.org/wiki/Category:The_tower-house_of_Nikoll_Zef_Ko%C3%A7eku_(The_Isolation_tower)",
-                                  "image": "foto_ndertesash/small/Theth/The_tower_house_of_Nikoll_Zef_Koceku.jpg",
-                                  "large": "foto_ndertesash/Theth/The_tower_house_of_Nikoll_Zef_Koceku.jpg",
-                                  "exists": ""
-                          },
-                                "geometry": {
-                                  "type": "Point",
-                                  "coordinates": [
-                                   19.78249,
-                                   42.38561
-                                  ]
-                                }
-                              },
-                              {
-                                   "type": "Feature",
-                                   "properties": {
-                                     "name": "The tower-house of Lulash Keci (Ethnographic Museum of Dukagjin)",
-                                     "description": "This house is today the Ethnographic Museum of Dukagjin and a first category Monument also. It is built on a steep cliff, 9m high and it stands connected in a very organic way with the terrain, looking like a further extension of it. This tower-house has a horizontal extension with a surface around 87m2. Its ground floor was used to accommodate the livestock, so it is slightly lower as a floor with the main entrance, on its main facade. A specific characteristic of this house is the entrance to the second living floor, through a covered staircase made of stone, creating, therefore, a sort of covered protected entrance, that at its higher level is open to the view of the surrounding mountains. The upper floor has two main rooms, one where the main family used to live and the other one, organized on a higher level is the 'guest room', containing a hearth also, wooden pavement and wooden ceiling. Being a tower-house, it doesn't have many openings and windows so two of its facades are completely closed and on one of its corners, a 'frengjij'(small openings on a masonry wall, realized for enemy protection reasons) can be noticed, since it stands out in volumetry.",
-                                     "linked": "More photos of the museum\nhttps://commons.wikimedia.org/wiki/Category:The_tower-house_of_Lulash_Keci_(Ethnographic_Museum_of_Dukagjin)",
-                                     "image": "foto_ndertesash/small/Theth/Ethnographic_Museum_of_Theth.jpg",
-                                     "large": "foto_ndertesash/Theth/Ethnographic_Museum_of_Theth.jpg",
-                                     "exists": ""
-                             },
-                                   "geometry": {
-                                     "type": "Point",
-                                     "coordinates": [
-                                      19.78520,
-                                      42.38734
-                                     ]
-                                   }
-                                 },
-                                 {
-                                      "type": "Feature",
-                                      "properties": {
-                                        "name": "House 'Nik Ndue Rupa'",
-                                        "description": "This house belonged to three brothers and after was inherited by two of them and their uncle. As a result of having several heirs and because of a failure to reach an agreement between them, the house today is in a very dilapidated state, where the roof is missing and the ceilings have drastically fallen. Until 2-3 years ago it still possessed the roof. The house was once a cultural monument and habitable until 1992, after which its inhabitants migrated to Shkoder. The building is a typical tower-type house, constructed with massive stone walls, where the stones on the corners are treated with decorative stone. It is also treated with typical small openings, windows.",
-                                        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Nik_Ndue_Rupa%27",
-                                        "image": "foto_ndertesash/small/Theth/House_Nik_Ndue_Rupa.jpg",
-                                        "large": "foto_ndertesash/Theth/House_Nik_Ndue_Rupa.jpg",
-                                        "exists": ""
-                                },
-                                      "geometry": {
-                                        "type": "Point",
-                                        "coordinates": [
-                                         19.77988,
-                                         42.39151
-                                        ]
-                                      }
-                                    },
-                                    {
-                                         "type": "Feature",
-                                         "properties": {
-                                           "name": "House  'Gjergj Suka'",
-                                           "description": "Located in the 'Grunas' neighborhood, it is believed to have been built around 200 years before. Today it is owned by 'Gjergj Suka' but it was built and the original owner was 'Nik Çuni'. It was inherited by three brothers later and about 35 years ago, it was massively burned and massively changed from the earthquake. The house has no protection plaster, so the stone masonry is visible and its floor has been demolished, also the roof made with wooden planks, replaced with asbestos.",
-                                           "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Gjergj_Suka",
-                                           "image": "foto_ndertesash/small/Theth/House_Gjergj_Suka.jpg",
-                                           "large": "foto_ndertesash/Theth/House_Gjergj_Suka.jpg",
-                                           "exists": ""
-                                   },
-                                         "geometry": {
-                                           "type": "Point",
-                                           "coordinates": [
-                                            19.78788,
-                                            42.38093
-                                           ]
-                                         }
-                                       },
-                                       {
-                                            "type": "Feature",
-                                            "properties": {
-                                              "name": "House 'Shuk Lamthi'",
-                                              "description": "Situated in the 'Grunas' neighborhood, right in front of House 'Gjergj Suka', this house represents one of the houses built as part of a typical, northern, Albanian house ensemble. There lived two families, who later migrated and currently, for more than 20 years the house stands completely deserted. The two facades of this house contain anthropometric features, a sign that shows their human character.",
-                                              "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Shuk_Lamthi%27",
-                                              "image": "foto_ndertesash/small/Theth/House_Shuk_Lamthi.jpg",
-                                              "large": "foto_ndertesash/Theth/House_Shuk_Lamthi.jpg",
-                                              "exists": ""
-                                      },
-                                            "geometry": {
-                                              "type": "Point",
-                                              "coordinates": [
-                                               19.78788,
-                                               42.38093
-                                              ]
-                                            }
-                                          },
-                                          {
-                                               "type": "Feature",
-                                               "properties": {
-                                                 "name": "Dervish Ali Towers (Residential complex)",
-                                                 "description": "In a dominant plot of land in the center of the upper neighborhood in Dukat, stands a large ensemble of buildings known by residents as the 'Dervish Ali' Tower. This house is a rare case-study in the architecture of rural houses typology, where we find organically united, separate housing units with different functions, creating a large complex. The complex is the result of several stages of construction. On the plan, it creates a more or less enclosed contour in the shape of a triangle, where on the three peaks rise the three main interconnected constructions, according to two sides with other constructions, while the third side forms the surrounding wall. The house was covered with a two-inclination roof. One of the towers (no. 2) presents a special solution because its volume rises over a village road and the passage is made through a tunnel running along the volume, covered with cylindrical archway. The tower rises as a prismatic volume. The plan has the shape of a square. The volume is broken by a small number of windows as well as many small openings, also known as 'frëngji'. The entrance to the tower is on the back. Upon entry, we have a wooden structure that creates a preface. Here we have the sanitary unit. On the opposite side we have a wooden staircase that leads to the upper floors and in front of the entrance is the fireplace. This tower was used during Communism, as a Museum. Next to tower 2 we have house 1 which is also triangular but with a higher elevation. The ground floor is covered with a cylindrical archway. The first floor has access to the other side of the house. Space is dark and receives light from two small windows in the form of (frëngji). There's a wooden staircase that leads to the upper floor where there is a fireplace, a console-shaped water basin as well as numerous openings (frengjij). House 3 is composed of two rooms, the ground floor and the living areas with the same extension but with separate entrance. House 4 has a great resemblance to house 3. It is composed of two volumes, the ground floor and the upper floor. A partly stone, partly wooden staircase, provides the interconnection. House 5 is formed by open volumes, 'hajati' and 'cardak'. The first has a three-arched collonade on the front, while the second has a lighter arcade with five arches. The ensemble of these towers is striking and homogeneous. The unity and uniqueness of the work have been masterfully achieved eve though not well-preserved at all. The enclosed volumes combined with open construction have been treated with basic architectural elements, thereby emphasizing the mass of stone masonry that gives  the ensemble a stoic and unique appearance.",
-                                                 "linked": "More photos of the towers\nhttps://commons.wikimedia.org/wiki/Category:Dervish_Ali_Towers_(residential_complex)",
-                                                 "image": "foto_ndertesash/small/Vuno-Dukat/Dervish_Ali_towers.jpg",
-                                                 "large": "foto_ndertesash/Vuno-Dukat/Dervish_Ali_towers.jpg",
-                                                 "exists": ""
-                                         },
-                                               "geometry": {
-                                                 "type": "Point",
-                                                 "coordinates": [
-                                                  19.568495,
-                                                  40.251432
-                                                 ]
-                                               }
-                                             },
-                                             {
-                                                  "type": "Feature",
-                                                  "properties": {
-                                                    "name": "'Qamil Haskoj' House",
-                                                    "description": "Until the 2000s the house was inhabited by family 'Haskoj'. It is thought to have been built with craftsmen from Korca. The stairs and windows of the ground floor have been rebuilt in Communism. Despite its very deteriorated conditions today, you can still notice elements from its interior like decorated 'musendra' with gold color that show also a certain family status in the village, not being quite common this level of detail. The house was inhabited by two brothers, therefor it had two different entrances according to the part of the house they were using. Cooking was provided through a divided unit, serving as an outdoor kitchen, close to one of the families entrances. The house was also surrounded by high stone-walls with a main entrance gate. Dukat as a village is known for its development and importance that they gave to farming and the care for the livestock. It is believed, they used to have around 120 000 cattle, therefore every house in Dukat had its ground-floor serving as a 'katua'(space for the livestock).",
-                                                    "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Qamil_Haskoj_(Dukat)",
-                                                    "image": "foto_ndertesash/small/Vuno-Dukat/House_Qamil_Haskoj.jpg",
-                                                    "large": "foto_ndertesash/Vuno-Dukat/House_Qamil_Haskoj.jpg",
-                                                    "exists": ""
-                                            },
-                                                  "geometry": {
-                                                    "type": "Point",
-                                                    "coordinates": [
-                                                     19.568696,
-                                                     40.253072
-                                                    ]
-                                                  }
-                                                },
-                                                {
-                                                     "type": "Feature",
-                                                     "properties": {
-                                                       "name": "House of 'Shane Kote' with tower ",
-                                                       "description": "The 'fortified' houses of Laberia are divided into two categories, houses with tower and the Tower. The case of the house in question represents a very special example of 'the house with tower' not only for the village of Vuno but for all the villages in Laberi. It is known as the 'Shane Kota' house and is located in the lower part of the village. It consists of a tower and a typical house with storeys. The tower represents a massive prismatic volume, which rises from a square layout that is slightly different from the top floor containing several windows more than the lower ones, which are more enclosed. While the rest is massive masonry linked with lime mortar, which opens up slightly through some small openings, also known as 'frengji'. This typology was highly preferred by representatives of the wealthy society as well as military personalities, who preferred it as being a safer construction. The tower was organized in three floors, where the ground floor with separate entrance was not designated for living, while the intermediate floor was accessed by external stone stairs. The intermediate floor with the top floor of the tower were connected by internal stairs. The tower has a four-inclinations roof, while the house has a roof with two inclinations. The roof is covered with rounded clay tiles. The complex has clarity and dynamism in the composition. The portions of the entrance gates and some of the corners of the masonry are treated with very interesting decorative stone elements.",
-                                                       "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Shane_Kote",
-                                                       "image": "foto_ndertesash/small/Vuno-Dukat/House_Shane_Kote_with_tower.jpg",
-                                                       "large": "foto_ndertesash/Vuno-Dukat/House_Shane_Kote_with_tower.jpg",
-                                                       "exists": ""
-                                               },
-                                                     "geometry": {
-                                                       "type": "Point",
-                                                       "coordinates": [
-                                                        19.694299,
-                                                        40.139359
-                                                       ]
-                                                     }
-                                                   },
-                                                   {
-                                                        "type": "Feature",
-                                                        "properties": {
-                                                          "name": "House 'Kristo Koka'",
-                                                          "description": "From the remains left today, we can see that this house was organized on two floors. Constructed with masonry, made out of stone bound with lime mortar. On the ground floor, there are arched porches, which are also framed with stones. The windows are medium-sized, quadratic with orthogonal angles, decorated with a stone-frame. The interior stairs are of stone as well. You can notice that the house was built on sloping terrain and this has created the situation and need for a semi-floor. It is believed to belong, to the period of 1700-1800 as there is no actual precise data on this house",
-                                                          "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Kristo_Koka_House",
-                                                          "image": "foto_ndertesash/small/Vuno-Dukat/House_Kristo_Koka.jpg",
-                                                          "large": "foto_ndertesash/Vuno-Dukat/House_Kristo_Koka.jpg",
-                                                          "exists": ""
-                                                  },
-                                                        "geometry": {
-                                                          "type": "Point",
-                                                          "coordinates": [
-                                                           19.695040,
-                                                           40.141542
-                                                          ]
-                                                        }
-                                                      },
-                                                      {
-                                                           "type": "Feature",
-                                                           "properties": {
-                                                             "name": " House 'Dhimiter Anagnosti'",
-                                                             "description": "This house is made of stones and it belongs to the movie-director Dhimiter Anagnosti. Around 1933 it was a girls' boarding school. It is believed to have been built in 1870. It is a characteristic residence of the sea-coast area, from the new types of the second half of the 19th century. It is a house organized in two equal floors between them with windows of the same size since both ground floor and the first floor were used for living not as 'livestock space' known as 'katoj' as it happened usually in Vuno. The house is symmetrical, distinctive element of this type on its first floor is the erection of a balcony in the central- block of the facade. The main facade facing south and the main entrance to the house are made by a spacious entrance, on the side of the masonry surrounding walls of the house. The entrance gate is made out of decorative wooden panels and with an arched-stone architrave. The entire masonry of the house is made of limestone taken from the quarries of the area and linked by lime mortar, the windows have a stone decorative framing all around them as well as the facade has a characteristic treatment that has been degraded over the years. The main façade is treated with fine plaster, one-round lime work and only the corners of the masonry are highlighted as accentuated decorative elements.",
-                                                             "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Dhimiter_Anagnosti",
-                                                             "image": "foto_ndertesash/small/Vuno-Dukat/House_Dhimiter_Anagnosti.jpg",
-                                                             "large": "foto_ndertesash/Vuno-Dukat/House_Dhimiter_Anagnosti.jpg",
-                                                             "exists": ""
-                                                     },
-                                                           "geometry": {
-                                                             "type": "Point",
-                                                             "coordinates": [
-                                                              19.695226,
-                                                              40.141539
-                                                             ]
-                                                           }
-                                                         },
-                                                             {
-                                                                   "type": "Feature",
-                                                                   "properties": {
-                                                                     "name": "'Ndrenikaj' oil producing facility",
-                                                                     "description": "This structure owned by one of the Ndrenikaj family, one of the most famous families in Vuno, was used to execute the mechanical process of oil production, though the use of the animal's physical power. It is positioned in the upper part of the hill, It also was restored as most of the houses in Vuno. Its main entrance and the small courtyard in front of it, is covered by vineyards, creating a very welcoming shadowed atmosphere.",
-                                                                     "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Olive-oil_production_structure(Litervije)_of_House_Ndrenikaj",
-                                                                     "image": "foto_ndertesash/small/Vuno-Dukat/Ndrenikaj_oil_producing_facility.jpg",
-                                                                     "large": "foto_ndertesash/Vuno-Dukat/Ndrenikaj_oil_producing_facility.jpg",
-                                                                     "exists": ""
-                                                             },
-                                                                   "geometry": {
-                                                                     "type": "Point",
-                                                                     "coordinates": [
-                                                                      19.695090,
-                                                                      40.141982
-                                                                     ]
-                                                                   }
-                                                                 },
-                                                                 {
-                                                                       "type": "Feature",
-                                                                       "properties": {
-                                                                         "name": "Residential Complex 'Nesturi' (Nesturate)",
-                                                                         "description": "This complex is a cultural monument and is also known as the 'Odise Kasneci' house. It represents a very important typology of the sea-coast houses and reflects the changes made in these typologies after the second half of the 19th century. These changes are reflected in phases and the complex in question is constructed in three phases. This gradual construction has formed the structure of this ensemble as a closed contour, partly as a  result of this specific construction and parts of the surrounding walls, creating in its interior a spacious courtyard. In the first phase, the building develops in fragmented volumes due to the difficult terrain and one side of it develops as a 'half-floor house' (one of the most widespread typologies of houses in the villages of Laberia). The construction of the second phase is a 'storey house'(house me kat) where the ground floor has two cylindrical vaults, designed to provide the 'undamaged base' for the development of a hearth(fireplace) inside the 'fire chamber'(oda e zjarrit). The first archway near the first house was used as a 'zahire' (a room for the preservation of food supplies in winter). Along with this construction, a 'stere'(water deposit unit) was built, next to it. The third phase of the construction has been implemented escalated according to the terrain. In this third phase, a joint exterior plastering has been done, so that the facade on the road has achieved a single-facade treatment and it is difficult to distinguish the construction phases in the entire complex. The second stage house, realized in the corner, has a specific intervention ( wall removal and arching) at the corner, joining the two walls, which represents a characteristic intervention in the building, to facilitate the passage of loaded livestock. The houses have a characteristic treatment of thick limestone masonry taken from the area's quarries, bound with lime mortar. The 'living floor' of the house treated with large and vertically oriented windows meanwhile the ones on the ground floor (Katonj) more reduced. Part of the facade has been treated with thick plaster on the stone masonry, a technique not suited to the tradition of area construction, while part of the stone masonry is usually exposed to the eye.",
-                                                                         "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Residential_Complex_%27Nesturi%27",
-                                                                         "image": "foto_ndertesash/small/Vuno-Dukat/Residential_complex_Nesturi.jpg",
-                                                                         "large": "foto_ndertesash/Vuno-Dukat/Residential_complex_Nesturi.jpg",
-                                                                         "exists": ""
-                                                                 },
-                                                                       "geometry": {
-                                                                         "type": "Point",
-                                                                         "coordinates": [
-                                                                          19.694860,
-                                                                          40.141424
-                                                                         ]
-                                                                       }
-                                                                     },
-                                                                     {
-                                                                           "type": "Feature",
-                                                                           "properties": {
-                                                                             "name": "House on 'Dhimiter Konomi' street",
-                                                                             "description": "This house is situated along the 'Dhimiter Konomi' street. It's a very interesting one storey house, with an underground level, that raises the main entrance height, to the house. The visible facade of the underground floor is made out of stone walls left without plaster and the main floor's facade is treated with plaster in warm terracotta color paint, combined with decorative, vertical white stripes and window frames. Today is in a state of decay with doors and windows missing, fragments of plaster fallen and torn down inner walls. There is no information on the time the building was realized, but judging from its architecture, there's a hint of an Italian architecture influence.",
-                                                                             "linked": "",
-                                                                             "image": "foto_ndertesash/small/Vlore/House_on_Dhimiter_Konomi_street.jpg",
-                                                                             "large": "foto_ndertesash/Vlore/House_on_Dhimiter_Konomi_street.jpg",
-                                                                             "exists": ""
-                                                                     },
-                                                                           "geometry": {
-                                                                             "type": "Point",
-                                                                             "coordinates": [
-                                                                              19.490872,
-                                                                              40.421859
-                                                                             ]
-                                                                           }
-                                                                         }
+      "type": "Feature",
+      "properties": {
+        "name": "Villa 'Nepravishta'",
+        "description": "The Villa is positioned in the intersection of ‘Rruga Kont Urani’ and 'Rruga Kavajes' once known as Boulevard ‘Mussolini’ using a surface area of 1437m2. This project was realized in 1935, from the Italian engineer Giulio Berte (who is a very important name in the history of the architecture of Tirana, the one who realized The Palace of Brigades, once ‘The Royal Villa’ and the design of the Scanderbeg Square in Tirana), but the construction works lasted until 1936. This villa was commissioned by the once mayor of the Municipality of Tirana, Abedin Nepravishta ( Mayor from 1934-1936, and 1937-1939). This project was thought to have influenced King Zogu to ask 'Berte' and realize also the project for his residential villa, ‘Royal Villa’ very notable today because of some similarities in terms of their design. Like many other Italian architects of that time, G.Berte also intended a rational style with a representative character, that would evidence itself to the existing architecture, of the surrounding but providing a certain combination of modernity with the respect to the specific urban conditions, towards the main streets. Being a urban house, situated in a crossroad of two very important mobility axes, it’s volumetry as a result, was very defined and geometric, at the same time monumental, providing a view towards the ‘Mussolini’ Boulevard, ‘Ethem Bej Mosque’ and further on to the main ‘Scanderbeg Square’. It has a very clear plan organization, with an underground plan, ground floor plan, first floor, and terrace. Talking about the functional organization, its ground floor was meant to host mixed-use spaces. The main areas along the Boulevard Mussolini treated like duplexes with specific staircases connecting to the first floor and the technical spaces underground. The other part of the ground floor plan was reserved for an apartment that communicated also with the inner garden. Meanwhile, all first-floor space, has a residential use, therefore, represents a more intimate space. Its structural system is a compound one, with perimeter massive walls of 30-45cm and an inner reinforced concrete beam-column system. From 1945 until 1992 it served as a Kindergarten and after 1992 the original owners got it back.",
+        "linked": "More photos of Villa\nhttps://commons.wikimedia.org/wiki/Category:Villa_Nepravishta",
+        "image": "foto_ndertesash/small/Tirane/villa_nepravishta.jpg",
+        "large": "foto_ndertesash/Tirane/villa_nepravishta.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.811694,
+          41.328449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toptani's Sarajet",
+        "description": "Toptani’s Saray has been built around 1833-1840, one of the least buildings realized during the feudal period, in Albania. It possesses a space of around 32 rooms, all decorated in an oriental ottoman style. It represents a very important architectural complex constructed with massive bearing walls made out of qerpic and anti seismic, wooden wall beams, that give to it the feeling of a fortification or fortress. This being a type of building and construction technique spread in Albania during the second half of the 19th century, during the feudal order. It’s a two-story building, listed as a  Monument of Culture, built with traditional techniques from old masters from Diber. It has special values not only for the inner functional organization but also for its architectural facade treatment and decorations. It's exterior is treated with simplicity, plain and clear volumetry with a white facade and dark wooden decorative windows. It has an abundant garden space in front, with a well and the entire complex is surrounded by high walls with a principle gate. During A.Zogu's regime, it was used as 'The National Library' and further on during Communism, it served as the offices of the Institute of Monuments and Culture (it is believed around 1963). Its ownership returned back to its original owners and for a while was used as a Bar/Restaurant. Despite this, today stands not functional and non-accessible to the public.",
+        "linked": "More photos of the building\nhttps://commons.wikimedia.org/wiki/Category:Abedin_Toptani%27s_Sarajet",
+        "image": "foto_ndertesash/small/Tirane/Toptanis_Saray.jpg",
+        "large": "foto_ndertesash/Tirane/Toptanis_Saray.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.821213,
+          41.327104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa of the former 'Radio Tirana’",
+        "description": "This Villa is a Monument of second category. Represents the first mediatic Institution in Albania. The villa was built  in 1938 from a very rich and important family of Tirana 'Kollciu’ with the main purpose to be a house for two brothers, fact  that is  also emphasized by the symmetric plan organization of the villa. Later on it was seized under the order of King Zog and it served as the base for 'Radio Tirana’ until 1965. After that its inner space was used by The Institute of Anthroplogy and Art studies, which later on moved also from there since its private owners appeared again and today It stands in very bad conditions. The villa is composed by four floors and one of them stands underground .It has two main entrances and one of them is directed towards the backyard. It has a very harmonic, neoclassical façade with columns without orders, prefabricated granil (granulated stones composition) staircase, a main hallway with marble tiles, windows with wooden frames, metallic balustrades. Currently there are some people from the 'rome’ community living in the building. It is believed that the actual owner of the Villa led them 'squat’ and clean the inner space before taking back the villa and reconstruct it for its main interest. It is believed. Everything regarding the fate of the villa is a speculation, some of the inhabitants around the neighbourhood say the actual owner wants to recreate a Museum out of it but none of this regarding its fate is yet confirmed . ",
+        "linked": "More photos of Villa 'Radio Tirana'\nhttps://commons.wikimedia.org/wiki/Category:Villa_of_the_former_Radio_Tirana",
+        "image": "foto_ndertesash/small/Tirane/Former_villa_Radio_Tirana.jpg",
+        "large": "foto_ndertesash/Tirane/Former_villa_Radio_Tirana.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.81148,
+          41.328533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Libohova'",
+        "description": "This house is situated inside the Castle of Tirana's walls, not visible from the promenade and completely unaccessible. ",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Libohova%27",
+        "image": "foto_ndertesash/small/Tirane/House_Libohova.jpg",
+        "large": "foto_ndertesash/Tirane/House_Libohova.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82217,
+          41.32554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of the painter Sali Shijaku",
+        "description": "The house is located on 'Siri Kodra' street and is one of the oldest examples, of a Tirana's house, with a 'firehouse' (also known as shtepia e zjarrit). Built during the first half of the XIX century, it represents the most developed phase of this type of house. It has a regular, rectangular floor-plan,  organized in two floors. At first, it is believed, to have been built with the typical Albanian porch, also known as 'hajat' and 'cardak' (on the upper floor), as a two storey house, but around the beginning of the XX century, its reconstruction was done and both spaces were closed. On the ground floor the main and most important space is the 'firehouse'(shtepia e zjarrit) that runs on two floors. It has a main fireplace and its ceiling is free, so with the naked eye, you can see the whole structure of the roof's holding together with the two skylights. This core space is today used as a gallery for displaying the painter's works. The 'Shijaku' house was declared a cultural monument, of first category, in 1973. Among other things, it represents one of the oldest typologies of popular, vernacular houses of Tirana. Due to the techniques and materials used in construction, respectively, with massive bearing walls made of 'qerpic', with bonding clay and anti-seismic wooden beams, along with the masonry. The house has a considerable front yard and is all surrounded by high bearing walls and a wooden entrance gate, covered with a typical roof of this typology. The outdoor space of the courtyard works as a Cafe, today.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_the_painter_Sali_Shijaku",
+        "image": "foto_ndertesash/small/Tirane/House_of_the_painter_Sali_Shijaku.jpg",
+        "large": "foto_ndertesash/Tirane/House_of_the_painter_Sali_Shijaku.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.81987,
+          41.33590
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa 'Pustina' ",
+        "description": "This Villa belongs to the 'Pustina' family. It's construction begun in 1925 and finalized in 1927. This house lays along 'Qemal Stafa' street, from which it is distanced by an 18 m yard. This is not its whole original yard. five meters away from the villa, there's a five-floor silicate-brick residential building (built during socialism), which occupies part of its outdoor space. The villa is a mix of traditional architectural features like space organization rationality, the use of decorative wooden elements in the ceilings, or the emphasis of an element, like 'erker', in volumetry similar to many korcar houses. Also the use of neo-classic, balcony-European influenced, facade ornaments. It is organized in two floors where the ground floor has a lower height and during the years has suffered many changes, to meet the different, many inhabitants requests, like for example the creation of a secondary lateral door, or the placement of a ramp for people with physical impairments, along the main entrance. The pavement of this floor is treated with small decorative tiles, with motifs, while the ceiling of each space is covered in painted, decorative wood. On both floors, the main hall plays an important role in bringing together all the main spaces. On the first floor, it can be accessed by the monumental external staircase, which is so important for the whole volumetry of this villa. The first floor is developed with a considerate height, more lighting, a feature similar to many traditional houses where more importance is placed on the upper floor as the main living area. Its floor is all paved with wood, while the ceiling is the same as on the ground floor. The rooms are spacious and each has access to a bathroom and built-in closet. The presence of a laundry room and of a balcony, in the southern part of the villa is a sign that the owners were of high socioeconomic rank. The whole facade of the villa is covered by decorative elements, with floral motifs. The family lived there, during 1944-1945, after this period it was confiscated by the state, to be taken back after, by its original owner's sons, after the fall of Communism. The lack of consensus among its owners and the lack of interest from the responsible, appropriate structures, in giving it protected status, has brought its alarming, degraded state of nowadays.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Villa_3_on_Rruga_Qemal_Stafa",
+        "image": "foto_ndertesash/small/Tirane/House_Pustina.jpg",
+        "large": "foto_ndertesash/Tirane/House_Pustina.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82651,
+          41.33160
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Sotir Peçi' street ",
+        "description": "The Villa was commissioned by Dine Hoxha, a merchant, and important figure at the time, from Dibra, around 1931. It is located along 'Sotir Peci' street perpendicular to 'Durresi' street and from the urban point of view, its somehow hidden/camouflaged, because of the residential building height, between the villa and the main street, that was built  in 1959, therefore it can be considered as a 'hidden treasure' of the area. During Communism, the Hoxha family was taken out of the villa to another house close-by, in the same neighborhood. Later on, the original owners moved back to the villa but because of their poor economic condition, they weren't able to look after the villa or restore it, in its original state. During the years Dine Hoxha's nephew has lived in a nearby house, leaving the villa to the families in need as it still is today. The villa is organized on three floors, one underground and two visible. Its main entrance is located in the north-east area and it's obvious by the use of the monumental, double ramp staircase, which forms in between a green patio, where a taller tree than the altimetry of the villa, is located. The south-eastern part of the house represents the first break in its volume, as it undergoes a visible retraction in the shape of a 'porch' with a double column system, located on the first floor. Another characteristic for its volumetrie is the presence of a six-angled prism volume element, which rises in the northwestern part of the villa and on the first floor with the same column system, holding a roof with arched tiles. All the facades of the villa have been treated with many neo-classical ornaments and details that include window frames, doors, floors partitioning or wall corners. Its condition today shows a continuous lack of treatment, facing massive stripping on the plaster of the façades and the exterior of the brick walls left visible. For the main staircase part of it has been re-created, with concrete blocks which are far from being the material used in the original construction technique of the house.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Villa_on_Rruga_Sotir_Peci",
+        "image": "foto_ndertesash/small/Tirane/House_on_Sotir_Peci_street.jpg",
+        "large": "foto_ndertesash/Tirane/House_on_Sotir_Peci_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.80860,
+          41.33107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Rreshit Çollaku' street",
+        "description": "The villa is located behind the 'Albanian Post', somewhere drawn from 'Reshit Collaku' street creating the space of a small courtyard in front of it. This villa was built in 1930, has a considerable extension and development both in horizontality and verticality, therefore, development in storeys, there are three storeys. It has a symmetric composition, that is readable in its main volume and facade. The central unit of the villa has been treated with a lodge with balustrades and a perimeter column system. Some deforming interventions, into the facade of the villa, are evident, through attempts to close even more the brick masonry lodges, or through blocking the windows. No intervention was made for its restoration, as large plaster fragments are cut off and the ground-floor space is very fragmented.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Villa_on_%27Rruga_Rreshit_%C3%87ollaku%27",
+        "image": "foto_ndertesash/small/Tirane/House_on_Rreshit_Collaku_street.jpg",
+        "large": "foto_ndertesash/Tirane/House_on_Rreshit_Collaku_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.81566,
+          41.32659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ethnographic Museum of Kruja ",
+        "description": "Once the residence place of the 'Toptani' family. Situated within the Castle's walls, in a neighborhood with characteristic features of the XVIII-XIX century civic centers. It stands out for its size and its treatment as a housing-typology with a closed 'çardak', situated on the central part of the castle. It has no resemblance to the houses built in Kruja, during the XVIII-XIX centuries, which are generally enclosed with one floor or half perpendicular floors. This house is part of a residential complex, which according to the ruins that can be seen today, included a second building above it and some other constructions, but it is impossible to distinguish specific, relevant functions. The two main divisions were the upper part of the house, 'the guest-house' also known back then as 'selamlleku' and the lower part(house), the house with the enclosed 'cardak', the family-house or also known as 'haremlleku'. Nowadays the house of guests is in ruins and only a part of the walls remain evidence. Decay problems were encountered in the family-house also, with a number of changes and degradation of the structural elements. The structure is two-story, with an almost equal surface area for both floors. The layout has the shape of the letter L. The floors are connected by an outdoor, stone staircase, which stands out, from the volume of this structure. They are two ramps where one of the ramps rests on a full masonry and the other, on two spaces covered with vaults quarter circular and half-circular. The ground floor is where the four spaces connect with the 'hajat'(ground-floor porch). The first space has served as a living room and that can be guessed by the chimney and six, pairs of windows placed in a certain height. This room is ceiling-free, without plaster and paved with cobble-stones. The second room, that communicates with the first one, is completely unpaved. It is believed, to have served as a deposit. The third area was the food-deposit as the traces show. <br/>The fourth room, similar to the first one, was used as a living room with a chimney. The outdoor staircase leads to the 'çardak', to which all the second-floor rooms, are connected with the exception of the 10th room. The sixth room has a rich decorative ornamentation and this fact shows that it is one of the most important rooms in the house, a guest-house. At its bottom is the volume divided into two parts in height. On the lower part, in the center, you can see what's called 'the musander' next to a niche and behind them the doors leading to the bathroom and the seventh room and to the 'cardak'. 'Mafili' which is the space created on the upper part of this division in height, is completely closed, only a single window opens to the 'çardak' area, and some small glazed openings, overlook towards the room. Wooden stairs make the right connection of the entrance on the right with the space of the 'mafil', this one is made out of a wooden floor and wooden ceiling. The main ceiling of the entire room has eight corners and is made of wood too. The upper part is built with floral ornaments. The seventh room is one of the most interesting. Its 'mafil'(which is used as space for women to see who was visiting but not be seen) is open and relatively large. There is balustrade with wooden grids that give the appearance of a balcony. At its bottom is a 'musander' and a door leading to the bathroom door, which connects to the guest room. The Chimney serving also for the bathroom. Lighting is provided with windows placed two by two on top of each other. Near room 7 there is a small room that gets the light through the four windows placed two by two on top of each other. Characteristic for this space is the chimney with a drum in the form of a pyramid. It is believed to have been the 'fire-house'(shtepia e zjarrit). The tenth room is completely transformed. The fifth room occupies the left part of the 'çardak' area. It is relatively small in size and is illuminated by two-row windows on top of each other. This space has its own bathroom, that gets out of the contour of the house. The house is built with stone walls, its ground floor and a large part of the first floor. The stone masonry is built with stones connected with limestone. The stability of the wall is provided by the wooden beams like made of oak. A large amount of mortar has been used so that from the outside it appears to have been treated with plaster. The roof has been built with locally-sourced materials. The pavements of the living spaces are of wooden boards. Through the process of restoration, there was a process of reassessment of the additions built over the years, dividing additions that had significant value and became part of the dwelling or cases that undermined the architectural value of the complex. The latter, the ones affecting negatively have been removed from the main volume. On the basis of old documents and footage, the main 'çardak' facade, was reconstructed. Restoration works affected almost all volumes.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Kruja_Ethnographic_Museum",
+        "image": "foto_ndertesash/small/Kruje/Ethnographic_Museum_of_Kruja.jpg",
+        "large": "foto_ndertesash/Kruje/Ethnographic_Museum_of_Kruja.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.79372,
+          41.50664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of 'Xhevat Gjana'",
+        "description": "This house is located in one of the alleys connected with 'Donika Kastrioti' street. It was the property of two brothers and was built by the original owner, the grandfather of the family 'Idriz Bejtekuqi', as one of the wealthiest traders of the time. Built to accommodate a large family of two brothers, the house is quite spacious and quite expanded on its yard also. Organized on two floors, with two separate entrances, each one with arched wooden doors. The facade of the house, becomes more dynamic because breaking its continuity is a volume that stands out, in its central part, similar to the cantilevered volume in the 'korcar' houses, known as 'erker'). The house is one of the richest in detail and colors, on both the interior and exterior. In terms of plan layout and functionality, there is something very unique compared to most of the houses of this typology and period, and that is the division of the enclosed 'cardak' space with the other rooms through a buffer space that resembles the idea of a corridor. Also one of the guest-rooms on the upper floor of the house is also full of ornaments on wood and details, all its upper part of the wall-strip is painted with all sorts of representations. It has a beautiful, ornamented wooden ceiling and different elements like individual 'musandras' on one part of the wall and on the other, the entire wall, arranged with them. Some of the ornaments are falling day by day and the house-entirety is endangered by the passing of time, decay and lack of maintenance.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Xhevat_Gjana",
+        "image": "foto_ndertesash/small/Kruje/House_Xhevat_Gjana.jpg",
+        "large": "foto_ndertesash/Kruje/House_Xhevat_Gjana.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.79063,
+          41.51381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House no.1 on 'Kala' neighbourhood",
+        "description": "This house together with House no.2 on this neighborhood is situated in a quite sloped terrain, on its lower part, close to the Ethnographic Museum of Kruja. The two houses are very close to each other. This house has a very simply treated facade, with an interesting rhythm of window combination. Windows are placed to light up the interior spaces, two by two, with a small opening in between a couple of windows. They are framed with decorative wooden elements and covered with a decorative wooden grid. It has a very large size, therefore it is believed, a big family used to live there. Today the house stays abandoned.",
+        "linked": "",
+        "image": "foto_ndertesash/small/Kruje/House_no_1_on_Kala_street.jpg",
+        "large": "foto_ndertesash/Kruje/House_no_1_on_Kala_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.79298,
+          41.50683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House no.2 on 'Kala' neighbourhood",
+        "description": "This house has a big courtyard, protected with heavy masonry walls and with an entrance on the side. The main entrance door is made out of  decorated wood. Being very closed to house no.1 you can see the differences in the facade treatment, even though they are very similar and treated with simplicity. On the first house, there's a combination of two by two of the windows, here you can find this rhythm, repeated every four.",
+        "linked": "",
+        "image": "foto_ndertesash/small/Kruje/House_no_2_on_Kala_street.jpg",
+        "large": "foto_ndertesash/Kruje/House_no_2_on_Kala_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.79318,
+          41.50679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ethnographic Museum of Kavaja",
+        "description": "This museum is one of the most characteristic buildings of the city and belongs to the house typology with 'çardak'. It was built in 'Skuraj' neighborhood, in Kavaje. This house was built by the family 'Arkaxhinj', from the beginning of the XVIII and late XIX century and is a first category Monument. On the inside, there are exposed, characteristic clothing and objects of various periods, the Illyrian period, the Early Middle Ages 1400- 1600, Renaissance 1831-1912, Independence 1912-1939 and Socialism 1945-1990. The house has a symmetric volumetry and plan organization and is developed in mostly one floor apart from the two wings. Each one of the volume-units has two stories, a main well-decorated room and a half-underground space used for storage.",
+        "linked": "More photos of Ethnographic Museum\nhttps://commons.wikimedia.org/wiki/Category:Ethnographic_Museum_of_Kavaj%C3%AB",
+        "image": "foto_ndertesash/small/Kavaje/Ethnographic_Museum_of_Kavaja.jpg",
+        "large": "foto_ndertesash/Kavaje/Ethnographic_Museum_of_Kavaja.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.55565,
+          41.18036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Haxhi Alushi'",
+        "description": "Located in the 'Skuraj' neighborhood, it was declared a second category Monument in 1987. Built by one of the wealthy families of the time, the 'Alushaj' family. This house is part of the XIX century period and its main characteristic is the facades decorated with floral wall-paintings.It has a very simple and clean facade-treatment where all of them are treated with white plaster, while the masonry joins are left with decorative bricks. One of the facades has been completely mistreated, with a huge surface of plaster missing and some of the frescoes covered from several layers or simply removed.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Haxhi_Alushi%27",
+        "image": "foto_ndertesash/small/Kavaje/House_Haxhi_Alushi.jpg",
+        "large": "foto_ndertesash/Kavaje/House_Haxhi_Alushi.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.55497,
+          41.18085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Haxhi Myftari'",
+        "description": "This house was built at the beginning of the 19th century and is located in the neighborhood 4 on 'Fehla Karaboja' street. It was declared second category Monument in 2006 but today half of it is demolished and the other half still standing but in quite bad conditions. you can notice a very interesting house- typology, in the urban context due to the fact that one of its facades, faces the main street and takes part somehow in the street visual identity. Therefore this facade is slightly more closed than the main one. You can clearly notice the richness with which the facade was treated, decorative frames around the windows and doors, in the two floors divisions and decorative plaster elements on the wall-corners.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Haxhi_Myftari%27",
+        "image": "foto_ndertesash/small/Kavaje/House_Haxhi_Myftari.jpg",
+        "large": "foto_ndertesash/Kavaje/House_Haxhi_Myftari.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.56322,
+          41.18252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Kadri Xhafa'",
+        "description": "Civic house built in the early 20th century located in the city center. It was declared the second category Monument in 2006. The house is situated in a crossroad, therefore one of its completely closed facades faces one of the secondary streets and the other one the main one faces the main street with a certain distance from the surrounding walls. There has been an attempt to transfigure the facade identity with the use of strong and not qualitative paint-color.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Kadri_Xhafa%27",
+        "image": "foto_ndertesash/small/Kavaje/House_Kadri_Xhafa.jpg",
+        "large": "foto_ndertesash/Kavaje/House_Kadri_Xhafa.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.56297,
+          41.18177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Man Kashamit'",
+        "description": "The house belongs to the beginning of the XX century. It is a two-story house located in the city-centre, along the 'Fehla Karaboja' street. This house is declared second category Monument and today stands in very bad conditions with all of its windows, doors, and floors missing and tres and bushes invading its main courtyard and inner space. ",
+        "linked": "More photos of Man Kashmi House\nhttps://commons.wikimedia.org/wiki/Category:House_%27Man_Kashami%27",
+        "image": "foto_ndertesash/small/Kavaje/House_Man_Kashami.jpg",
+        "large": "foto_ndertesash/Kavaje/House_Man_Kashami.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.563106,
+          41.182648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Indrit Cara' promenade",
+        "description": "This house is situated very close to the city center and one of the main promenade of the city. it is organized in three floors, symmetric volumetry and each one of the floor facades are similar to the other, except from the last floor that ends up in a decorative balustrade that gives the idea of having a usable roof in the aesthetic representation of the crown of a building. Incised on it is 1920 which is the year when the house is believed to have been built.",
+        "linked": "More photos of Indrit Cara promenade\nhttps://commons.wikimedia.org/wiki/Category:House_on_%27Indrit_Cara%27_promenade",
+        "image": "foto_ndertesash/small/Kavaje/House_on_Indrit_Cara_promenade.jpg",
+        "large": "foto_ndertesash/Kavaje/House_on_Indrit_Cara_promenade.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.56342,
+          41.18205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Babameto House",
+        "description": "This house was built in 1940 and is situated on 'Onhezmi' street. It was realized in a steeped terrain and its main facade covered in warm terracota plaster and decorative stone tiles along the windows, doors and wall-corners.",
+        "linked": "More photos of Babameto House\nhttps://commons.wikimedia.org/wiki/Category:Babameto_house_in_Sarand%C3%AB",
+        "image": "foto_ndertesash/small/Sarande/House_Babameto.jpg",
+        "large": "foto_ndertesash/Sarande/House_Babameto.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0112,
+          39.874241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House no. 2 on 'Onhezmi' street",
+        "description": "The house, today in not very good conditions, during Communism used to be 'The War Museum'.",
+        "linked": "More photos of house\nhttps://commons.wikimedia.org/wiki/Category:House_no2_on_Onhezmi_street",
+        "image": "foto_ndertesash/small/Sarande/House_no_2_on_Onhezmi_street.jpg",
+        "large": "foto_ndertesash/Sarande/House_no_2_on_Onhezmi_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.01052,
+          39.874567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Skënderbeu' street",
+        "description": "This house is thought to belong to the 'Muzina' family and its ground floor was used for services while the residential part, used only the first floor. The main facade faces the main street and its open to it, the entrance to the house is provided like most of the dwellings in Sarande, through a long staircase on the side of the building. The third floor is withdrawn to make it possible for a usable terrace. The house develops in-depth and a very defining element on the main facade is the balcony made with decorative metallic balustrade.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_on_Sk%C3%ABnd%C3%ABrbeu_street",
+        "image": "foto_ndertesash/small/Sarande/House_on_Skënderbeu_street.jpg",
+        "large": "foto_ndertesash/Sarande/House_on_Skënderbeu_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.009106,
+          39.874612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House no 1 on 'Onhezmi' street",
+        "description": "This house served as such in the beginning, and later in Communism, its first floor was used as the office of 'labor unions', while the ground floor served as the space of a Coffee Bar. Today it is in a very degraded, decay state. The house is also situated in a steeped terrain, with a long staircase along one of its facades. It has a very unique architecture with two long balconies shaped with rounded corners, along with two of the main facades and terracotta-colored plaster on the upper floor.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_no1_on_Onhezmi_street",
+        "image": "foto_ndertesash/small/Sarande/House_no_1_on_Onhezmi_street.jpg",
+        "large": "foto_ndertesash/Sarande/House_no_1_on_Onhezmi_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.009451,
+          39.874945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ethnographic Museum of Durres",
+        "description": "This house is located on 'Kolonel Thomson' street, near the Amphitheater of Durres. It represents the house typology with 'çardak', built during the second half of the 19th century. Around the 30s of the 20th century it served as the head-center of the English Consulate and today serves as 'The Ethnographic Museum of Durres'. This is the house where the actor 'Aleksander Moisiu' grew up, an important figure of the scenic art in Europe, born to an Albanian father and an Italian mother. Two of today's Ethnographic Museum spaces are dedicated to him. Meanwhile, the other three spaces have been dedicated to the local artisan development and values, of the city and its localities. The house is organized in two floors, it has an external stone staircase that enables the connection of the ground floor with the second floor's 'çardak'( a kind of open portico used in the Albanian vernacular architecture). This staircase is sustained by stone vaults, that rest upon a stone archway. 'Çardaku' is confined, along the main facade, by wooden pillars and also paved with wood. It's restoration happened in 1983. ",
+        "linked": "More photos of the museum\nhttps://commons.wikimedia.org/wiki/Category:Banesa_e_Aleksand%C3%ABr_Moisiut,_Durr%C3%ABs",
+        "image": "foto_ndertesash/small/Durres/Ethnographic_Museum_of_Durres.jpg",
+        "large": "foto_ndertesash/Durres/Ethnographic_Museum_of_Durres.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.44607,
+          41.31072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Villa in Durres",
+        "description": "This 80-year-old building is otherwise known as the 'King Zog's Villa' and is positioned in a very dominant location, 98 meters above sea level, from where the whole city of Durres can be seen from the three main sides of its eagle-shaped structure. It is thought to have been built in 1927 as a personal gift to King Zog I, from the business community of Durres in a sign of respect and appreciation. The architect of this house is thought to be Prof. Kristo Sotiri, a laureate in Padua and Venice (Italy), who also had an eleven-year experience as the architect of the court of Queen Elizabeth Carmen Silva of Romania. He designed and built one of the most unique villas of the city, that referring to the detailed level of indoor and outdoor decorations and materiality can be seen as a kind of royal palace. The building took its final form in 1937 under the care of Italian architects and specialists, a few months before the Monarch Zog the I'st marriage to the Hungarian Countess, Geraldine. The interiors are gracefully decorated, with a stunning parquet floor and a characteristic, walnut-decorated ceiling. The upper floor is specially designed for the royal couple with balconies that overlook the entire bay of Durres, a testament to a modern building of this period. This villa is quite famous for its different kinds of marble and its grand saloon. Over the years the villa has served for more than 40 years as a waiting residence for various names of the Communist Party, starting from Hrushov to the Cambodian prince, and its most notable host after the 1990s has been the former US President, Jimmy Carter. The building was also used in communist-era for parties and weddings. The building with special architecture was badly damaged in march of 1997, during the collapse created by the pyramid firms, when within two days it was vandalized, stolen, completely destroying the lighting system, which had remained intact since the time it was built. For several years it was used by the international NATO forces, arriving on military missions.",
+        "linked": "More photos of the Royal Villa Durres\nhttps://commons.wikimedia.org/wiki/Category:Royal_Villa,_Durr%C3%ABs",
+        "image": "foto_ndertesash/small/Durres/Royal_Villa_in_Durres.jpg",
+        "large": "foto_ndertesash/Durres/Royal_Villa_in_Durres.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.43844,
+          41.31465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mic Sokoli tower-house",
+        "description": "Located in the village of Bujan, this house was proclaimed a monument on January 8, 1977. The house is of the 'fortified' typology typical of the area of Gjakova with many other features of this typology. This house is organized on three floors where the ground floor is not for living but in the service of livestock also known as 'ahri', while the first floor is In the village of Bujan, in the south-eastern part district of Tropoja, on a high ground rises the 'Tower of Mic Sokolit'. The collapsed walls of the tower, hit many times by the cannons of the foreign invaders, are evidence of the people's resistance and struggle to protect their lands. It is not known exactly when this tower was built, but it is thought about at the end of the 18th century. In addition to the historical value of the figure it relates to, it is of particular importance for the house-typology it represents in the highlands of Gjakova. As a result of a fire in 1945, it has been massively destroyed, losing its floors and roof structure. The tower is made out of three storeys and has a rectangular plan with right angles. The composition scheme of space distribution is as follows: on the ground floor there is' ahri ', on the first-floor women's room, preceded by a hallway, and on the second floor 'divanhania' and the 'guest room'. The connection of all these spaces is realized with wooden stairs inside and outside. 'Ahri' served as a shelter for livestock and horses and had a protective function as one of the safest spaces in all dwellings of this typology. At the perimeter of the tower, there are from one to two 'frengjij' in small dimensions, on each site providing minimal ventilation and illumination, which makes the tower safer. The door is on the north side and is covered with arches. The door is secured from the inside with a wooden beam called 'drang' which is inserted into the open hole in the right part of the masonry wall. <br/>The ground floor of the tower consisted of a single room, the women's room (soba e grave) or 'fire chamber'(oda e zjarrit), the entrance to which was secured by a door on its western side with a single exterior ramp-staircase. Conclusions derived from some traces left on the masonry before restoration. The door, like that in the 'ahri', was covered with a stone-made arch, this one wood-panel door, also secured with the 'drang' element. From the vertical footprint of a column, on the east side of the wall, was deduced and assumed that there was the beginning of a wooden skeleton partition of the women's room with a corridor leading to the sanitary unit. Regarding the women's room environment, it was illuminated and ventilated through some small windows, arched outwards and next to them on each side of this room were 2-3 'frengjij'. On the south side of the Tower are found traces of a chimney, thought to be of a 'tambur' type, with a rectangular, right-angle section. <br />The second floor of the tower: This floor is also the most damaged but due to the importance of careful reading of the footprints, it has been possible to reconstruct the floor layout. This floor contained in its interior the 'guest room' which was preceded by another space 'divanhania', on a smaller surface than the 'guest room' and separated from it, and an interconnected corridor through the 'dyshekllek ' (structure with vertical columns of wood blinded with thick wooden planks). The wooden stairs on the 'divanhane' connects this floor to the 1st floor. The interconnecting corridor of these two spaces leads to the sanitary unit in the eastern part. The perimeter walls on this floor, as in the other two, are limestone masonry walls. The upper-floor restoration was even more difficult as only two walls had resisted.<br/>This building was of double importance for restoration, both historically, as the birthplace of the hero Mic Sokoli, and from the typological point of view of the tower-houses of this area, but at the same time it was very difficult to restore and to decide to restore it since a considerate amount of the object's elements were missing and demolished. The way it was dealt with, was that first consolidation actions were made on the existing walls and also the rebuilding of parts of the tower for which there were traces of their existence. Their reconstruction increased the stability of the existing structure, as with the re-creation of the 'dyshekllek'. The use of typological analogies with other elements of this type of house from the region did not allow for error. Outdoor wooden stairs, horse 'ahri', and the entire interior with lime plaster were also recreated. The 'dyshekllek' was realized as it was always made with oak wood with 8cm timber and more open windows. The roof is made of 'stropil' type and covered with 'furde' (wooden planks) and its bottoms are rounded. The volumetry of the tower represents a prismatic body made of stone and wooden elements, covered with a four-direction inclination wooden roof. The tower was restored within the framework of the 100th anniversary of 'Lidhja Prizrenit', and after its restoration, it became a museum-house about the life and activity of Mic Sokoli.",
+        "linked": "More photos of the Mic Sokoli tower-house\nhttps://commons.wikimedia.org/wiki/Category:The_tower_of_Mic_Sokoli_(Kulla)",
+        "image": "foto_ndertesash/small/Tropoje/Mic_Sokoli_tower_house.jpg",
+        "large": "foto_ndertesash/Tropoje/Mic_Sokoli_tower_house.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.07209,
+          42.32439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House Sali Mani",
+        "description": "Located in the village of Bujan, this house was proclaimed a monument on January 8, 1977. The house is of the 'fortified' typology typical of the area of Gjakova with many other features of this typology. This house is organized on three floors where the ground floor is not for living but in the service of  livestock also known as 'ahri', while the first floor is accessed through an external stone staircase and a main wooden gate covered with arched stone. The first floor is the women's room also known as 'oda e grave' while the second floor is the room for friends (guests) and men also known as 'oda e miqve'. The volumetry is very clean with stone masonry and lime mortar, based on  a quadratic plan. In the volume, there are some small windows with  upper arched stones part and many small openings also known as 'frengji', which break the continuity of the masonry. This tower is thought to have been built during the late 18th century and is where the 'Conference of Bujan' took place, also on 30th of December 1943 in this house the 'National-Liberation Council for Kosovo' was created. Bajram Curri, left from this house on January 11th, 1925 towards the Alps where he remained until his heroic fall on March 29th, 1925 in the Mountains of Dragobi.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Mani_Kulla_(Bujan)",
+        "image": "foto_ndertesash/small/Tropoje/House_Sali_Mani.jpg",
+        "large": "foto_ndertesash/Tropoje/House_Sali_Mani.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.072222,
+          42.324167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The tower-house of Nikoll Zef Koçeku (The Isolation tower)",
+        "description": "This tower represents a first category Monument and it's located on 'Kolaj' neighborhood, Grunas, being one of the main attractions for tourists. It is known also as 'Kulla e ngujimit' (Isolation tower) and it belongs to 'Koçeku' family. It is known so, because of its function in the past. The space used to isolate a person who had committed a crime, waiting for the reconciliation through the intervention of the group of wise and old men of the village. In terms of volume and architecture, it represents a typical and simple example, of a tower-house of this province of Albania, fortified with massive stone walls, each facade very closed in the outside, with the exception of a few small openings also known as ''frengjij''. The structure indicates the protective character of this house. The entrance gate is embedded with arched stone cover and all of its groundfloors is build upon a rock, still visible, element that shows this strong respect and connection of this architecture with the context, with nature.",
+        "linked": "More photos of the tower-house\nhttps://commons.wikimedia.org/wiki/Category:The_tower-house_of_Nikoll_Zef_Ko%C3%A7eku_(The_Isolation_tower)",
+        "image": "foto_ndertesash/small/Theth/The_tower_house_of_Nikoll_Zef_Koceku.jpg",
+        "large": "foto_ndertesash/Theth/The_tower_house_of_Nikoll_Zef_Koceku.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.78249,
+          42.38561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The tower-house of Lulash Keci (Ethnographic Museum of Dukagjin)",
+        "description": "This house is today the Ethnographic Museum of Dukagjin and a first category Monument also. It is built on a steep cliff, 9m high and it stands connected in a very organic way with the terrain, looking like a further extension of it. This tower-house has a horizontal extension with a surface around 87m2. Its ground floor was used to accommodate the livestock, so it is slightly lower as a floor with the main entrance, on its main facade. A specific characteristic of this house is the entrance to the second living floor, through a covered staircase made of stone, creating, therefore, a sort of covered protected entrance, that at its higher level is open to the view of the surrounding mountains. The upper floor has two main rooms, one where the main family used to live and the other one, organized on a higher level is the 'guest room', containing a hearth also, wooden pavement and wooden ceiling. Being a tower-house, it doesn't have many openings and windows so two of its facades are completely closed and on one of its corners, a 'frengjij'(small openings on a masonry wall, realized for enemy protection reasons) can be noticed, since it stands out in volumetry.",
+        "linked": "More photos of the museum\nhttps://commons.wikimedia.org/wiki/Category:The_tower-house_of_Lulash_Keci_(Ethnographic_Museum_of_Dukagjin)",
+        "image": "foto_ndertesash/small/Theth/Ethnographic_Museum_of_Theth.jpg",
+        "large": "foto_ndertesash/Theth/Ethnographic_Museum_of_Theth.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7852,
+          42.38734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Nik Ndue Rupa'",
+        "description": "This house belonged to three brothers and after was inherited by two of them and their uncle. As a result of having several heirs and because of a failure to reach an agreement between them, the house today is in a very dilapidated state, where the roof is missing and the ceilings have drastically fallen. Until 2-3 years ago it still possessed the roof. The house was once a cultural monument and habitable until 1992, after which its inhabitants migrated to Shkoder. The building is a typical tower-type house, constructed with massive stone walls, where the stones on the corners are treated with decorative stone. It is also treated with typical small openings, windows.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Nik_Ndue_Rupa%27",
+        "image": "foto_ndertesash/small/Theth/House_Nik_Ndue_Rupa.jpg",
+        "large": "foto_ndertesash/Theth/House_Nik_Ndue_Rupa.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.77988,
+          42.39151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House  'Gjergj Suka'",
+        "description": "Located in the 'Grunas' neighborhood, it is believed to have been built around 200 years before. Today it is owned by 'Gjergj Suka' but it was built and the original owner was 'Nik Çuni'. It was inherited by three brothers later and about 35 years ago, it was massively burned and massively changed from the earthquake. The house has no protection plaster, so the stone masonry is visible and its floor has been demolished, also the roof made with wooden planks, replaced with asbestos.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Gjergj_Suka",
+        "image": "foto_ndertesash/small/Theth/House_Gjergj_Suka.jpg",
+        "large": "foto_ndertesash/Theth/House_Gjergj_Suka.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.78788,
+          42.38093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Shuk Lamthi'",
+        "description": "Situated in the 'Grunas' neighborhood, right in front of House 'Gjergj Suka', this house represents one of the houses built as part of a typical, northern, Albanian house ensemble. There lived two families, who later migrated and currently, for more than 20 years the house stands completely deserted. The two facades of this house contain anthropometric features, a sign that shows their human character.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Shuk_Lamthi%27",
+        "image": "foto_ndertesash/small/Theth/House_Shuk_Lamthi.jpg",
+        "large": "foto_ndertesash/Theth/House_Shuk_Lamthi.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.78788,
+          42.38093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dervish Ali Towers (Residential complex)",
+        "description": "In a dominant plot of land in the center of the upper neighborhood in Dukat, stands a large ensemble of buildings known by residents as the 'Dervish Ali' Tower. This house is a rare case-study in the architecture of rural houses typology, where we find organically united, separate housing units with different functions, creating a large complex. The complex is the result of several stages of construction. On the plan, it creates a more or less enclosed contour in the shape of a triangle, where on the three peaks rise the three main interconnected constructions, according to two sides with other constructions, while the third side forms the surrounding wall. The house was covered with a two-inclination roof. One of the towers (no. 2) presents a special solution because its volume rises over a village road and the passage is made through a tunnel running along the volume, covered with cylindrical archway. The tower rises as a prismatic volume. The plan has the shape of a square. The volume is broken by a small number of windows as well as many small openings, also known as 'frëngji'. The entrance to the tower is on the back. Upon entry, we have a wooden structure that creates a preface. Here we have the sanitary unit. On the opposite side we have a wooden staircase that leads to the upper floors and in front of the entrance is the fireplace. This tower was used during Communism, as a Museum. Next to tower 2 we have house 1 which is also triangular but with a higher elevation. The ground floor is covered with a cylindrical archway. The first floor has access to the other side of the house. Space is dark and receives light from two small windows in the form of (frëngji). There's a wooden staircase that leads to the upper floor where there is a fireplace, a console-shaped water basin as well as numerous openings (frengjij). House 3 is composed of two rooms, the ground floor and the living areas with the same extension but with separate entrance. House 4 has a great resemblance to house 3. It is composed of two volumes, the ground floor and the upper floor. A partly stone, partly wooden staircase, provides the interconnection. House 5 is formed by open volumes, 'hajati' and 'cardak'. The first has a three-arched collonade on the front, while the second has a lighter arcade with five arches. The ensemble of these towers is striking and homogeneous. The unity and uniqueness of the work have been masterfully achieved eve though not well-preserved at all. The enclosed volumes combined with open construction have been treated with basic architectural elements, thereby emphasizing the mass of stone masonry that gives  the ensemble a stoic and unique appearance.",
+        "linked": "More photos of the towers\nhttps://commons.wikimedia.org/wiki/Category:Dervish_Ali_Towers_(residential_complex)",
+        "image": "foto_ndertesash/small/Vuno-Dukat/Dervish_Ali_towers.jpg",
+        "large": "foto_ndertesash/Vuno-Dukat/Dervish_Ali_towers.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.568495,
+          40.251432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Qamil Haskoj' House",
+        "description": "Until the 2000s the house was inhabited by family 'Haskoj'. It is thought to have been built with craftsmen from Korca. The stairs and windows of the ground floor have been rebuilt in Communism. Despite its very deteriorated conditions today, you can still notice elements from its interior like decorated 'musendra' with gold color that show also a certain family status in the village, not being quite common this level of detail. The house was inhabited by two brothers, therefor it had two different entrances according to the part of the house they were using. Cooking was provided through a divided unit, serving as an outdoor kitchen, close to one of the families entrances. The house was also surrounded by high stone-walls with a main entrance gate. Dukat as a village is known for its development and importance that they gave to farming and the care for the livestock. It is believed, they used to have around 120 000 cattle, therefore every house in Dukat had its ground-floor serving as a 'katua'(space for the livestock).",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Qamil_Haskoj_(Dukat)",
+        "image": "foto_ndertesash/small/Vuno-Dukat/House_Qamil_Haskoj.jpg",
+        "large": "foto_ndertesash/Vuno-Dukat/House_Qamil_Haskoj.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.568696,
+          40.253072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of 'Shane Kote' with tower ",
+        "description": "The 'fortified' houses of Laberia are divided into two categories, houses with tower and the Tower. The case of the house in question represents a very special example of 'the house with tower' not only for the village of Vuno but for all the villages in Laberi. It is known as the 'Shane Kota' house and is located in the lower part of the village. It consists of a tower and a typical house with storeys. The tower represents a massive prismatic volume, which rises from a square layout that is slightly different from the top floor containing several windows more than the lower ones, which are more enclosed. While the rest is massive masonry linked with lime mortar, which opens up slightly through some small openings, also known as 'frengji'. This typology was highly preferred by representatives of the wealthy society as well as military personalities, who preferred it as being a safer construction. The tower was organized in three floors, where the ground floor with separate entrance was not designated for living, while the intermediate floor was accessed by external stone stairs. The intermediate floor with the top floor of the tower were connected by internal stairs. The tower has a four-inclinations roof, while the house has a roof with two inclinations. The roof is covered with rounded clay tiles. The complex has clarity and dynamism in the composition. The portions of the entrance gates and some of the corners of the masonry are treated with very interesting decorative stone elements.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Shane_Kote",
+        "image": "foto_ndertesash/small/Vuno-Dukat/House_Shane_Kote_with_tower.jpg",
+        "large": "foto_ndertesash/Vuno-Dukat/House_Shane_Kote_with_tower.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.694299,
+          40.139359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Kristo Koka'",
+        "description": "From the remains left today, we can see that this house was organized on two floors. Constructed with masonry, made out of stone bound with lime mortar. On the ground floor, there are arched porches, which are also framed with stones. The windows are medium-sized, quadratic with orthogonal angles, decorated with a stone-frame. The interior stairs are of stone as well. You can notice that the house was built on sloping terrain and this has created the situation and need for a semi-floor. It is believed to belong, to the period of 1700-1800 as there is no actual precise data on this house",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Kristo_Koka_House",
+        "image": "foto_ndertesash/small/Vuno-Dukat/House_Kristo_Koka.jpg",
+        "large": "foto_ndertesash/Vuno-Dukat/House_Kristo_Koka.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.69504,
+          40.141542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " House 'Dhimiter Anagnosti'",
+        "description": "This house is made of stones and it belongs to the movie-director Dhimiter Anagnosti. Around 1933 it was a girls' boarding school. It is believed to have been built in 1870. It is a characteristic residence of the sea-coast area, from the new types of the second half of the 19th century. It is a house organized in two equal floors between them with windows of the same size since both ground floor and the first floor were used for living not as 'livestock space' known as 'katoj' as it happened usually in Vuno. The house is symmetrical, distinctive element of this type on its first floor is the erection of a balcony in the central- block of the facade. The main facade facing south and the main entrance to the house are made by a spacious entrance, on the side of the masonry surrounding walls of the house. The entrance gate is made out of decorative wooden panels and with an arched-stone architrave. The entire masonry of the house is made of limestone taken from the quarries of the area and linked by lime mortar, the windows have a stone decorative framing all around them as well as the facade has a characteristic treatment that has been degraded over the years. The main façade is treated with fine plaster, one-round lime work and only the corners of the masonry are highlighted as accentuated decorative elements.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Dhimiter_Anagnosti",
+        "image": "foto_ndertesash/small/Vuno-Dukat/House_Dhimiter_Anagnosti.jpg",
+        "large": "foto_ndertesash/Vuno-Dukat/House_Dhimiter_Anagnosti.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.695226,
+          40.141539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Ndrenikaj' oil producing facility",
+        "description": "This structure owned by one of the Ndrenikaj family, one of the most famous families in Vuno, was used to execute the mechanical process of oil production, though the use of the animal's physical power. It is positioned in the upper part of the hill, It also was restored as most of the houses in Vuno. Its main entrance and the small courtyard in front of it, is covered by vineyards, creating a very welcoming shadowed atmosphere.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Olive-oil_production_structure(Litervije)_of_House_Ndrenikaj",
+        "image": "foto_ndertesash/small/Vuno-Dukat/Ndrenikaj_oil_producing_facility.jpg",
+        "large": "foto_ndertesash/Vuno-Dukat/Ndrenikaj_oil_producing_facility.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.69509,
+          40.141982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Residential Complex 'Nesturi' (Nesturate)",
+        "description": "This complex is a cultural monument and is also known as the 'Odise Kasneci' house. It represents a very important typology of the sea-coast houses and reflects the changes made in these typologies after the second half of the 19th century. These changes are reflected in phases and the complex in question is constructed in three phases. This gradual construction has formed the structure of this ensemble as a closed contour, partly as a  result of this specific construction and parts of the surrounding walls, creating in its interior a spacious courtyard. In the first phase, the building develops in fragmented volumes due to the difficult terrain and one side of it develops as a 'half-floor house' (one of the most widespread typologies of houses in the villages of Laberia). The construction of the second phase is a 'storey house'(house me kat) where the ground floor has two cylindrical vaults, designed to provide the 'undamaged base' for the development of a hearth(fireplace) inside the 'fire chamber'(oda e zjarrit). The first archway near the first house was used as a 'zahire' (a room for the preservation of food supplies in winter). Along with this construction, a 'stere'(water deposit unit) was built, next to it. The third phase of the construction has been implemented escalated according to the terrain. In this third phase, a joint exterior plastering has been done, so that the facade on the road has achieved a single-facade treatment and it is difficult to distinguish the construction phases in the entire complex. The second stage house, realized in the corner, has a specific intervention ( wall removal and arching) at the corner, joining the two walls, which represents a characteristic intervention in the building, to facilitate the passage of loaded livestock. The houses have a characteristic treatment of thick limestone masonry taken from the area's quarries, bound with lime mortar. The 'living floor' of the house treated with large and vertically oriented windows meanwhile the ones on the ground floor (Katonj) more reduced. Part of the facade has been treated with thick plaster on the stone masonry, a technique not suited to the tradition of area construction, while part of the stone masonry is usually exposed to the eye.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Residential_Complex_%27Nesturi%27",
+        "image": "foto_ndertesash/small/Vuno-Dukat/Residential_complex_Nesturi.jpg",
+        "large": "foto_ndertesash/Vuno-Dukat/Residential_complex_Nesturi.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.69486,
+          40.141424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Dhimiter Konomi' street",
+        "description": "This house is situated along the 'Dhimiter Konomi' street. It's a very interesting one storey house, with an underground level, that raises the main entrance height, to the house. The visible facade of the underground floor is made out of stone walls left without plaster and the main floor's facade is treated with plaster in warm terracotta color paint, combined with decorative, vertical white stripes and window frames. Today is in a state of decay with doors and windows missing, fragments of plaster fallen and torn down inner walls. There is no information on the time the building was realized, but judging from its architecture, there's a hint of an Italian architecture influence.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_on_%27Dhimiter_Konomi%27_street",
+        "image": "foto_ndertesash/small/Vlore/House_on_Dhimiter_Konomi_street.jpg",
+        "large": "foto_ndertesash/Vlore/House_on_Dhimiter_Konomi_street.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.490872,
+          40.421859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahmet Zogu's Royal Villa (Shiroke)",
+        "description": "This residential house is positioned on sloped terrain, overlooking toward the 'Shkodra' lake, and is believed to have been donated to King Ahmet Zogu by the citie's traders of that time. The architect who realized it is believed to be the famous architect Kol Idromeno, who as accomplished many other architectural works in Shkodra. In 1997 this villa was subjected to vandalism, during this delicate and turbulent period in Albania. During Socialism, it was confiscated and transformed into the 'Shiroka Vacation Camp', while today it is in a deplorable state, in constant degradation by natural and human agents as well.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:%27A.Zogu%27_Royal_villa,_Shkoder",
+        "image": "foto_ndertesash/small/Shkoder/Ahmet_Zogus_Royal_Villa.jpg",
+        "large": "foto_ndertesash/Shkoder/Ahmet_Zogus_Royal_Villa.jepg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.453901,
+          42.057179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Uruci'",
+        "description": "This house was built in 1910 and its author is Kol Idromeno. It is located along one of the oldest commercial-residential streets of Shkodra 'Gjuhadoli' street. This house represents one of the most evolutive ones in terms of architecture and Urbanistics, as it participates in the urban formulation of the street where it stands along. It has a simple and symmetrical plan and volume arrangement, with the main hall as the central connecting element where the main stairs-case also stands. On both sides of the main hall, two residential spaces of 5x5m dimensions are organized, while on the upper floor, on the northern part of the plan, there is a micro-unit, made out of sanitary-joints and a staircase that connects to the sub-roof storage. Also in this house, the central volumetric block is treated with special architectural care and sensitivity, like the characteristic arcades, on both the downstairs and upstairs, supported by constructive columns. Also the treatment with decorative horizontal frames, dividing floors, or decorative window frames or under shelter-frames, etc. The use of shutters, back then, was a new element for and on the ground-floor the placement of protective metallic railings. As for the materials used, this house was made with stone walls, brick walls especially the second floor, interior walls and the use of concrete reinforcement especially on the arches and columns in the central block of the dwelling. Shkodra houses, compared to contemporary Korça houses were not as diverse but were larger in size and with a much more monumental and distinctive facade treatment, despite the fact that the ones in Korça were not left behind in terms of ornamental treatment, with more unique elements like the use of 'erker'(central decorative and functional volume, extruded from the main facade of the house) and other ones.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Uruci%27",
+        "image": "foto_ndertesash/small/Shkoder/House_Uruci.jpg",
+        "large": "foto_ndertesash/Shkoder/House_Uruci.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.517557,
+          42.067666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Pashko Vasa",
+        "description": "The house lies on a large plot of land. It preserves a good condition of the surrounding walls, which include two yards separated by a low wall. The yard on the right is relatively large and served for the cultivation of vegetables and fruits while the yard in front of the house contains the usual fixtures of the Shkodran house such as the well, a wash-tube, and logs. The only gate that serves as the entrance to the house is with two panel-doors, made of wood and made of bandages and crafted nails. The gate is completed by a double-drainage roof with a wide shelter supported on the two side walls. Its layout-plan has three parts interconnected between them through the 'çardak' as a space-element. All three parts are two-storey high, with the same surface area. On the ground floor there is an auxiliary space and on the first floor the living space. The ground floor has a porch, also known as 'hajat' that connects with the second space. The space on the back serves as an 'ahur' that is paved with cobblestones and illuminated by two small windows. The first-floor volume is divided into four spaces: the cooking area, the dormitory room, a provisional area where the bathroom and the interconnecting spaces, is located. All of these facilities are simply decorated, with a wooden ceiling and a three-panel window, for lighting. The adjacent area is treated with a very rich interior. The main place is occupied by a very decorative ceiling with a triangular field. The room is illuminated by three windows. The interior of the room is complemented by the chiseled closet, on the 'musander' facade. The ground floor of the house is all made of stone-construction wall. Meanwhile, in the upper floors, there is also wooden construction used and brick walls. The doors are all made out of wood with one panel, simply treated or some more detailed. The roof is made in a traditional technique and continues to further the perimeter of the house in the shape of shelter. <br/>It should be noted that the condition of the basic house elements, appeared quite damaged. Unnecessary additions, that did not carry any architectural value, were removed. The central part was changed, during restoration works, it turned into an open 'çardak'. The 'çardak' space close to the 'guest room' was specifically treated adding a traditional chimney. Some other changes include: the window and door's wooden structure was reconstructed on the left side of the exit to the 'çardak' area. Also, Chimney, wall shelves and 'kamerie' space on one of the doors were rebuilt. There was a restoration of the ceiling and the upper part of the 'trapazan' (typical space created on the upper part of the musander. The ceiling part of the 'firehouse'( the main living room) was rebuilt. For the missing part of the right side of the 'trapazan', the historical footprint was used as a reference to re-create it. After the restoration, space re-gained architectural value again. The ground floor was also included in the restoration where the porch (hajat), was completely cleaned and the windows and doors of the 'ahur'(space for animals), were reconstructed. The floor of the house offers the possibility of a complete reconstruction. Other work was also done on the territory around the house as well as the complete rebuilding of the cobblestones of the 'hajat' area (groundfloor porch), the well, the fillings on the wall and the entrance gate. Currently, Pashko Vasa's nephew's wife lives in it and takes care of the house. The last reconstruction was done two years ago, while the first reconstruction was carried out in the 77 'with the opening of the' çardak '. He used to have a large family and one of the wealthiest in Shkodra, with 3 brothers and 6 sisters. The furniture placed inside the house is actually the original.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Pashko_Vasa%27",
+        "image": "foto_ndertesash/small/Shkoder/House_Pashko_Vasa.jpg",
+        "large": "foto_ndertesash/Shkoder/House_Pashko_Vasa.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.516894,
+          42.061838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Dabërdakë' House (mixed use building) ",
+        "description": "This is a very important house typology in the evolution of the house in Shkoder since it represents a  mixture of services as trading and residential function. It was completed in 1905 and is recognized as one of the works, where the creative mind of Kol Idromeno was truly distinguished, such as in the layout-plan, the extension of the building which is quite linear and the rich treatment of the facade with ornaments and details. This building has been restored. It was built by Xhovanin Daberdaku and the original heirs, have migrated. Today is still used as a mixed-use house and is located in one of the most active and important streets in Shkoder.",
+        "linked": "",
+        "image": "foto_ndertesash/small/Shkoder/House_Daberdaku.jpg",
+        "large": "foto_ndertesash/Shkoder/House_Daberdaku.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.51781,
+          42.06665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tower-House of 'Gjon Markagjoni'",
+        "description": "This tower of this house is a first category Monument. In the beginning, there was the residence-house of Mirdita'spersonalities, Gjon Markagjon. The tower of 'Preng Pasha' as known today, located near 'Jesuit Street'.The house in the begining belonged to one of the personalities of the time, 'Preng Bibe Doda'and afterward, Kol Idromeno in 1908, realized the additional part of the house together with the tower, as a unique typology in the architecture of Shkodra. It reinvented the idea of ​​the Orashi (Mirdite) towers from where their origin was and provided a considerable field-view of the city. This tower is about 15m high, organized on three floors with an interconnecting staircase for all three. Two of them have a reception function while one is a guarding- spot. The rest of the house has a considerable horizontal extension, and in one of its parts, the floor-level rises with some stairs to separate it slightly from other areas, therefore serving as a place for meetings with politicians and important figures. The house is divided between Gjon Markagjon's nephew's wife and the tower by one of his granddaughters. This apartment has a massive layout-plan, about 25 rooms in total. During Communism, it was confiscated and utilized for several functions through the years, such as kindergarten, school, dormitory, trade course, etc. In 1991 it was returned to its original owners. Around 2012 there was a partial restoration.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Tower-House_of_%27Gjon_Markagjoni%27",
+        "image": "foto_ndertesash/small/Shkoder/Tower_house_of_Gjon_Markagjoni.jpg",
+        "large": "foto_ndertesash/Shkoder/Tower_house_of_Gjon_Markagjoni.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.51559,
+          42.06487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Sylcabeg Bushati",
+        "description": "Built around 1932-1933 designed as a home and later used for about 20 years as a school.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Sylcabeg_Bushati%27",
+        "image": "foto_ndertesash/small/Shkoder/House_Sylcabeg_Bushati.jpg",
+        "large": "foto_ndertesash/Shkoder/House_Sylcabeg_Bushati.jpeg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.512714,
+          42.071034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House Bushati",
+        "description": "This building is a first category Monument, built in 1920. Around 1945 it was confiscated and used as a school, while in 1994 it was returned to its original owners.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_Bushati",
+        "image": "foto_ndertesash/small/Shkoder/House_Bushati.jpg",
+        "large": "foto_ndertesash/Shkoder/House_Bushati.jpeg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.507361,
+          42.066778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Doctor 'Kaduku'",
+        "description": "A characteristic city house situated also in a very central area of the city. It has an abundant front-courtyard and is surrounded by decorative walls, which are also used for decorative reasons and not functional ones the upper part of the main central volume of the house. It is believed, to have been used as the doctor clinic also. Symmetry and decorative frames are crucial elements that give harmony to the main facade.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Doctor_%27Kaduku%27",
+        "image": "foto_ndertesash/small/Shkoder/House_of_Doctor_Kaduku.jpg",
+        "large": "foto_ndertesash/Shkoder/House_of_Doctor_Kaduku.jpeg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.511522,
+          42.067318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Doctor 'Prela'",
+        "description": "This house is also one of Kol Idromeno's works. It used to be the house where the 'Prela' family lived but at the same time, along the street on the ground floor, of its side facade was the doctor's clinic. So it had two entrances as a house and is currently split between some several heirs. This house is one of the most developed from an urban and architectural point of view, in the variation typology 'banese me kate'(house with floor) and is believed, to have been realized in the last years of Independence. The project of this house is in the archives of AQSH. It lies at an intersection of roads therefore, its two main facades emerge along the main roads. This fact influences their particular ornamentation and detail care. These two rich facades also participate in the urban formulation of these two main roads as well. It lies in front of another important house typology, the one with 'krevet'. The spaces are treated cleanly and simply, the ground floor areas are generally 4x4m in height and 3m in height while the upper floor is 3.5m high. A special element is the use of the pre-entrance, to distance the main gate, as the facade extends along the road and the part above the main entrance is treated with a 'triple' arcade, which adds to the monumentality of the house.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Doctor_%27Prela%27",
+        "image": "foto_ndertesash/small/Shkoder/House_of_Doctor_Prela.jpg",
+        "large": "foto_ndertesash/Shkoder/House_of_Doctor_Prela.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.516901,
+          42.066701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Migjeni'",
+        "description": "The house is located at a road's intersection, a fact that influences its volumetric composition. Its house- corner breaks, due to the widening of the viewing angle. This house is known as the home of writer Migjeni and is one of Kol Idromeno's works also. It has been later restored and besides its different volumetric composition, its facades have been treated with particular care in the decorations and framings around the doors and windows or the treatment of the main balcony dominating the corner, with decorative metallic motifs. It was listed as a monument but was later removed from the status after being transferred to private ownership.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Migjeni%27",
+        "image": "foto_ndertesash/small/Shkoder/House_Migjeni.jpg",
+        "large": "foto_ndertesash/Shkoder/House_Migjeni.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.516901,
+          42.066701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Paci' (ArtHouse)",
+        "description": "The house is believed to have been built in 1860, inherited by two brothers. One of them inherited the old house and the other lived in the house close, built a few years later. The new building was taken over by the artist Adrian Paci and, through a project of Italian architect Filippo Taidelli, became what is now known as 'Arthouse'. The artist's home and at the same time is a meeting point and cultural space for artists and art-lovers. The new structure turns the back to the tall buildings spread across the area, opening the visitor's view to the facade of the 19th-century house and the green courtyard. From the 1979 earthquake, the building had some problems and there was a lot of pressure on the house, to demolish it earlier, but the 'Arthouse' project worked as a secondary solution to the problem.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Paci%27_(ArtHouse)",
+        "image": "foto_ndertesash/small/Shkoder/House_Paci_Arthouse.jpg",
+        "large": "foto_ndertesash/Shkoder/House_Paci_Arthouse.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.516572,
+          42.066013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ouse of 'Ismet Halili'",
+        "description": "The house was built by craftsmen from Dibra. It is believed to be around 300 years old and was purchased by the grandson and uncle of its current owner. During Communism, there were about six families, who lived mainly on the ground floor. It is currently split between two brothers, a division that exists physically. In 1973 was declared a cultural monument, valued by E.Riza and G.Strazimiri. The first restoration was done in 1985, doing some work with the floor-paving, the hallway, the door handle, the beams were covered in the part of the ceiling. The house has a summer corner and a winter corner( enclosure) known as 'qoshk', as well as a massive stone staircase that leads to the ground floor. Inside there are hidden communication elements between the two chambers known as 'arkapi'. A characteristic feature of this house is the fact that there used to be a giant courtyard that stretched all the way to the Stadium, but was later occupied by state authorities and bunkers were built-in proximity, today part of it was sold to other owners. The last restoration was made in June 2019, mainly on the floor, windows and also the corner known as 'qoshku', on the first floor.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Ismet_Halili",
+        "image": "foto_ndertesash/small/Shkoder/House_Ismet_Halili.jpg",
+        "large": "foto_ndertesash/Shkoder/House_Ismet_Halili.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.504656,
+          42.070624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Filip Çeka ",
+        "description": "The house is a first category Monument and has been one of the first ten listed houses to be included. It was built by Pjeter Çeka, a wealthy businessman from Shkodra, also the grandfather of Filip Çeka. Nowadays, this house is divided between two brothers, a partition that is reflected physically in two halves of the house. Residents have done some of their interventions on the house so that it could fulfill their actual living needs, one of which is the paving of the back yard with cobblestones from the mountains, the replacement of window timber frames. The roof was completely changed after dripping constantly. In Communism, tenants were living in some of the rooms and only one room left for the family. What is used today as a door by one of the families was once a window and changed to respond to the split of the house between the two brothers. The Institute of Monuments intervened in the arrangement of the ground-floor ceiling, as the floor of the upper rooms was tilting and deforming. A special element in the interior treatment are the decorative imprints over the main room's plaster layer.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Ceka%27",
+        "image": "foto_ndertesash/small/Shkoder/House_Ceka.jpg",
+        "large": "foto_ndertesash/Shkoder/House_Ceka.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.516646,
+          42.063573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of 'Oso Kuka' (History Museum)",
+        "description": "This house is declared a first category Monument in January 1977. The house of Oso Kuka is a house with 'çardak' on one side, representing one of the typical traditional city houses of Shkodra, very abundant in its spatial organization. This house bears architectural and historical value and is related to the life and work of Oso Kuka. It is a two-storey building made of wood and stone. In terms of the construction structure, architectural and artistic elements situation, it is preserved very well. Today in the spaces of this house, is located the Historic Museum of the city. The voluminous houses in Shkodra are always organized on two floors and with a sun-oriented facade, as is the case. The ground floor consists of the open porch also known as 'hajati' and of the enclosed, also known as 'ahuret'. The last ones traditionally served as a repository for household supplies, at an early stage one of the spaces served to shelter horses. The upper floor had living quarters for the family members. The rooms, both functionally and aesthetically, have been treated with special care. The room, whose windows overlook the courtyard, has been chosen for the reception of the guests (guest room), in the function of the hall.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Oso_Kuka",
+        "image": "foto_ndertesash/small/Shkoder/House_Oso_Kuka.jpg",
+        "large": "foto_ndertesash/Shkoder/House_Oso_Kuka.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.509168,
+          42.069147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Selfo'",
+        "description": "This house is a second category Monument and is also known in Shkoder, as the House of 'Dan Hasani'. It represents a two-story house, quite developed in horizontality. It's courtyard in front serves today as a parking lot and the building is in an alarming state of decay and deterioration. Despite its state of neglect, the richness in detail and ornaments is quite visible and an important feature of its continuous linear facade. The central block of the main facade breaks a little bit this continuity, emphasizing symmetry. A very accurate detailed balcony, sustained by four colomns, adds further to the monumentality of this house in Shkoder. it is believed to have been realized by K.Idromeno himself, since you can find it in his books with drawings and sketches of his works.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Selfo%27",
+        "image": "foto_ndertesash/small/Shkoder/House_Selfo.jpg",
+        "large": "foto_ndertesash/Shkoder/House_Selfo.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.510167,
+          42.063667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of 'Kol Idromeno'",
+        "description": "This is the house where one of the most important personalities of Shkoder Kol Idromeno (architect and engineer), lived. It is a two-storey house very simply treated and situated in one of the main streets of Shkoder. It has been restored and is used as a mixed-use house. It has a historical value as a house.",
+        "linked": "",
+        "image": "foto_ndertesash/small/Shkoder/House_Kol_Idromeno.jpg",
+        "large": "foto_ndertesash/Shkoder/House_Kol_Idromeno.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.517297,
+          42.068146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The museum-house of 'Kostandin Kristoforidhit'",
+        "description": "A two-storey house positioned within the castle walls, in a medieval cobblestone alley. It belongs to the time period of the second half of the XVIII century, in 'Mihal Hasa' street. It reflects all the elements that the house with 'çardak' has, considering the mild climate of Elbasan. Initially, the first floor of the house, had three living-spaces and an open 'çardak' while on the ground-floor, basement/deposit rooms. Over time the house has degraded and as a result nowadays comes with many changes. Its function and its general layout-plan, are simple and communicative. The wood element prevails over the white-washed walls. The fire-room, with the hearth and other living equipment, is quite large. Characteristic copper lamps are hunged, on wooden ceilings. The fire room is illuminated by a skylight('baxha'-roof window). On the ground floor lies a small basement door, with decorated wooden boards and with a window, with iron grids, enabling the cellar lighting.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Kostandin_Kristoforidhi_House",
+        "image": "foto_ndertesash/small/Elbasan/The_museum_house_of_Kostandin_Kristoforidhi.jpg",
+        "large": "foto_ndertesash/Elbasan/The_museum_house_of_Kostandin_Kristoforidhi.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.07985,
+          41.11511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ethnographic Museum of Elbasan (House of Hajdar Sejdini)",
+        "description": "'The Ethnographic Museum of Elbasan' is located in the city center and it's also listed as a first category Monument. This characteristic house belongs to the XVIII century and it represents a typology of houses with 'çardak'. From the plan-composition and according to the functional and architectural concept, it is very similar to the houses of ​​cities like Berat and Shkodra. The volume consists of two floors, where the ground floor is used as an agricultural product deposit and the first floor for living. During the time, this house had undergone transformations, especially in the left part, where volume made out of bricks, was built, with its size it affected the architectural values ​​of the house itself. For this fact a restoration project appeared very much needed, to restore the values ​​of the house, carried out by the atelier of the  Institute of Cultural Monuments of Tirana, with a project by Latif Lazimi, in 1983-1985. The house was in very poor condition, especially in terms of construction and decorations. Elements like 'çatmatë' (traditional technique applied on walls, with small wooden planks and layers of plaster over it), floors, ceilings, doors, windows, and the roof were degraded to a considerate degree. The restoration would ensure the stability of the building and the reconstruction of some of the existing architectural elements. Restoration interventions include the surrounding areas of the house such as the yard, the well, the surrounding walls, and the main gate as well. After the restoration, the house was adapted into an Ethnographic Museum, that houses 900 original objects of folk culture and ethnography.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Elbasan_Ethnographic_Museum",
+        "image": "foto_ndertesash/small/Elbasan/House_Hajdar_Sejdini.jpg",
+        "large": "foto_ndertesash/Elbasan/House_Hajdar_Sejdini.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.08315,
+          41.11205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Ptoleme Xhuvani' street",
+        "description": "Situated inside the walls of the Elbasan Castle, today it is in a deplorable state, a large part of which has been demolished.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_on_%27Ptoleme_Xhuvani%27_street",
+        "image": "foto_ndertesash/small/Elbasan/House_no_1_on_Ptoleme_Xhuvani_street.jpg",
+        "large": "foto_ndertesash/Elbasan/House_no_1_on_Ptoleme_Xhuvani_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.08098,
+          41.11626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House no.2 on 'Ptoleme Xhuvani' street",
+        "description": "This house has a very simple volumetry, organized on two floors. It has a combined wall structure, with stone walls on its ground floor combined with red bricks and red bricks walls on the first floor. The facade is quite raw without plaster, therefore  the red brick pattern can be easily noticed on the first floor, on the other hand on the ground floor there's a pale layer of lime on the facade. Green wooden Persian blinds are used over all the windows.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_no2_on_%27Ptoleme_Xhuvani%27_street",
+        "image": "foto_ndertesash/small/Elbasan/House_no_2_on_Ptoleme_Xhuvani_street.jpg",
+        "large": "foto_ndertesash/Elbasan/House_no_2_on_Ptoleme_Xhuvani_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.07947,
+          41.11585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House (Elena Papajani's)",
+        "description": "This house is situated on 'Vangjel Xhani' street. It is a Monument of first category, declared as such  in 1963.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_on_%27Vangjel_Xhani%27_street",
+        "image": "foto_ndertesash/small/Elbasan/House_on_Vangjel_Xhani_street.jpg",
+        "large": "foto_ndertesash/Elbasan/House_on_Vangjel_Xhani_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.07957,
+          41.11525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Jovan Popa' street",
+        "description": "The house is situated on a cross roads, and one of its facades stands along  one of the roads as a continuity of the courtyard surrounding walls. It shapes the silouhette of this small alley inside the Castle and at the same time its position  close to the road affects its treatment.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_on_Jovan_Popa_street",
+        "image": "foto_ndertesash/small/Elbasan/House_on_Jovan_Popa_street.jpg",
+        "large": "foto_ndertesash/Elbasan/House_on_Jovan_Popa_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.08111,
+          41.11553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Vasil Mojsiu' street",
+        "description": "This house is located within one of the oldest neighborhoods of the Castle, at the intersection of an alley. It is believed, that is the house where Konstantin Kristoforidhi lived and spent many years of his life, and later moved to the house that today has been converted into a museum in his honor. His daughter married and lived in this house later.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_on_%27Vasil_Moisiu%27_street",
+        "image": "foto_ndertesash/small/Elbasan/House_no_1_on_Vasil_Mojsiu_street.jpg",
+        "large": "foto_ndertesash/Elbasan/House_no_1_on_Vasil_Mojsiu_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.08116,
+          41.11549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House no.2 on 'Vasil Mojsiu' street",
+        "description": "The house is situated in the old neighborhood, inside the castle, close to the house where Kostandin Kristoforidhi's daughter lived. This house has two entrances and since its facade steps out and shapes the silhouettes of this alley, you can notice it is more closed with not that many windows and openings. The main facade looks towards the inner garden from the other part of this alley. The volumetry is pretty rigid on the ground-floor with a stone masonry construction with anti-seismic wooden beams, to give more stability (traditional building-technique), on the other hand the upper floor is slightly more dynamic through the two volumes, getting out of the main facade, to increase the surface used on the upper floor.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_no.2_on_%27Vasil_Moisiu%27_street",
+        "image": "foto_ndertesash/small/Elbasan/House_no_2_on_Vasil_Mojsiu_street.jpg",
+        "large": "foto_ndertesash/Elbasan/House_no_2_on_Vasil_Mojsiu_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.08093,
+          41.11536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Avni Rustemi' street",
+        "description": "House with a very different architecture from the prevailing architecture within the walls of the Castle of Elbasan. It is believed to be an architecture influenced by Italian influence.",
+        "linked": "More photos of the hose\nhttps://commons.wikimedia.org/wiki/Category:House_on_%27Avni_Rustemi%27_street",
+        "image": "foto_ndertesash/small/Elbasan/House_on_Avni_Rustemi_street.jpg",
+        "large": "foto_ndertesash/Elbasan/House_on_Avni_Rustemi_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.08209,
+          41.11341
+        ]
+      }
+    }
 
 
 
