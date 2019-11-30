@@ -49,10 +49,11 @@
     </div>
     <p class="footer">Made with ❤️ by <a href="team">Team</a>. Find the source code <a href="https://github.com/JoraKasapi/TheAlbanianHouse" target="_blank" rel="noopener">on Github</a>.</p>
     <p class="footer">Bibliography of the project is documented <a href="bibliography">here</a>.</p>
+    <p><img src="img/logo-sponsors.png" width="100%" height="auto"></p>
   </div>
 
 <script>
-var exp = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=()]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=()]*)/gi;
+var exp = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=(),]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=,()]*)/gi;
 var regexp = new RegExp(exp);
 
 var eventsList = document.querySelector('.event-list')
@@ -113,9 +114,12 @@ var eventsLayer = omnivore.geojson('buildings.geojson')
     element.style.color="#000";
     element.style.backgroundColor="#D1DBD7";
     });
+      document.getElementById(`${title}`).classList.add("activeProperty");
+
     document.getElementById(`${title}`).style.border="0.5rem #84684B solid";
     document.getElementById(`${title}`).style.color="#fff";
     document.getElementById(`${title}`).style.backgroundColor= "#84684B";
+
     window.location.href = `#${title}`;
     }
 
@@ -124,6 +128,7 @@ var eventsLayer = omnivore.geojson('buildings.geojson')
     function onOutClick(e) {
     document.getElementById(`${title}`).style.border="0.15rem #84684B solid";
     document.getElementById(`${title}`).style.color="#000";
+    document.getElementById(`${title}`).style.backgroundColor= "#D1DBD7";
     window.location.href = "#";
     }
 

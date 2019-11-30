@@ -11,7 +11,11 @@ body {
 
 }
 h6{
-  font-size: 22px;
+  font-size: 28px;
+  font-weight: 500;
+}
+h3 {
+    font-weight: 500;
 }
 h1, h2, h3, p, h6 {
   margin: 0;
@@ -78,7 +82,7 @@ h1, h2, h3, p, h6 {
 }
 .event-description a, .info-container a {
   display: inline-block;
-  font-weight: bold;
+  font-weight: 500;
   text-decoration: none;
   color: #84684B;
 }
@@ -106,4 +110,7 @@ a:hover {
   .map-container {
     height: 50vh;
   }
+}
+.activeProperty  p a, .activeProperty  a{
+  color: #ffffff;
 }
