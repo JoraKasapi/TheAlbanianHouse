@@ -1170,8 +1170,187 @@
           41.11341
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Romanian House",
+        "description": "Situated right on the main promenade in Korçe, it shows one of the most characteristic houses in that area. The space of its ground floor was first used to host different services, therefore being a mixed-use house, and today it has the most visited Museum of Korça, the 'Museum of the Albanian (from Korca) photographer 'Gjon Mili, very famous for the use of stroboscopic instruments, to capture actions on photograph. <br />The Romanian house is believed to have been named so since you can read influences from a Romanian-Byzantine architecture. It is thought to have been built over four years starting in 1924. Its owner is known as 'Tashko Ilo'. After his death, this house passed into the ownership of his wife and years later, since the 'Ilo' family had no children, this house was transferred to the management and administration of the 'Women's organization' and then to the Municipality of Korca. Its former function has been 'The house of Youth', and nowadays it has turned into the Museum of American-Albanian photographer Mili. The interior design project was designed by architect Peter Willson.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Romanian_House,_Kor%C3%A7%C3%AB",
+        "image": "foto_ndertesash/small/Korce/The_Romanian_house.jpg",
+        "large": "foto_ndertesash/Korce/The_Romanian_house.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.77922,
+          40.61663
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Ceva'(House on 'Lidhja e Prizrenit' street)",
+        "description": "Previously this residence belonged to a French professor. It was then known as the House of 'Çeva'. It was rented until the 90's and after passed into the ownership, of one of the sisters 'Çeva's son. He then took over the administration and over the years there have been disputes over the sale price. The ground floor has been adapted and adjusted over the years to fulfill the tenant's needs. There was a well on the courtyard and It is believed to have been realized around 1931, as the board at the entrance also says.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27%C3%87eva%27",
+        "image": "foto_ndertesash/small/Korce/House_Ceva.jpg",
+        "large": "foto_ndertesash/Korce/House_Ceva.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78341,
+          40.61982
+        ]
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House no.2 on 'Lidhja e Prizrenit' street",
+        "description": "In this house lived for several years, by renting i, the movie director 'Pirro Milkani'. Afterward 'Llazi Serbo' (movie and theater actor) and his brother, lived in it. It is now owned by Serbo's brother-in-law. The board at the door shows the year 1929, which is believed to be the year where it was built.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Pirro_Milkani%27",
+        "image": "foto_ndertesash/small/Korce/House_Pirro_Milkani.jpg",
+        "large": "foto_ndertesash/Korce/House_Pirro_Milkani.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78360,
+          40.61986
+        ]
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa of Doctor 'Polena'",
+        "description": "This house is a second category Monument even though one of the families living today there, part of the Polena family, were skeptical, to give the status of a cultural monument to the house. Nowadays this very special residence was inherited by the six children of Dr. Polena. The house was not what we see today. Initially, Polena's parents and brother lived there and after his return from Germany, he implemented some changes. He came back with very innovative and modern ideas, for the time and expressed all this not only in his work but also in the design of this house. Doctor Polena's father disagreed to demolish the existing house, so Doctor Polena decided to rebuild it with a more contemporary spirit. Reconstruction is thought to have taken place, from the 30's to 40's, with phases, depending on the finances they had, back then. Therefore this project did not have an architect's signature. <br />The secondary entrance is on the left and the spaces they direct to, served as a space for animals after the doctor had a passion for studying them for his, interest related to his profession. After the entrance, there was a corridor, which does not exist anymore, and included the medical-visits rooms, the graphs room, the rooms with beds, the laboratory and the room where the 'Rentgen' was located (the first equipment brought to Albania). The house has had, in total 50 spaces or compartments. About 8 facilities in the last floor, served the patients during the recovery process. The floor below, that served for living, was organized in bedrooms with bathrooms joints inside each room, the dining room upstairs divided by the cooking area, and also a music room. Below the staircase, there was a toilet, reserved for staff people. The upper rooms are illuminated from above, through skylights. On the four corners of the house, there are small porches(terraces), also Doctor Polena had in his plans to cover with marble columns and place some sculptures of Olympian gods on the last floor.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_doctor_%27Polena%27",
+        "image": "foto_ndertesash/small/Korce/House_Polena.jpg",
+        "large": "foto_ndertesash/Korce/House_Polena.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78357,
+          40.61723
+        ]
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of the painter 'Vangjush Mio' ",
+        "description": "Located in one of the old neighborhoods of Korca, in 'Varosh', this house has served as a gallery for the exhibition of the painter's works. It is believed to be one of the most unique typologies of Korça houses. In 1977, its restoration was carried out. The house is organized on two floors, and you enter directly from the street, into the porch of the house also known as the 'hajat', and from there into the inner courtyard of the house, paved with big stone tiles, and surrounded by high walls. To the right of the courtyard, there's a well. The ground floor consists of the porch and two spaces, where only one is for residential purpose, while the other has been created over the years with a brick wall partition, of the existing porch. The living area is treated simply, with 'musandra' on its bottom and timber ceilings, there is also a staircase leading to the lower semi-floor of the 'zahire' food deposit space, descending it is possible through a staircase from another living area. Staircases are placed to climb to the first floor, also on the porches. While the first floor consists of three main areas and the 'cardak' as an interconnecting space for all of them. One room was used as the painter's studio, the other a guest room, and a third space. The 'guest room' has the typical attention in its treatment for the traditional city-houses, with decorative wooden doors with floral and bird elements ornaments, a ceiling plastered and in the center treated with a decorated timber structure, with its four corners, decorated in triangular, wooden platforms. On one face of the room, the 'musander' develops and right in front of it a decorative chimney. The studio room has a similar treatment but is on the other side. The third room in the north has a simpler treatment with no decorative ceiling with exterior and window lighting over the porch and towards the inner courtyard. The interconnected corridor has two illuminating windows and a timber ceiling. One curious element is that, the 'çatmaja' (timber-boards, western façade ) were made up of recycled boards, reused beams, frames, and ceiling planks, used previously in the building. <br />The building has undergone many changes over the years, especially after the 1930s earthquake, or changes by the residents themselves, to adapt to the living purposes. The house belongs to the open type, with the porch downstairs on the ground floor and the 'çardak' on its first floor, both connected by a simple staircase structure, and the 'çardak', being a bit narrow, serves more as an interconnected element. This house also is protected by the Institute of Monuments, because of its history as well as architectural values, regarding the typology, to which it belongs. The house comes out with one of its facades on the street, with the 'corner' (qoshk), taking part in its volumetric formulation. This east façade is very aesthetic for many reasons, because of the large number of windows visible, a combination of stone fractures with wooden beams, and the appearance of constructional elements such as shelters, turning  into decorative ones. The windows do not stay separate, but are connected, by creating a belt, a continuous bandage on the facade as well as the structural wooden elements, are most visible and as turning into decorative elements, being treated and decorated. The 'çardak' opens to the courtyard creating a common and communicative space unit. The economization of the site through the congestion of the living space and the exit of the living room 'cardak', to the north is a characteristic of this house and at the same time also typical of Korça houses in general. Another element that further reinforces this aspect is its participation, in the urban formulation of the road, through the extension of the 'qoshk' (central corner) element on the facade.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_the_painter_Vangjush_Mio",
+        "image": "foto_ndertesash/small/Korce/House_of_the_painter_Vangjush_Miho.jpg",
+        "large": "foto_ndertesash/Korce/House_of_the_painter_Vangjush_Miho.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78115,
+          40.61567
+        ]
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of 'Dhimitraq Treskes'",
+        "description": "The house of 'Dhimitraq Treska' was built in 1850, a fact that is indicated by the carving at the main gate also. This house emerges directly, with its two sides (perpendicular between them), at the intersection between the two roads, as well as the entrances to the house are along these roads. It is characterized as a closed and massive house since it is a stone masonry house, organized on two floors. According to records, this house has been the 'guest-house' also known as 'mysafirhanja' of Vangjush Mio's old house and it's separated from it, by a high wall, with a gate that retains all its original features. They were built in close periods but they are very different from the typological point of view. The project of restoration was realised on it consisting of, the repair of damaged plastering, the consolidation of the western walls, the refurbishing of the existing spaces in between stones, according to existing traces, the completion with windows of the existing spaces, the demolition and remodeling of the auxiliary units and the re-construction of the western-wall partition, that connects it with the Vangjush Mio Residence. The restoration project was carried out by P.Thomo and the implementation by the Atelier of Korca, in 1982.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Dhimitraq_Treska%27",
+        "image": "foto_ndertesash/small/Korce/House_Dhimitraq_Treska.jpg",
+        "large": "foto_ndertesash/Korce/House_Dhimitraq_Treska.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78121,
+          40.61582
+        ]
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Complex on 'Mihal Grameno' street (Archealogical Museum of Korca and 'Lipe Kote' House)",
+        "description": "This residential complex is located in one of the oldest areas, of the city of Korça and consists of two houses of different architectural typologies, and realized according to different construction criteria. This complex has served as a residence, for more than a century, to a family of traders in Korçe. The two houses have been realized within a time-span difference, of around 30 years.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Archaeological_Museum_of_Kor%C3%A7a",
+        "image": "foto_ndertesash/small/Korce/Archaeological_Museum_of_Korca.jpg",
+        "large": "foto_ndertesash/Korce/Archaeological_Museum_of_Korca.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78146,
+          40.61528
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Lipe Kote",
+        "description": "The two-storey 'Lipe Kote' house, represents a unique example of a construction in Korca, in the middle of the 19th century. Regarding its construction scheme, it has a mixed structure with stone walls, combined with 'çatma' structure on the closed 'çardak', on the facade of the first floor also, where each room is also illuminated by three windows respectively, the solution this suitable for the continental climate of Korça. This house is located in one of the oldest neighborhoods of Korça and dates back to 1842. The residence is with two storeys and has a central entrance with an arched roof protected by an arcade with three arches. This entrance leads into a central interconnected hallway, paved with big stone tiles (plloca), and communicating with the main doors of the spaces it connects. The ground floor is organized in four spaces, from where two that are for living are placed on its front side while the other two serving as cellars, on the back. The room on the left side is in very good condition with paved floor and timber-ceiling. The ground floor is connected to the first floor by a wooden staircase, this floor has a symmetrical layout and like the ground floor but with more particular care in the space and treatment of the 'çardak' area. This symmetrical and volumetric composition is reminiscent of the typical Albanian housing typology with central 'çardak', but this specific case is characterized by the introduction of new concepts and features in architecture. The house has suffered static damages and has undergone changes over the years. The restoration project carried out by P.Thomo and implemented by the Atelier of Korça, in 1967 under the direction of the author has made it possible to: Consolidate the construction and restore the original state of some compositional elements, such as the opening of the 'çardak' and the porch with arches on the ground floor, that used to be closed over the years and many original architectural and decorative elements have been preserved. <br />Three-storey type 'tower-house' (kulla) : According to oral data, there is an inscription on this building, which dates back to July 1870, 30 years later than the first two-storey house, being a 'tower-typology'(kulla), its volumetry is shaped like a parallelopiped. The peculiarity of this civic tower is the fact that it is not located within a specific plot of land surrounded by the courtyard, but two of its sites are open to the public. Many of its interior spaces such as the ground floor auxiliaries, staircases connecting the three floors as well as the living areas have been treated with a very clean architectural language. A special element of the ground floor tower is the entrance to the inner courtyard, in the center of which has a square section column that holds the weight of the three architraves set at angles 84 and 108 degrees,s and thus retains all the weight of the stone masonry of the above floors. This is a very bold construction for the time, and it definitely increases its value. This part that provides access to the courtyard of the complex has been treated with arcades, an element thought to give a more Albanian atmosphere and character, viewing the arch as an important element of our tradition. The perimeter masonry is all made of stone and in between the floors, anti-seismic metal tires are used, which later followed the other building construction, but this was the first house, to have had such treatment in terms of anti-seismic measures. The corners of the wall are treated with decorative carved stones and almost the same size. It has decorative elements such as baroque motifs on the second-floor balcony. The interiors of the first and second floors have been treated in certain parts with wall paintings, somewhere and with floral motifs, in gray-blue tonalities and in another room somewhere there are traces of a wall painting on the ceiling. The masonry bonding material is high-quality limestone. The pavement of the common courtyard is made of stone-tiles with dimensions 45x45 cm typical of Albanian traditional architecture. Outside the tower, an auxiliary storey was built when the family expanded. <br />On the first floor of the tower, there is an enclosed central lounge that interconnects the 'fire-room' with wall and musander on the wall as well as the bedroom on the upper floor beside the enclosed lounge with a raised platform for family ceremony. There are also, two largest rooms of 40m2 serving as guest-rooms, while the other served as a bedroom. The construction of this house was realized as a necessity by the expansion of family structure and their social status even thought to have been built for the purpose of 'guest-house' for family friends. This tower today is used as 'The Archaeological Museum of Korça'.",
+        "linked": "More photos of the house\n",
+        "image": "foto_ndertesash/small/Korce/House_Lipe_Kote.jpg",
+        "large": "foto_ndertesash/Korce/House_Lipe_Kote.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78167,
+          40.61532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Pandeli Cale' street",
+        "description": "Located in the 'Barç' neighborhood, it was built in 1866. It comes with one facade along the street and the front facade towards the yard. The ground floor rises above a basement, which is the result of the basement floor elevation. The entrance to the basement is provided from the outside, from the bottom of the stairs and the inside. This basement is used as a 'pantry' for the food storage and clothing, by the family. In the central part of the house, there are stairs, leading to a porch with wooden pillars surrounded by glass, an intervention believed to have happened, at a later period. On the ground floor, the organization scheme has a very wide central corridor that connects to the two rooms and has a wooden staircase that connects to the upper floor. The space behind the staircase is augmented, by widening the corridor to the back and so on creating a new space, used as a service annex on that floor and as a bedroom on the upper floor. On the ground floor, only the living room preserves the original equipment like the chimney and the 'musandras' next to the door. Meanwhile the upper floor expands a little further with the central 'corner' space 'qoshku'. The corner, due to the considerable space and good natural lighting, makes for a very comfortable and relaxing environment. The upstairs bedrooms are simply treated without chimneys and 'musandra' (closets), but have large windows on almost every wall, which gives them a good illumination of the spaces. In terms of handling the exterior and especially the front of the corner(qoshku), there are some interesting details such as: the staircase is made out of hewn stone, and the stairs are monolithic, the side entrance between the two rows of windows, this entrance door is worked with carved stones. The cars that wear the space underneath the corner are made of glass and scrap iron. Traditionally built 'the corner', emerges as a volume that is held by porch's wooden pillars,  the presence of rich shelters, with architectural decorative elements and wooden frames while the two sides of the façade have been treated symmetrically as in the number of windows, as in the simple treatment of masonry to highlight the compositional importance of the corner in this house.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_on_%27Pandeli_Cale%27_street",
+        "image": "foto_ndertesash/small/Korce/House_on_Pandeli_Cale_street.jpg",
+        "large": "foto_ndertesash/Korce/House_on_Pandeli_Cale_street.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78334,
+          40.61775
+        ]
+      }
+    },   
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Jovan Çiço Kosturi' street",
+        "description": "This house is located at the intersection between the two streets along which its side facade and back facade are oriented, a fact that made it possible to maintain a balance in the care towards both its facades. However, the west-facing, front-yard facade, has a more specific architectural treatment with elements. The central volumetry is accentuated through the main entrance and two parade-staircases, leading to the porch. This one was created through stone pillars, is also a structure that holds the corner also known as 'erker' above. Its layout is enriched by the addition of 'sobalka' living areas (a type of closet, or musandras). The layout functionality becomes more defined, the ground floor serves as a pantry (food deposit), the living and reception rooms are located on the ground floor, and the bedrooms, on the first floor. In the case of family ceremonies, the entire first-floor space is used as one.  The 'Erker', as a console element that comes out of the house perimeter, continues to be made of 'çatma' while in terms of decorative treatment, it is richer in elements. The ground floor has been left unplastered with the stone masonry visible, while the upper floor has been plastered and the differentiation of the techniques, between two floors is visible through a stone belt. While in the upper floor treated with white plaster, the corners are treated with decorative pilasters made of carved red stone, resting on the stone partition frame. <br />Today the 'Melko' family resides there. It is thought to have been built in the 1850s. During the communist era, tenants were inhabiting it. It has always had the function of a house. The latest earthquake that struck on September 21 has demolished the plaster ceilings of the four rooms, on the first floor. It is a Monument of first category. After the '60s another earthquake brought subsequent changes to the waiting room. This room is divided into two parts. Above there is an opening, with which you climb on the roof.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:Banesa_e_Andromaqi_Melkos",
+        "image": "foto_ndertesash/small/Korce/House_on_Jovan_Cico_Kosturi_street.jpg",
+        "large": "foto_ndertesash/Korce/House_on_Jovan_Cico_Kosturi_street.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.77983,
+          40.61701
+        ]
+      }
     }
-
 
 
 
