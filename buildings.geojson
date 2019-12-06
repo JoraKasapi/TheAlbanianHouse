@@ -1188,7 +1188,7 @@
           40.61663
         ]
       }
-    },    
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1206,7 +1206,7 @@
           40.61982
         ]
       }
-    },  
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1224,7 +1224,7 @@
           40.61986
         ]
       }
-    },  
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1242,7 +1242,7 @@
           40.61723
         ]
       }
-    },  
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1260,7 +1260,7 @@
           40.61567
         ]
       }
-    },  
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1278,7 +1278,7 @@
           40.61582
         ]
       }
-    },  
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1296,7 +1296,7 @@
           40.61528
         ]
       }
-    }, 
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1332,7 +1332,7 @@
           40.61775
         ]
       }
-    },   
+    },
     {
       "type": "Feature",
       "properties": {
@@ -1348,6 +1348,96 @@
         "coordinates": [
           20.77983,
           40.61701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of 'Raqi Simaku'",
+        "description": "The house is situated on 'Gavril Peppo' street, behind the Korça's Cathedral. The house has undergone many changes and has been alienated from its original identity. Today the ground floor serves as a bar, and the underground floor as a private police station.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Raqi_Simaku%27",
+        "image": "foto_ndertesash/small/Korce/House_Raqi_Simaku.jpg",
+        "large": "foto_ndertesash/Korce/House_Raqi_Simaku.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78069,
+          40.61534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House no.1 on 'Sotir Peci' street",
+        "description": "The house where the film 'Ladies from the city' was shot. Its owner is Dhimosten Poci and he and his wife immigrated to America many times (1940). No interventions have been made in years, Exterior paints have been around since 1944. During the dictatorship there were tenants. It is thought that the restoration process will begin soon.",
+        "linked": "More photos of the house\nhttps://commons.wikimedia.org/wiki/Category:House_no.1_on_%27Sotir_Pe%C3%A7i%27_street",
+        "image": "foto_ndertesash/small/Korce/House_no_1_on_Sotir_Peci_street.jpg",
+        "large": "foto_ndertesash/Korce/House_no_1_on_Sotir_Peci_street.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78325,
+          40.61639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Furrxhi' ",
+        "description": "It is known in Korca as the house of the family Furxhi, located on 'Sotir Peci' street. Its original family migrated to America and nowadays there are tenants living on the upper floor, while the ground floor that today is a bakery as it has been since the beginnings. It is believed that the family got its name, from this fact. The facade on the ground floor follows the continuity of the other buildings along the road, meanwhile, the volumetry on the upper floor contains a very defining element for this typology of houses in Korca, which is the corner or 'qoshk', that in this case is an 'erker' as a central volume. The upper floor, still preserves today the terracotta hues and colors and the unique ornamentation, as detailed as sculptures on some parts of it.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Furxhi%27",
+        "image": "foto_ndertesash/small/Korce/House_no_2_on_Sotir_Peci_street.jpg",
+        "large": "foto_ndertesash/Korce/House_no_2_on_Sotir_Peci_street.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78286,
+          40.61604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of 'Koco Xhamballas'",
+        "description": "This house was built in 1899. Today it is a guesthouse. A good number of the dwellings on this road, have been burnt down, as this one has damaged a lot also. Its side facade develops along the main street, meanwhile, the main facade oriented on the west, with a big courtyard in front of it and surrounded by lower walls. On the courtyard, there were also two outdoor structures like a bathroom and a deposit for wood, with trees and vegetables planted. The house preserves the original plan organization with some provisional adjacent spaces, but the new plastering covered some of the main architectural elements of it. This is a two storey house, and on the ground floor, there's a narrow 'hajat', preceding the main living room of the house.",
+        "linked": "More photo for the house\nhttps://commons.wikimedia.org/wiki/Category:Bujtina_Leon",
+        "image": "foto_ndertesash/small/Korce/House_on_Shpresa_Palla_street.jpg",
+        "large": "foto_ndertesash/Korce/House_on_Shpresa_Palla_street.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78166,
+          40.61578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Frasheri'",
+        "description": "This house is situated on on 'Dodona' street, and is also known as the 'Frasheri' Residence. The plaque at the entrance says 'May 1870' so is believed to be the year it was realized. ",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_Frash%C3%ABr,_Kor%C3%A7%C3%AB",
+        "image": "foto_ndertesash/small/Korce/House_Frasheri.jpg",
+        "large": "foto_ndertesash/Korce/House_Frasheri.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.77966,
+          40.61765
         ]
       }
     }
