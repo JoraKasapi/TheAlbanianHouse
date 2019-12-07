@@ -1440,7 +1440,134 @@
           40.61765
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Zengo'",
+        "description": "This house represents a 'guest-house', also known as 'mysafir-hane' a kind of service house used for guests or people serving the family but not for the family itself, therefore it anticipates the entrance to the main house, going first through a court-yard. On the ground floor, there is the main entrance gate, that opens to the 'porch' space also known as 'hajat', a wide space with the back open to the courtyard, which then continues to the main family residence. On this floor there is a bathroom and the staircase while the other two floors have the same floor-plan, but with different degrees of detail, with a living area and the adjacent corridor. The first-floor room is thought to be used for winter-time, treated with a chimney, while the second-floor room, with two facades facing each other, faces the courtyard and the street respectively, with large windows providing abundant lighting. On the other hand, the front wall with a full masonry that has a decorative chimney, never been used. In the space below the windows, 'minders'(small continuous sitting elements) were provided. Such treatment leads to the conclusion that it was used during the summer-time. The corridor at the front of the house, on the third floor, stands out in the shape of a corner also known as 'qoshku', with a large number of windows and high lighting possibilities. These elements are split between them with a wooden balustrade and have separate ceilings and floors of different levels. In the treatment of the facade of this house, there is an escalation from floor to floor, with the ground floor in a visible stone masonry, having the entrance gate as the only opening, on the second floor also visible stone masonry with interesting fractures due to the large raw, joints between the stones, with some more openings, compared to the ground floor. Meanwhile on the third floor, the corner 'qoshku', is perceived as a continuation of the facade because of the continuity in windows. It used to be a Cultural Monument. One of the heirs still lives there, the former basketball player Zhani Zengo.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Zengo%27",
+        "image": "foto_ndertesash/small/Korce/House_Zengo.jpg",
+        "large": "foto_ndertesash/Korce/House_Zengo.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78219,
+          40.61589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Lubonja'",
+        "description": "It is thought to have been built around 1927-1928. The house communicates with the adjacent building, which served as the officer's home. It was built by a family that has returned from immigration in America. It is inherited from the three daughters of the family and the upper floor has been rented over the years. The interior has not changed much. There is a small yard, on the back of the house, with a small well also. The floor are quite high around 3.60 m. Rooms have chimneys and below are the cellars, as food storage. In the 1980s restoration was realized on the upper floor, by the owner himself. ",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Lubonja%27",
+        "image": "foto_ndertesash/small/Korce/House_Lubonja.jpg",
+        "large": "foto_ndertesash/Korce/House_Lubonja.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78311,
+          40.61776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Gavril Peppo' House",
+        "description": "The construction of this house is thought to date back to 1924. Nowadays it is inherited from the bride of Gavril's son, the main source of the information about the history of this house, too. This house has always been inhabited by the original owners. The land was purchased by Gaqo Peppo and the house was subsequently built with architects and engineers. Initially, Gavril lived here with his parents, Katerina and Gaqo, along with his brother. Over the years the house has not lost its identity, the only functional change that has been made in the creation of a sanitary unit, since the bathrooms back then, were at the end of the yard, to the right. To make this change possible a wall has been moved and a window removed. <br />During the dictatorship, tenants were designated, by the state authorities, to share some of the spaces of the house with its original owners. One of the rooms in the house has long been discussed to be transformed into a museum for the valuable contribution Gavril has given to the country. This was not done initially, because permission was granted for the changes to the sanitary unit and also the permission to not have tenants anymore, in the house. Regarding this, Gavril Pepo's wife, Krisanthi, sent a letter to the head of state, Enver Hoxha, asking for permission for her son's return to Korce and that the house could only be used by family members. The house apart from all contains very interesting furniture, made in walnut and 100 years old. They are still in good condition, the floor is paved with wooden parquet. Exterior painting was re-done 6 years ago and its original color of the exterior was cream.",
+        "linked": "More photos for the house\n",
+        "image": "foto_ndertesash/small/Korce/House_on_Gavril_Peppo_street.jpg",
+        "large": "foto_ndertesash/Korce/House_on_Gavril_Peppo_street.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78097,
+          40.61458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Lego'",
+        "description": "The initial condition of the house has been poor. Over the years the number of family members increased, they were four brothers and each had their own family. This led to the construction of a house in 1957, a project made by Albanian architects. The exterior has no ornamental elements but a very interesting brick-work volumetry. Members who once lived upstairs, moved because space was insufficient for them. Even though the house is positioned on a cross-road, it contains a green courtyard.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Lego%27",
+        "image": "foto_ndertesash/small/Korce/House_Lego.jpg",
+        "large": "foto_ndertesash/Korce/House_Lego.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78260,
+          40.62312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Dako'",
+        "description": "It belongs to the Dako family who immigrated to the USA. it is believed it is divided in between two owners, the wall dividing its entrances re-enforces this idea. ",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_Dako,_Kor%C3%A7%C3%AB",
+        "image": "foto_ndertesash/small/Korce/House_Dako.jpg",
+        "large": "foto_ndertesash/Korce/House_Dako.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78372,
+          40.61396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House on the crossroad of 'Kristo Kirka' street and 'Alqi Kondi' street",
+        "description": "Characteristic architecture with detailed and ornamented facades, two of which develope along the main roads. ",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_on_%27Alqi_Kondi%27_street",
+        "image": "foto_ndertesash/small/Korce/House_on_Alqi_Kondi_street.jpg",
+        "large": "foto_ndertesash/Korce/House_on_Alqi_Kondi_street.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78423,
+          40.61563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Petro Nini Larasi' street",
+        "description": "This residence was one of the bases of the National Liberation War.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_on_%27Petro_Nini_Luarasi%27_street",
+        "image": "foto_ndertesash/small/Korce/House_on_Petro_Nini_Luarasi_street.jpg",
+        "large": "foto_ndertesash/Korce/House_on_Petro_Nini_Luarasi_street.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78468,
+          40.61626
+        ]
+      }
     }
+
 
 
 
