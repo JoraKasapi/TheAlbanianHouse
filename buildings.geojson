@@ -1980,8 +1980,277 @@
           40.07632
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Bizbiqi'",
+        "description": "Currently under the ownership of the 'Oruci' family, which is the second family in a row to have purchased this house, from the original 'Bizbiqi' family, more precisely in 1992. Because of several problems requiring intervention, both from a constructive and architectural point of view, a restoration project for this house was implemented in1974. The 'Bizbiqi' house was built in the Neighborhood '1Maj', along the hill and consequently to fit the terrain, it has an escalating volume. It belongs to the typology of houses with 'çardak' on one side and is developed on two floors, having a functional development, as most of the houses of this typology, precisely: ground floor with auxiliary facilities and first floor with the residential spaces. On the ground floor, there is this typical Albanian-houses porch, also known as 'hajat', while on the first floor a particular development as 'çardaku' takes place. In the front the 'hajat' is confined by a system of five stone-arches and out of the arches perimeter, a stone-staircase develops so that can connect, inhabitants on the ground floor with the 'çardak' area, which rises above the semicircular stone archways. This house does not have a 'sterë' like most of the Berat houses but has a small water tank at the bottom of the staircase with water filling from above. <br/>The floor is made up of the 'çardak' and five other areas connected through it. The 'çardak' has a rectangular development, in the 4: 1 length-to-width ratio, very different from the usual 3: 2 ratio in these houses. The house today has undergone many modifications and interventions, to adapt to its family living conditions, such as an enclosure of 'çardak' with windows and a horizontal sliding door platform, to close the staircase during the winter. This way the 'çardak' becomes a closed living-room space.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Bizbiqi%27",
+        "image": "foto_ndertesash/small/Berat/House_Bizbiqi.jpg",
+        "large": "foto_ndertesash/Berat/House_Bizbiqi.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.95243,
+          40.70697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " Ethnographic museum of Berat (House Xhokaxhinj)",
+        "description": "The Ethnographic Museum of Berat, otherwise known as the 'Xhokaxhinj' residence house. It belongs to the group-typology of houses with 'çardak' (one of the most spread housing typologies, throughout the country, during that period) and more precisely in the group-typology of houses with the 'çardak' on one side. The distinguishing feature of the house is the fact that it has an architectural treatment where open volumes of the porch('hajat') and the 'çardak' predominates, these interconnected with the characteristic staircase ramp, placed on a system of archways. Like many other houses, and under the influence of the time-factor, the volume has undergone a series of changes and transformations. According to studies done, two phases of construction are observed. In its original condition, the ground floor of the house, contained spaces like the 'hajat' (a kind of porch) and a 'katua'(space reserved to animals), while the upper floor consisted of the 'çardak', along the main front of the house interconnected with the fire-room and auxiliary spaces. The first phase interventions were made to add a second 'fire-room' thereby increasing the front-facing volume, with new 'fire-room' and taking that part of the space on the other room's direction, on its depth. The second phase interventions were made to extend the house in the wing's direction, changing the layout-plan, in the shape of the letter' L'. A characteristic of this typology with 'çardak', is that it is often associated with one or more types of 'corners' also known as 'qoshke', which on their exterior are realized by a lightweight wall with some windows on them. The original part of the 'cardak' with its corners ('qoshke'), as well as the 'oda e miqve'(guest-room), with all their constructive and architectural elements, are well preserved. Over the years, the house had degraded, starting with the block of rooms and the roof. The restoration project realized by, prof. E.Riza with the Atelier of the Institute of Monuments of Culture, in 1980, aimed at preserving the building-phases of the house. <br />Starting the work from the most degraded parts and continuing with the rebuilding of the rooms collapsed, on the second floor and beyond with the release of the staircase and works on the consolidation of missing elements throughout the house. All of these processes were done in the respect and preservation of the original traces. After the restoration process, the house was converted into an Ethnographic Museum appropriate for the historical and architectural values ​​it carries.",
+        "linked": "More photos for the museum\nhttps://commons.wikimedia.org/wiki/Category:Berat_Ethnographic_Museum",
+        "image": "foto_ndertesash/small/Berat/Ethnographic_Museum_Berat.jpg",
+        "large": "foto_ndertesash/Berat/Ethnographic_Museum_Berat.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.95043,
+          40.70765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House no.1 on 'Nikolla Buhuri' street",
+        "description": "Usually, for this type of house, the most widespread variation is for single-families but there are rare cases when it's used for two families, as the case of this house in question. The house has two separate entrances and the entrance to the residential spaces is realized through an internal staircase, a slightly forced solution, along with the asymmetry of the scheme, due to the urban situation. The necessity to leave space for the staircase next to the house has made the layout scheme not symmetrical for both families. The facade on the ground floor has visible stone walls with few small windows meanwhile the first-floor facade has been treated with white plaster, creating a more defined area around the bigger windows of the upper living spaces.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_on_%27Nikolla_Buhuri%27_street",
+        "image": "foto_ndertesash/small/Berat/House_on_Nikolla_Buhuri_street.jpg",
+        "large": "foto_ndertesash/Berat/House_on_Nikolla_Buhuri_street.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94629,
+          40.70199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House no.2  on 'Nikolla Buhuri' street",
+        "description": "The house in question is of the typology 'semi-floor with linear extention', but in addition to other types, this house has three living spaces on its first floor. Being a crucial part of the upper belt of the 'Gorice' Museum-Neighborhood, the space is very limited and being part of the residential belt, it affected the compositional organization, through including the stairs within the living space. The upper floor is exposed in the house's volumetry like a type of 'qoshk', to increase the inner living space. ",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_no.2_on_%27Nikolla_Buhuri%27_street",
+        "image": "foto_ndertesash/small/Berat/House_no_2_on_Nikolla_Buhuri_street.jpg",
+        "large": "foto_ndertesash/Berat/House_no_2_on_Nikolla_Buhuri_street.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94787,
+          40.70261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gesthouse 'Xheblati'",
+        "description": "This house belongs to the 'semi-floor with linear extension', unable for the house of abundant size to develop in-depth, because of the sloped terrain. It is a very interesting typology, very suitable for families with many members, due to their length extension. It is one of the best examples of adaptation to the terrain, of the construction and use of terrain formation to maximize the creation of suitable living spaces. There are two compositional schemes of this typology: one with one row of living spaces and an interconnecting element between them which is in contact with the terrain, and the two-row variation of the living spaces with the interconnecting element between them. The house in question is of the first variation with a row of residential rooms and is a very good example as this scheme provides a more appropriate natural lighting for the rooms. This house has a typical semi-floor structure with one side reaching 3-4 storeys height and has a particular solution. In addition to one main front entrance, there are two other secondary entrances from behind. The living-floor is cleaner according to its compositional arrangement and is organized in two groups of living spaces, the front part of which was reconstructed during the second half of the 19th century, with the small wooden boards wall-structure also known as 'çatma', used on both sides on which are applied two hands plaster, as well as another element, giving the opportunity to have large windows, for more light in the interior.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Xheblati%27",
+        "image": "foto_ndertesash/small/Berat/House_Xheblati.jpg",
+        "large": "foto_ndertesash/Berat/House_Xheblati.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94898,
+          40.70473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Xhymyrteku'",
+        "description": "This house is a typical representative of the semi-floor with linear extension', with two rows of living spaces, and is believed to belong to two families. The end areas are difficult to get natural light, because they are developed close to the rocky terrain, so in this scheme was found a very clever solution, with residential areas that develop in the second row of spaces, close to the hill, as the 'house of fire'(main living-room of the traditional houses) which develops at a considerable height, and starts from the ground floor. This space natural illumination is provided through the skylights also known as 'baxho'. This house too has undergone considerable renovations around the second half of the 19th century, and this is clearly distinguished both by the construction technique used, or the development of the living room space on the front facade, in the form of a corner also known as 'qoshku'.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Xhymyrteku%27",
+        "image": "foto_ndertesash/small/Berat/House_Xhymyrteku.jpg",
+        "large": "foto_ndertesash/Berat/House_Xhymyrteku.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94914,
+          40.70489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Bakellbashi'",
+        "description": "This house is one of the largest in the Mangalem neighborhood, horizontally spread. In the beginning, when it was owned by only one family, the entire house was connected, all the spaces communicated with each other. Today one half of the house belongs to the 'Bakellbashi' family meanwhile the other half (the one on the left) was given to the 'Berduni' family, who sold it to the 'Ymer Kordha' family, and today they are the current owners. The electrical and hydraulic systems were provided in the 41'. Its ground floor space, as it happened during that time was used to keep the livestock in the form of 'katonj' and for olive-oil production. The house used to have a water cistern, also known as 'stere' that today has been changed and used for other purposes. The house has a very well-preserved gues-room with a decorative dark wood ceiling, with a decorative chimney and also the unit 'musander+mafil' on one of the room-walls, rich in ornaments and details.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Bakellbashi%27",
+        "image": "foto_ndertesash/small/Berat/House_Bakellbashi.jpg",
+        "large": "foto_ndertesash/Berat/House_Bakellbashi.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94978,
+          40.70472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Çuka'",
+        "description": "It is currently inhabited by the 'Çuka' family, who is believed to have purchased it around the 90' from the original owner' Zoje Gjini'. These houses are part of the typology of the Berat houses, also known as me 'house with floor'. This typology, in general, is very rich in variations, somehow related to the changing of the number of spaces. The ground floor on this typology continues to be uninhabitable since it serves as a space for the livestock also known as 'katua', but in some cases there are two or more 'katonj', while the stairs are placed in a slightly more flexible way, to make the residential floor more rationally usable. Many houses of this typology, during the second half of the 19th century, have undergone some major renovations of their facades and in some cases have revitalized the volume of the first floor exposing it out, as a lounge-area also known as 'erker'. This was made to gain more space and to correct errors that may have been made in the ground floor space.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27%C3%87uka%27",
+        "image": "foto_ndertesash/small/Berat/House_Cuka.jpg",
+        "large": "foto_ndertesash/Berat/House_Cuka.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94097,
+          40.70433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of 'Llambe Aguridhi'",
+        "description": "The house belongs to the 'Merko' family today but has stayed closed for quite some time and it strikes your attention in the overall silhouette of Mangalem neighborhood.This house is part of the special-solutions category, where the effort to combine construction with the accidental terrain, has resulted in some not so easily identifiable typologies. On a stone board, on the courtyard-gate, is marked the year 1856, which is the year of its reconstruction after being demolished in 1851. This composition scheme is known for its height and treatment with different levels, floor spacing inequality and the existence of interconnecting spaces, on the frontline of the upper floor, the construction with columns and arches that create a kind of terrace also known as 'kamerieja', which gives this space a central composition in the house. The corner also known as 'qoshku' is similar to traditional houses in Korça.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Llambe_Aguridhi%27",
+        "image": "foto_ndertesash/small/Berat/House_Llamba_Aguridhi.jpg",
+        "large": "foto_ndertesash/Berat/House_Llamba_Aguridhi.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.95018,
+          40.70521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Dude Mishaxhiu",
+        "description": "Situated in what was once known as the '1st May' neighborhood, its original owner is believed to have been the same owner of the Bizbiqi Residence, on the same street, in front of it. This house is a cultural monument, despite the current bad condition and lack of treatment over the years, despite the interventions that most contributed to its alienation. This house was later owned by 'Dude Mishaxhiu' and 'Mrs. Antigoni Mishaxhiu' (an elderly woman) who still lives there.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Mishaxhiu%27",
+        "image": "foto_ndertesash/small/Berat/House_Mishaxhiu.jpg",
+        "large": "foto_ndertesash/Berat/House_Mishaxhiu.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.95261,
+          40.70706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Bullari'",
+        "description": "This house was declared a first category monument in1856. It is owned by two brothers and is currently separated physically by a wall that crosses through the outdoor entrance staircase, and the main lobby. It is currently in poor condition, with falling plaster pieces and decorative wood ceilings, which have created arches and spaces between wooden planks, that residents have been trying to repair with alternative forms to maintain their livelihood everyday needs. There is an interesting volumetric exit to the front of the house, to the space above the entrance stairs, very similar to the typical 'qoshk' of Korça houses.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Bullari%27",
+        "image": "foto_ndertesash/small/Berat/House_Bullari.jpg",
+        "large": "foto_ndertesash/Berat/House_Bullari.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94665,
+          40.70219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Lino'",
+        "description": " This house is a first category monument. The ground floor was built and served as a space reserved for animals also known as 'katonj'. It is believed to have been built around 1897-1898 and to have served as a military barracks. In 1948 the Lino family buys and owns it.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Lino%27",
+        "image": "foto_ndertesash/small/Berat/House_Lino.jpg",
+        "large": "foto_ndertesash/Berat/House_Lino.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94558,
+          40.70215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Picinane'",
+        "description": "House 'Picinane' is situated in front of the Ethnographic Museum. To accommodate the present living needs of the family, the house main structure has changed a lot especially in the interior space.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_%27Picinane%27",
+        "image": "foto_ndertesash/small/Berat/House_Picinane.jpg",
+        "large": "foto_ndertesash/Berat/House_Picinane.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94997,
+          40.70712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Stavri Duhanxhiut",
+        "description": "This house is situated in the 'Gorice' neighborhood and is an example of how a typical open house with 'cardak' of the first quarter of the 19th century, transforms into a closed house because of the changes of the economic and social life in Berat. Above one of the water cistern (stere), there's an inscription of the year 1864 which is believed to be the year of the third construction phase on the house. The house itself was realized during the second half of the 18th century. The house went through different changes apart from the çardak encloser, adding of new spaces to the house, or changing the facade language treatment. In 1972 some restoration and conservation works were realized and also around 2017-2018, through a collaboration between the CHWB-Albania and the DRKK of Berat, its full restoration was achieved.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_Stavri_Duhanxhiu",
+        "image": "foto_ndertesash/small/Berat/House_Stavri_Duhanxhiu.jpg",
+        "large": "foto_ndertesash/Berat/House_Stavri_Duhanxhiu.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94735,
+          40.70223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of 'Cac Dollani'",
+        "description": "This house is situated in the crossing of cobblestoned alleys, in one of the Castle's neighborhood. Its closed ground floor masonry walls, follow the perimeter of the alleys, meanwhile, the upper floor of the house stands out with three prismatic volumes, 'qoshk'. This house despite its unique volumetric development, it has also historic value, since it used to be one of the bases of 'The National Liberation Movement' (LNÇ).",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Cac_Dollani%27",
+        "image": "foto_ndertesash/small/Berat/House_Cac_Dollani.jpg",
+        "large": "foto_ndertesash/Berat/House_Cac_Dollani.JPG",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94617,
+          40.70967
+        ]
+      }
     }
-
 
 
 
