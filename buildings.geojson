@@ -2268,6 +2268,42 @@
          41.92555   
         ]
       }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Tefta Tashko Koço' street'",
+        "description": "This traditional house was listed as a 1st category Monument in December 1987 and one of the representatives of the traditional house of Tirana. The traditional house of Tirana, occupies a special position in the architecture of the Albanian urban houses. This house's walls range in width from 60 to 70 cm. The adobe bricks are tied with clay mortar mixed with straw. Every 1 m bands of adobe bricks wall, are tied to bands of wood with an anti-seismic function. Construction of these houses with adobe bricks is typical of Central Albania and was allowed as a type of construction in Tirana until around 1923. The facade wall of the 'guest room' on the upper floor, is made out of this traditional, older but light construction(wooden planks with layers of plaster), known as 'çatma'. It is believed to belong to one of the biggest families of the city, 'Toptani' family, more precisely belongs to Maliq Toptani. Today it is believed to be divided between two families, because of its two main entrances and the fact that the ground floor of one half of the house has gone through some reconstructions and changes from its original condition.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Cac_Dollani%27",
+        "image": "foto_ndertesash/small/Berat/House_Cac_Dollani.jpg",
+        "large": "foto_ndertesash/Berat/House_Cac_Dollani.JPG",
+        "exists": "Demolished"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82768,
+          41.32907        
+        ]
+      }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "name": "House on 'Mujo Ulqinaku' street",
+        "description": " A typical urban villa completely, today demolished, situated close to the Catholic Church 'Zemra e shenjte e Krishtit', on ' Kavaja' street. An authentic architecture and beautifully detailed facades, one of them facing 'Mujo Ulqinaku' street, contributed to shaping the urban silhouette of this street. It was surrounded by high walls, had two different entrances, one of them leading to a vast green backyard, a characteristic feature of the urban villas of the time as a crucial part of Tirana's city identity.",
+        "linked": "More photos for the house\nhttps://commons.wikimedia.org/wiki/Category:House_of_%27Cac_Dollani%27",
+        "image": "foto_ndertesash/small/Berat/House_Cac_Dollani.jpg",
+        "large": "foto_ndertesash/Berat/House_Cac_Dollani.JPG",
+        "exists": "Demolished"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.80925,
+          41.32709        
+        ]
+      }
     }
 
 
